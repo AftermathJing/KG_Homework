@@ -1,0 +1,362 @@
+[
+    {
+        "id": "cn_4_fulltext_1",
+        "topic": "论文信息",
+        "content": "知识图谱研究综述① 计算机系统应用 ISSN 1003-3254, CODEN CSAOBN E-mail: csa@iscas.ac.cn Computer Systems & Applications,2019,28(6):1−12 [doi: 10.15888/j.cnki.csa.006915] http://www.c-s-a.org.cn ©中国科学院软件研究所版权所有. Tel: +86-10-62661041 黄恒琪1, 于娟1, 廖晓2, 席运江3 1(福州大学经济与管理学院, 福州 350108) 2(广东金融学院互联网金融与信息工程学院, 广州 510521) 3(华南理工大学工商管理学院, 广州 510641) 通讯作者: 于娟, E-mail: yujuan@fzu.edu.cn 引用格式: 黄恒琪,于娟,廖晓,席运江.知识图谱研究综述.计算机系统应用,2019,28(6):1–12. http://www.c-s-a.org.cn/1003-3254/6915.html Review on Knowledge Graphs HUANG Heng-Qi1, YU Juan1, LIAO Xiao2, XI Yun-Jiang3 1(School of Economics and Management, Fuzhou University, Fuzhou 350108, China) 2(School of Internet Fiance and Information Engineering, Guangdong University of Finance, Guangzhou 510521, China) 3(School of Business Administration, South China University of Technology, Guangzhou 510641, China) ① 基金项目: 国家自然科学基金 (71771054); 福建省社会科学规划项目 (FJ2016C044) Foundation item: National Natural Science Foundation of China (71771054); Social Science Planning Project of Fujian Province (FJ2016C044) 收稿时间: 2018-12-25; 修改时间: 2019-01-03; 采用时间: 2019-01-17; csa 在线出版时间: 2019-05-25"
+    },
+    {
+        "id": "cn_4_fulltext_47",
+        "topic": "参考文献[1]",
+        "content": "1 Gruber TR. A translation approach to portable ontology specifications. Knowledge Acquisition, 1993, 5(2): 199–220."
+    },
+    {
+        "id": "cn_4_fulltext_48",
+        "topic": "参考文献[2]",
+        "content": "2 Pan JZ, Horrocks I. RDFS(FA): Connecting RDF(S) and OWL DL. IEEE Transactions on Knowledge and Data Engineering, 2007, 19(2): 192–206. [doi: 10.1109/TKDE.2007.37]"
+    },
+    {
+        "id": "cn_4_fulltext_49",
+        "topic": "参考文献[3]",
+        "content": "3 Mcguinness DL, Harmelen F. OWL Web ontology language overview. W3C Recommendation, 2004, 63(45): 990–996."
+    },
+    {
+        "id": "cn_4_fulltext_50",
+        "topic": "参考文献[4]",
+        "content": "4 Brookes BC. The foundations of information science. Part Ⅲ: Quantitative aspects: Objective maps and subjective landscapes. Journal of Information Science, 1980, 2(6): 269–275. [doi: 10.1177/016555158000200602]"
+    },
+    {
+        "id": "cn_4_fulltext_51",
+        "topic": "参考文献[5]",
+        "content": "5 马费成. 论布鲁克斯情报学基本理论. 情报学报, 1983, 2(4):314–324."
+    },
+    {
+        "id": "cn_4_fulltext_52",
+        "topic": "参考文献[6]",
+        "content": "6 陈强, 廖开际, 奚建清. 知识地图研究现状与展望. 情报杂志, 2006, 25(5): 43–46. [doi: 10.3969/j.issn.1002-1965.2006.05.016]"
+    },
+    {
+        "id": "cn_4_fulltext_53",
+        "topic": "参考文献[7]",
+        "content": "7 Zins C. Knowledge map of information science. Journal of the Association for Information Science and Technology, 2007, 58(4): 526–535."
+    },
+    {
+        "id": "cn_4_fulltext_54",
+        "topic": "参考文献[8]",
+        "content": "8 陈悦, 陈超美, 刘则渊, 等. CiteSpace 知识图谱的方法论功能. 科学学研究, 2015, 33(2): 242–253. [doi: 10.3969/j.issn.1003-2053.2015.02.009]"
+    },
+    {
+        "id": "cn_4_fulltext_55",
+        "topic": "参考文献[9]",
+        "content": "9 Garfield E. Citation indexes for science: A new dimension in documentation through association of ideas. Science, 1955, 122(3159): 108–111. [doi: 10.1126/science.122.3159.108]"
+    },
+    {
+        "id": "cn_4_fulltext_56",
+        "topic": "参考文献[10]",
+        "content": "10 de Solla Price DJ. Networks of scientific papers. Science, 1965, 149(3683): 510–515. [doi: 10.1126/science.149.3683.510]"
+    },
+    {
+        "id": "cn_4_fulltext_57",
+        "topic": "参考文献[11]",
+        "content": "11 陈悦, 刘则渊. 悄然兴起的科学知识图谱. 科学学研究,2005, 23(2): 149–154. [doi: 10.3969/j.issn.1003-2053.2005.02.002]"
+    },
+    {
+        "id": "cn_4_fulltext_58",
+        "topic": "参考文献[12]",
+        "content": "12 秦长江, 侯汉清. 知识图谱——信息管理与知识管理的新领域. 大学图书馆学报, 2009, 27(1): 30–37. [doi: 10.3969/j. issn.1002-1027.2009.01.007]"
+    },
+    {
+        "id": "cn_4_fulltext_59",
+        "topic": "参考文献[13]",
+        "content": "13 徐增林, 盛泳潘, 贺丽荣, 等. 知识图谱技术综述. 电子科技大学学报, 2016, 45(4): 589–606. [doi: 10.3969/j.issn.1001-0548.2016.04.012]"
+    },
+    {
+        "id": "cn_4_fulltext_60",
+        "topic": "参考文献[14]",
+        "content": "14 Fellbaum C. WordNet: An Electronic Lexical Database.Cambridge: MIT Press, 1998."
+    },
+    {
+        "id": "cn_4_fulltext_61",
+        "topic": "参考文献[15]",
+        "content": "15 Guha RV, Lenat D. CYC: A large-scale investment in knowledge infrastructure. Applied Artificial Intelligence, 1990, 5(1): 45–86. [doi: 10.1080/08839519108927917]"
+    },
+    {
+        "id": "cn_4_fulltext_62",
+        "topic": "参考文献[16]",
+        "content": "16 You B, Liu XR, Li N, et al. Using information content to evaluate semantic similarity on HowNet. Proceedings of 2012 Eighth International Conference on Computational Intelligence and Security. Guangzhou, China. 2013."
+    },
+    {
+        "id": "cn_4_fulltext_63",
+        "topic": "参考文献[17]",
+        "content": "17 YAGO (database). http://www.yago.com/, [2015-01-08].10 专论•综述 Special Issue"
+    },
+    {
+        "id": "cn_4_fulltext_64",
+        "topic": "参考文献[18]",
+        "content": "18 Auer S, Bizer C, Kobilarov G, et al. DBpedia: A nucleus for a web of open data. Proceedings of the Semantic Web, International Semantic Web Conference, Asian Semantic Web Conference, ISWC 2007+Aswc 2007. Busan, Korea. 2007. 722–735."
+    },
+    {
+        "id": "cn_4_fulltext_65",
+        "topic": "参考文献[19]",
+        "content": "19 Xu B, Xu Y, Liang JQ, et al. CN-DBpedia: A never-ending Chinese knowledge extraction system. Proceedings of the 30th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems. Arras, France. 2017. 428–438."
+    },
+    {
+        "id": "cn_4_fulltext_66",
+        "topic": "参考文献[20]",
+        "content": "20 Niu X, Sun XR, Wang HF, et al. Zhishi.me-weaving Chinese linking open data. Proceedings of the 10th International Semantic Web Conference. Bonn, Germany. 2011. 205–220."
+    },
+    {
+        "id": "cn_4_fulltext_67",
+        "topic": "参考文献[21]",
+        "content": "21 胡芳槐. 基于多种数据源的中文知识图谱构建方法研究[博士学位论文]. 上海: 华东理工大学, 2015."
+    },
+    {
+        "id": "cn_4_fulltext_68",
+        "topic": "参考文献[22]",
+        "content": "22 GeoNames. http://www.geonames.org/, [2018-02-27]."
+    },
+    {
+        "id": "cn_4_fulltext_69",
+        "topic": "参考文献[23]",
+        "content": "23 朱嫣岚, 闵锦, 周雅倩, 等. 基于 HowNet 的词汇语义倾向计算. 中文信息学报, 2006, 20(1): 16–22."
+    },
+    {
+        "id": "cn_4_fulltext_70",
+        "topic": "参考文献[24]",
+        "content": "24 THUOCL: 清华大学开放中文词库. http://thuocl.thunlp. org/, [2018-09-07]."
+    },
+    {
+        "id": "cn_4_fulltext_71",
+        "topic": "参考文献[25]",
+        "content": "25 大词林. http://www.bigcilin.com, [2017-03-27]."
+    },
+    {
+        "id": "cn_4_fulltext_72",
+        "topic": "参考文献[26]",
+        "content": "26 Zhishi.me. http://zhishi.me/api. [2018-12–23]."
+    },
+    {
+        "id": "cn_4_fulltext_73",
+        "topic": "参考文献[27]",
+        "content": "27 CN-Probase. http://kw.fudan.edu.cn/, [2016-05-18]."
+    },
+    {
+        "id": "cn_4_fulltext_74",
+        "topic": "参考文献[28]",
+        "content": "28 XLore. http://xlore.org/, [2019-03-23]."
+    },
+    {
+        "id": "cn_4_fulltext_75",
+        "topic": "参考文献[29]",
+        "content": "29 Lenat DB. CYC: A large-scale investment in knowledge infrastructure. Communications of the ACM, 1995, 38(11): 33–38. [doi: 10.1145/219717.219745]"
+    },
+    {
+        "id": "cn_4_fulltext_76",
+        "topic": "参考文献[30]",
+        "content": "30 Miller GA. WordNet: A lexical database for English. Communications of the ACM, 1995, 38(11): 39–41. [doi: 10.1145/219717.219748]"
+    },
+    {
+        "id": "cn_4_fulltext_77",
+        "topic": "参考文献[31]",
+        "content": "31 高雪霞, 炎士涛. 基于 WordNet 词义消歧的语义检索研究.湘潭大学自然科学学报, 2017, 39(2): 118–121."
+    },
+    {
+        "id": "cn_4_fulltext_78",
+        "topic": "参考文献[32]",
+        "content": "32 Speer R, Havasi C. ConceptNet 5: A large semantic network for relational knowledge. In: Gurevych I, Kim J, eds. The People’s Web Meets NLP. Berlin: Springer, 2013. 161–176."
+    },
+    {
+        "id": "cn_4_fulltext_79",
+        "topic": "参考文献[33]",
+        "content": "33 Lieberman H, Faaborg A, Daher W, et al. How to wreck a nice beach you sing calm incense. Proceedings of the 10th International Conference on Intelligent User Interfaces. San Diego, CA, USA. 2005. 278–280."
+    },
+    {
+        "id": "cn_4_fulltext_80",
+        "topic": "参考文献[34]",
+        "content": "34 de Medeiros Caseli H, Sugiyama BA, Anacleto JC. Using common sense to generate culturally contextualized machine translation. Proceedings of the NAACL Hlt 2010 Young Investigators Workshop on Computational Approaches To Languages of the Americas. Los Angeles, CA, USA. 2010. 24–31."
+    },
+    {
+        "id": "cn_4_fulltext_81",
+        "topic": "参考文献[35]",
+        "content": "35 Speer R, Lowry-Duda J. ConceptNet at SemEval-2017 Task2: Extending word embeddings with multilingual relational knowledge. arXiv: 1704.03560, 2017."
+    },
+    {
+        "id": "cn_4_fulltext_82",
+        "topic": "参考文献[36]",
+        "content": "36 Nguyen TN, Takeda H, Nguyen K, et al. A novel method to predict type for DBpedia entity. In: Sieminski A, Kozierkiewicz A, Nunez M, et al, eds. Modern Approaches for Intelligent Information and Database Systems. Cham: Springer, 2018."
+    },
+    {
+        "id": "cn_4_fulltext_83",
+        "topic": "参考文献[37]",
+        "content": "37 朝乐门, 张勇, 邢春晓. DBpedia 及其典型应用. 现代图书情报技术, 2011, 27(3): 80–87."
+    },
+    {
+        "id": "cn_4_fulltext_84",
+        "topic": "参考文献[38]",
+        "content": "38 Suchanek FM, Kasneci G, Weikum G. YAGO: A large ontology from wikipedia and WordNet. Journal of Web Semantics, 2008, 6(3): 203–217. [doi: 10.1016/j.websem.2008.06.001]"
+    },
+    {
+        "id": "cn_4_fulltext_85",
+        "topic": "参考文献[39]",
+        "content": "39 Thrasher EP, Perry AD. High-leverage apps for the mathematics classroom: WolframAlpha. The Mathematics Teacher, 2015, 109(1): 66–70. [doi: 10.5951/mathteacher.109.1.0066]"
+    },
+    {
+        "id": "cn_4_fulltext_86",
+        "topic": "参考文献[40]",
+        "content": "40 Wu WT, Li HS, Wang HX, et al. Probase: A probabilistic taxonomy for text understanding. Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data. Scottsdale, AZ, USA. 2012. 481–492."
+    },
+    {
+        "id": "cn_4_fulltext_87",
+        "topic": "参考文献[41]",
+        "content": "41 NELL. http://rtw.ml.cmu.edu, [2015-12-27]."
+    },
+    {
+        "id": "cn_4_fulltext_88",
+        "topic": "参考文献[42]",
+        "content": "42 Erxleben F, Günther M, Krötzsch M, et al. Introducing wikidata to the linked data web. Proceedings of the 13th International Semantic Web Conference. Riva del Garda, Italy. 2014. 50–65."
+    },
+    {
+        "id": "cn_4_fulltext_89",
+        "topic": "参考文献[43]",
+        "content": "43 贾君枝, 薛秋红. Wikidata 的特点、数据获取与应用. 图书情报工作, 2016, 60(17): 136–141, 148."
+    },
+    {
+        "id": "cn_4_fulltext_90",
+        "topic": "参考文献[44]",
+        "content": "44 Navigli R, Ponzetto SP. BabelNet: Building a very large multilingual semantic network. Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics. Uppsala, Sweden. 2010. 216–225."
+    },
+    {
+        "id": "cn_4_fulltext_91",
+        "topic": "参考文献[45]",
+        "content": "45 Navigli R, Ponzetto SP. BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network. Artificial Intelligence, 2012, 193: 217–250. [doi: 10.1016/j.artint.2012.07.001]"
+    },
+    {
+        "id": "cn_4_fulltext_92",
+        "topic": "参考文献[46]",
+        "content": "46 Microsft Concept Graph. http://concept.research.microsoft. com/."
+    },
+    {
+        "id": "cn_4_fulltext_93",
+        "topic": "参考文献[47]",
+        "content": "47 王巍巍, 王志刚, 潘亮铭, 等. 双语影视知识图谱的构建研究. 北京大学学报 (自然科学版), 2016, 52(1): 25–34."
+    },
+    {
+        "id": "cn_4_fulltext_94",
+        "topic": "参考文献[48]",
+        "content": "48 Zeng Y, Zhang T, Hao H. Active recommendation of tourist attractions based on visitors interests and semantic relatedness. In: Ślȩzak D, Schaefer G, Vuong ST, et al, eds. Active Media Technology. Cham: Springer, 2014. 263–273."
+    },
+    {
+        "id": "cn_4_fulltext_95",
+        "topic": "参考文献[49]",
+        "content": "49 华人家谱关联数据集. http://openkg.cn/dataset/jp."
+    },
+    {
+        "id": "cn_4_fulltext_96",
+        "topic": "参考文献[50]",
+        "content": "50 乳腺癌知识图谱. http://wasp.cs.vu.nl/BreastCancerKG/.Special Issue 专论•综述 11"
+    },
+    {
+        "id": "cn_4_fulltext_97",
+        "topic": "参考文献[51]",
+        "content": "51 中医药学语义网络. http://www.tcminformatics.org/wiki/ index.php/graph."
+    },
+    {
+        "id": "cn_4_fulltext_98",
+        "topic": "参考文献[52]",
+        "content": "52 中医药知识图谱. http://www.tcmkb.cn/kg/index.php."
+    },
+    {
+        "id": "cn_4_fulltext_99",
+        "topic": "参考文献[53]",
+        "content": "53 Belleau F, Nolin MA, Tourigny N, et al. Bio2RDF: Towards a mashup to build bioinformatics knowledge systems. Journal of Biomedical Informatics, 2008, 41(5): 706–716. [doi: 10.1016/j.jbi.2008.03.004]"
+    },
+    {
+        "id": "cn_4_fulltext_100",
+        "topic": "参考文献[54]",
+        "content": "54 Sohn JS, Chung IJ. Dynamic FOAF management method for social networks in the social web environment. The Journal of Supercomputing, 2013, 66(2): 633–648. [doi: 10.1007/ s11227-012-0847-x]"
+    },
+    {
+        "id": "cn_4_fulltext_101",
+        "topic": "参考文献[55]",
+        "content": "55 Amerland D. 谷歌语义搜索. 程龚, 译. 北京: 人民邮电出版社, 2015. 12–31."
+    },
+    {
+        "id": "cn_4_fulltext_102",
+        "topic": "参考文献[56]",
+        "content": "56 曹倩, 赵一鸣. 知识图谱的技术实现流程及相关应用. 情报理论与实践, 2015, 38(12): 127–132."
+    },
+    {
+        "id": "cn_4_fulltext_103",
+        "topic": "参考文献[57]",
+        "content": "57 赵世奇. 百度知识图谱: 人工智能的知识心脏. 福州: 中国计算机大会, 2017."
+    },
+    {
+        "id": "cn_4_fulltext_104",
+        "topic": "参考文献[58]",
+        "content": "58 Fader. Paralex. http://knowitall.cs.washington.edu/paralex, [2016-05-08]."
+    },
+    {
+        "id": "cn_4_fulltext_105",
+        "topic": "参考文献[59]",
+        "content": "59 Wikipedia. Evi. http://en.wikipedia.org/wiki/Evi_(software), [2016-03-18]."
+    },
+    {
+        "id": "cn_4_fulltext_106",
+        "topic": "参考文献[60]",
+        "content": "60 Siri. https://www.apple.com/ios/siri/, [2016-05-02]."
+    },
+    {
+        "id": "cn_4_fulltext_107",
+        "topic": "参考文献[61]",
+        "content": "61 Wikipedia. Mobvoi. https://en.wikipedia.org/wiki/Mobvoi, [2018-03-20]."
+    },
+    {
+        "id": "cn_4_fulltext_108",
+        "topic": "参考文献[62]",
+        "content": "62 Wong W, Liu W, Bennamoun M. Ontology learning from text: A look back and into the future. ACM Computing Surveys, 2012, 44(4): Article No.20."
+    },
+    {
+        "id": "cn_4_fulltext_109",
+        "topic": "参考文献[63]",
+        "content": "63 徐波. 百科知识图谱构建. http://cips-upload.bj.bcebos.com/ ccks2017/upload/百科知识图谱构建_徐波 CCKS2017.pdf."
+    },
+    {
+        "id": "cn_4_fulltext_110",
+        "topic": "参考文献[64]",
+        "content": "64 RDF Access to Relational Databases. http://www.w3.org/ 2003/01/21-RDF-RDB-access/, [2003-01-21]."
+    },
+    {
+        "id": "cn_4_fulltext_111",
+        "topic": "参考文献[65]",
+        "content": "65 邹磊. 浅谈知识图谱数据管理. http://blog.openkg.cn/邹磊-浅谈知识图谱数据管理/, [2017-04-27]."
+    },
+    {
+        "id": "cn_4_fulltext_112",
+        "topic": "参考文献[66]",
+        "content": "66 Pan ZX, Heflin J. DLDB: Extending relational databases to support semantic web queries. Proceedings of the First International Workshop on Practical and Scalable Semantic Systems. Sanibel Island, FL, USA. 2003. 109–113."
+    },
+    {
+        "id": "cn_4_fulltext_113",
+        "topic": "参考文献[67]",
+        "content": "67 Neo4j. https://neo4j.com/, [2018-03-06]."
+    },
+    {
+        "id": "cn_4_fulltext_114",
+        "topic": "参考文献[68]",
+        "content": "68 AllegroGraph. https://allegrograph.com/, [2018-02-08]."
+    },
+    {
+        "id": "cn_4_fulltext_115",
+        "topic": "参考文献[69]",
+        "content": "69 Zou L, Özsu MT, Chen L, et al. gStore: A graph-based SPARQL query engine. The VLDB Journal, 2014, 23(4): 565–590. [doi: 10.1007/s00778-013-0337-7]"
+    },
+    {
+        "id": "cn_4_fulltext_116",
+        "topic": "参考文献[70]",
+        "content": "70 Erling O, Mikhailov I. Virtuoso: RDF Support in a native RDBMS. de Virgilio R, Giunchiglia F, Tanca L. Semantic Web Information Management. Berlin, Heidelberg: Springer, 2010. 501–519."
+    },
+    {
+        "id": "cn_4_fulltext_117",
+        "topic": "参考文献[71]",
+        "content": "71 mongoDB. https://www.mongodb.com/, [2018-03-08]."
+    }
+]

@@ -1,0 +1,115 @@
+What Is a Knowledge Graph?
+By: Shannon Kempe
+Published: February 27, 2025
+
+Table of Contents
+Knowledge Graph Database Defined
+What Are the Different Types of Knowledge Graphs?
+Content-Centric Knowledge Graphs
+Is a Knowledge Graph the Same as a Property Graph?
+Is a Knowledge Graph the Same as a Vector Database?
+What Are the Key Capabilities of a Knowledge Graph?
+What Challenges Does a Knowledge Graph Pose?
+Knowledge Graph Use Cases
+Knowledge Graphs and Future Technologies
+A knowledge graph is a structured data representation that reveals patterns and connections in the real world. It consists of three components:
+
+Nodes: Real-world concepts – including entities,  people, places, and things.
+
+Edges: Connections between the nodes – including activities and characteristics between nodes.
+
+Properties: Labels that provide additional context about the nodes, relationships, or both.
+
+See the image below:
+
+
+Image Credit: GitHub
+This model unifies disparate pieces of data while simultaneously providing context. In the example above people, institutes, courses, and a city are all linked together.
+
+This knowledge graph depicts an ontology, a conceptual model of a subject area. However, many knowledge graph applications change in real time, pruning or adding nodes and relationships.
+
+This flexibility helps users see correlations that they may miss in other visualizations. It is adaptable to learning. Originally, the term was used in 1972 by Edgar W. Schneider for a discussion on how to build modular instruction systems for courses. Later, these graphs became invaluable for AI models to learn natural language processing (NLP) to understand and communicate with people.
+
+Knowledge Graph Database Defined
+Several definitions note that a knowledge graph can be referred to as a semantic network, a web of entities and their meanings. In the late 1980s, knowledge graph creation focused on designing semantic networks to make algebra on a graph easier.
+
+Later, in 2012, Google applied this technology to its “Knowledge Graph,” to discover facts relevant to user searches.
+
+In addition to uncovering meanings, authorities emphasize the physical structure of a knowledge graph. Various sources produce data in an ad-hoc fashion; so while the organization stays the same, its shape changes. Regardless, a knowledge graph depicts the physical or online world at that time.
+
+What Are the Different Types of Knowledge Graphs?
+A knowledge graph can be built using Resource Description Format (RDF), representing an ontology or linking content stored in a database system. The first focuses on the nodes or entities, and the second on linking to the information that is there. These differences distinguish two types: an entity-centric knowledge graph and a content-centric knowledge graph.
+
+Entity-Centric Knowledge Graphs
+
+An entity-centric graph stems from RDF technology, and handles intricate domains that lack standardization. Relationships and associated information branches out from one or more central nodes. See the example below of a specific patient:
+
+
+Image Credit: AIhub.org
+Entity graphs offer more opportunities to improve data quality through entity resolution (ER), an advanced data-matching approach. Also, these models go into more detail about the relationships. However, they require substantial expertise to create, maintain, and query.
+
+Content-Centric Knowledge Graphs
+Building a content-centric knowledge graph requires chunking the details upfront – such as a section of text, a picture, or a table column. Then the graphing application automatically identifies the connections between the pieces – such as a particular model number is connected to a price and a rider has a skill level.
+
+Taking this strategy when developing a knowledge graph can enhance how AI improves its quality based on the retrieval-augmented generation (RAG) technique. Essentially, the AI model uses an external knowledge base to enrich its training or responses. However, the increased speed and scalability mean a diminished data quality.
+
+Is a Knowledge Graph the Same as a Property Graph?
+Some people may consider a property graph a type of knowledge graph. However, while a KG may have a property graph as its basis, it is not the same.
+
+Property graphs are multi-relational, and have a start node and an end node. See the example below:
+
+
+Image Credit: Thomas Frisendal
+In the image above, the customer relates to a product by what their cart contains. Knowledge graphs do not have this limitation and can have bi-directional relationships. See here for more details.
+
+Is a Knowledge Graph the Same as a Vector Database?
+No, a vector database is not even a graph database (see here for more details). Vector databases organize around graph embeddings and handle high volumes of high-dimensional values characterized by magnitude and direction.
+
+On the other hand, knowledge graphs capture more meaning and context. This functionality leads to a better understanding of a query.
+
+What Are the Key Capabilities of a Knowledge Graph?
+A knowledge graph integrates data from various sources through its meaning. Consequently, this graph type captures complex relationships between nodes and gives meaningful context to AI models. Specifically, these models are:
+
+Extensible: They accommodate diverse data and metadata that evolve over time.
+Searchable: They have introspection and querying ability. The knowledge graph can be inspected to find what things are knowable and findable.
+Semantic-Based: The meaning of the data is stored within the knowledge graph alongside the data to understand connections.
+Intelligence Enabling: Knowledge graphs help users infer dependencies and other relationships between objects.
+Adaptable: As an organization’s information needs change, the knowledge graph accommodates.
+What Challenges Does a Knowledge Graph Pose?
+While knowledge graphs make valuable assets, they do come with challenges. Common challenges include:
+
+Query Difficulties: Each knowledge graph tool has its own query language and results can take a long time to load.
+Data Quality: Knowledge graph data can be:
+Sparse or missing
+Incorrect or unverifiable
+Obsolete
+Duplicated
+Data Lineage: Getting a clear and comprehensive view of where the data has come from and how it moves proves challenging in knowledge graph. The model keeps evolving without tracking the details as to what has changed.
+Schema Inconsistencies: As knowledge graphs expand and change, they may no longer conform to the original schema or concept.
+Lack of Standardization: The data represented in a knowledge graph has various quality and formatting, depending on its source. Consequently, this data lacks standardization and may not integrate well.
+To deal with these issues, Dan Collier and Jeremy Debattista recommend training staff, preparing data architecture, integrating and interlinking data assets, and improving data quality before implementing a knowledge graph.
+
+Knowledge Graph Use Cases
+Despite its limitations, many industries find knowledge graphs useful. Here are a few examples:
+
+Healthcare: The program Child Health Exposure Analysis Repository (CHEAR) demonstrates how knowledge graphs advance medical research. A knowledge graph that combined children’s patient data, genomic information, environmental exposures, and epidemiological studies gives clinicians crucial insights into how environmental exposures may affect health and lead to disease.
+Finance: Banks use knowledge graphs to link and bridge data silos, significantly improving their AI/ML capabilities. This architecture enhances:
+Risk management
+Fraud detection
+Anti-money laundering
+Insider trading monitoring
+Retail: The Bumble Bee Food’s “Trace My Catch” website gives consumers an understanding of the product, from the fish caught to the can purchased. Additionally, Bumble Bee can use this information to contain any food safety hazards in the product.
+Higher Education: Universities want to facilitate a deeper understanding of a subject through social media, a valuable tool. However, accessing this topic can be challenging when it is interdisciplinary. The American University of Beirut experimented with a knowledge graph as a solution. Its connections connected courses from different disciplines and helped students understand the big picture.
+Industry-Specific Adaptations: Various industries are tailoring their knowledge graphs for better contextual understanding and business improvements. Already, the health sciences are finding connections between new molecules and retailers target recommendations to consumers. As the marketplace changes, industries will find new ways to tailor graphs to their needs.
+These success stories cover only the tip of the iceberg as organizations will keep applying knowledge graphs into the future.
+
+Knowledge Graphs and Future Technologies
+While knowledge graphs are critical business solutions, their capabilities will revolutionize emerging technologies and current processes in these key areas:
+
+AI and Natural Language Enhancement: Generative AI models and knowledge graph applications will continue to evolve and integrate capabilities in advancing natural language processing and understanding. These large language models (LLMs) will use the knowledge graphs’ structured approach to enhance reasoning powers and enable more cross-lingual applications.
+Temporal Analysis and Prediction: Knowledge graphs will improve predictive analytics through more efficient capture of historical data and relationship matching. Insights will be generated more quickly by the adoption of the temporal knowledge graphs (TKG) that timestamp events combined with learning loops, feeding experimental data back into graph design.
+Data Model Advancement and Data Governance: Knowledge graphs will improve their data quality as data models ¾ the documentation of data ecosystems ¾  become more accurate and trustworthy. Organizations will advance their data governance frameworks and tooling, improving models. They will make it easier to check data quality, obey regulatory requirements, and picture the effectiveness of their governance efforts.
+Blockchain Technologies: Blockchain technologies will benefit greatly from the knowledge graph’s semantic capabilities and transparency, improving administration of smart contracts. Additionally, knowledge graphs will enhance blockchain interoperability between different blockchain networks.
+Real-Time Processing Capabilities and the Internet of Things (IoT): Organizations will gravitate to dynamic knowledge graphs (DKG) that update in real time, improving user searches and integrating new ideas and terms. Furthermore, these graphs will facilitate management of massive data streams. They will improve the IoT’s data quality, identity management, and enable context-aware decisions at the edge.
+Quantum Computing: As quantum computing becomes more prevalent, knowledge graphs will become essential tools for developing and optimizing quantum algorithms.  This partnership will revolutionize pattern recognition and relationship discovery within massive datasets.
+Understanding and using knowledge graphs will continue to increase in importance in the future.

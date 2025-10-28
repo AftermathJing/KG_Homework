@@ -1,0 +1,4 @@
+nltk
+unstructured
+pi_heif
+pdf2image

@@ -1,0 +1,120 @@
+What Is a Knowledge Graph?
+Photo of John Stegeman
+John Stegeman
+
+Graph Database Product Specialist, Neo4j
+
+July 22, 2024
+12 min read
+
+What is a knowledge graph?
+A opens in new tabknowledge graph is an organized representation of real-world entities and their relationships. It is typically stored in a graph database, which natively stores the relationships between data entities. Entities in a knowledge graph can represent objects, events, situations, or concepts. The relationships between these entities capture the context and meaning of how they are connected.
+
+A knowledge graph stores data and relationships alongside frameworks known as organizing principles. They can be thought of as rules or categories around the data that provide a flexible, conceptual structure to drive deeper data insights. The usefulness of a knowledge graph lies in the way it organizes the principles, data, and relationships to surface new knowledge for your user or business. The design is useful for many usage patterns, including real-time applications, search and discovery, and opens in new tabgrounding generative AI for question-answering.
+
+Sometimes, people overcomplicate the concept of a knowledge graph. You might hear about enterprise-wide structures that consolidate and connect information across data silos and various sources. While that does describe a knowledge graph (one that can underpin a data integration use case), it describes one with a wide scope. Thinking only in terms of bridging large datasets and multiple data sources can make creating and implementing knowledge graphs seem complicated and time-consuming. But knowledge graphs don’t need to be broad or elaborate. You can opens in new tabbuild one with a much smaller scope to solve a use-case-specific problem.
+
+How Knowledge Graphs Work
+You may have heard of knowledge graphs in the context of search engines. The opens in new tabGoogle Knowledge Graph changed how we search for and find information on the Web. It amasses facts about people, places, and things into an organized network of entities. When you do a Google search for information, it uses the connections between entities to surface the most relevant results in context, for example, in the box Google calls the “opens in new tabknowledge panel.”
+
+La sagrada familia: Google knowledge graph.
+The Google knowledge panel of La Sagrada Familia includes an image of the site, a map, a description, address, hours of operation, the architects who built it, its height, and more.
+The entities in the Google knowledge graph represent the world as we know it, marking a shift from “strings to things.” Behind this simple phrase is the profound concept of treating information on the web as entities rather than a bunch of text. Since information is organized as a network of entities, Google can tap into the collective intelligence of the knowledge graph to return results tailored to the meaning of your query rather than a simple keyword match.
+
+
+Read a Complimentary Gartner® Report on Knowledge Graphs for AI
+Read the Report
+Key Characteristics
+Now that you understand how knowledge graphs organize and access data with context, let’s look at the building blocks of a knowledge graph data model. The definition of knowledge graphs varies depending on whom you ask, but we can distill the essence into three key components: nodes, relationships, and organizing principles.
+
+Nodes
+Nodes denote and store details about entities, such as people, places, objects, or institutions. Each node has a (or sometimes several) label to identify the node type and may optionally have one or more properties (attributes). Nodes are also sometimes called vertices.
+
+For example, the nodes in an e-commerce knowledge graph typically represent entities such as people (customers and prospects), products, and orders:
+
+Example of nodes in an e-commerce graph.
+Relationships
+Relationships link two nodes together: they show how the entities are related. Like nodes, each relationship has a label identifying the relationship type and may optionally have one or more properties. Relationships are also sometimes called edges.
+
+In the e-commerce example, relationships exist between the customer and order nodes, capturing the “placed order” relationship between customers and their orders:
+
+Relationship of a person to Order.
+Organizing Principle(s)
+Organizing Principles are a framework, or schema, that organizes nodes and relationships according to fundamental concepts essential to the use cases at hand. Unlike many data designs, knowledge graphs easily incorporate multiple organizing principles.
+
+Organizing principles range from simple (product line -> product category -> product taxonomy) to complex (a complete business vocabulary that explains the data in the graph). Think of an organizing principle as a conceptual map or metadata layer overlaying the data and relationships in the graph.
+
+The model uses the same node-and-relationship structure as the rest of the knowledge graph to describe the organizing principles – which means you can write queries that draw from both instance data and organizing principles.
+
+In the e-commerce example, an organizing principle might be product types and categories:
+
+Organizing principle of a knowledge graph.
+What About Ontologies?
+When learning about knowledge graphs, you might come across articles on ontologies and wonder where they fit in. An ontology is a formal specification of the concepts and the relationships between them for a given subject area; semantic networks are a common way to represent ontologies. Put simply, ontologies are a type of organizing principle.
+
+Ontologies can be complex and require a great deal of effort to define and maintain. When deciding whether an ontology is needed, it’s critical to consider the problems you’re trying to solve with a knowledge graph. In many cases, it won’t be necessary. In the e-commerce example, using a product taxonomy as the organizing principle is sufficient for a product recommendation use case.
+
+Think of the knowledge graph as a growing, evolving system to simplify your design in the early stages and deliver value sooner. If you pick the right technology to implement your knowledge graph, you can expand and evolve the graph as your needs change. In this way, you can add ontologies when your use case requires them rather than forcing yourself to build them up-front.
+
+Knowledge Graph Example
+Let’s see what a knowledge graph might look like. Below is a simple knowledge graph of the e-commerce example that shows nodes as circles and relationships between them as arrows. The organizing principles are also stored as nodes and relationships, so the illustration uses some color shading to show which nodes and relationships are the instance data and which are the organizing principles:
+
+Example of a knowledge graph.
+An example knowledge graph showing nodes as circles and relationships as arrows. The instance data and organizing principles are highlighted for display.
+Knowledge Graphs and Graph Databases
+Creating a knowledge graph involves conceptually mapping the graph data model and then implementing it in a database. There are many databases to choose from, but choosing the right one can simplify the design process, speed up development and implementation, and make it easier to adapt to future changes and improvements.
+
+Property Graphs
+Native property graph databases, such as opens in new tabNeo4j, are a logical choice for implementing knowledge graphs. They natively store information as nodes, relationships, and properties, allowing for an intuitive opens in new tabvisualization of highly interconnected data structures. The physical database matches the conceptual data model, making designing and developing the knowledge graph easier. When you use property graphs, you get:
+
+Simplicity and ease of design: Property graphs allow for straightforward data modeling when designing the knowledge graph. Because the conceptual and physical models are very similar (often the same), the transition from design to implementation is more straightforward (and easy to explain to non-technical users).
+Flexibility: It’s easy to add new data, properties, relationship types, and organizing principles without extensive refactoring or code rewrites. As needs change, you can iterate and incrementally expand the knowledge graph’s data, relationships, and organization.
+Performance: Property graphs offer superior query performance compared to alternatives like RDF databases or relational databases, especially for complex traversals and many-to-many relationships. This performance comes from storing the relationships between entities directly in the database rather than re-generating them using joins in queries. A native property graph database traverses relationships by following pointers in memory, making queries that traverse even complex chains of many relationships very fast.
+Developer-friendly Code: Property graphs support an intuitive and expressive ISO query language standard, opens in new tabGQL, which means you have less code to write, debug, and maintain than SQL or SPARQL. Neo4j’s Cypher is the most widely used implementation of GQL.
+Property Graph Vs. Triple Stores (RDF)
+People sometimes think of opens in new tabproperty graphs and triple stores as equally viable options for building a knowledge graph, but triple stores (also known as RDF databases) have considerable disadvantages.
+
+Based on the Resource Description Framework (RDF), triple stores use a granular approach to design and storage. Triple stores express all data in the form of subject-predicate-object “triples.” This model does not support relationships with properties or multiple same-typed relationships between entities. To accommodate real-world use cases, you will need to implement workarounds. Common workarounds include turning relationships into objects (called reification) or using singleton properties to capture properties using extra “type-of” relationships. These workarounds mean larger databases, additional complexity in the physical model, and poor query performance.
+
+Because reification and singleton properties force tough decisions about the design up front, triple stores don’t lend themselves to solving real-world problems that involve messy data domains. Knowledge graphs built on a triple store are more challenging to design, time-consuming to implement, and difficult to change.
+
+Property Graph Vs. Relational Databases
+Relational databases and other non-native graph approaches suffer similar design friction. Neither relational nor document databases store relationships – they must be synthesized at runtime with joins or value lookups in query code. Since the relationships reside in the code rather than with the dataset, each application and data use must have its own implementation. SQL (the relational database query language) forces you to define every join in the query itself. As a result, the knowledge graph becomes more difficult to manage and yields poor runtime performance as the number of relationships expands.
+
+Knowledge Graph Use Cases
+Knowledge graphs offer a powerful tool for storing and organizing data to enable a more sophisticated understanding of that data. To understand how companies have done this, let’s look at examples of using knowledge graphs to tackle particular problems. Though not a comprehensive list of use cases, it’s a set of concrete examples demonstrating knowledge graphs in real-world applications.
+
+Generative AI for Enterprise Search Applications
+In opens in new tabgenerative AI applications, knowledge graphs capture and organize key domain-specific or proprietary company information. Knowledge graphs are not limited to structured data; they can handle less organized data as well.
+
+opens in new tabGraphRAG, a technique that grounds large language models with knowledge graphs, is emerging as the foundation of AI applications that use proprietary domain data (these are known as RAG applications). A knowledge graph grounding increases response accuracy and improves explainability with the context provided by data relationships. Industry leaders opens in new tabsuch as Deloitte highlight the critical role of knowledge graphs for building enterprise-grade GenAI. Gartner places knowledge graphs having a “high mass,” being an impactful technology for GenAI today:
+
+This Impact Radar from Gartner highlights knowledge graphs as a high-impact technology within the Generative AI landscape.
+This Impact Radar from Gartner highlights knowledge graphs as a high-impact technology within the Generative AI landscape (Credit: Gartner)
+Fraud Detection and Analytics in Financial Services, Banking, and Insurance
+In opens in new tabFraud Detection and Analyticsopens in new tab, the knowledge graph represents a network of transactions, their participants, and relevant information about them. Companies can use this knowledge graph to quickly identify suspicious activity, investigate suspected fraud, and evolve their knowledge graph to keep up with changing fraud patterns. Algorithms such as pathfinding and community detection provide key signals to machine learning algorithms that can uncover more sophisticated fraud networks.
+
+Master Data Management
+In opens in new tabMaster Data Management (e.g., for Customer 360 use cases), the knowledge graph provides an organized, resolved (i.e., “de-duped”), and comprehensive database of a company’s customers and the company’s interactions with them.
+
+This organized view of customers is especially important for companies with multiple divisions or applications interacting with customers. Without a knowledge graph, it can be difficult or impossible to obtain an accurate view of the customer. A knowledge graph links customer behaviors across multiple applications through an organizing principle that identifies them as coming from the same customer.
+
+Supply Chain Management
+In opens in new tabSupply Chain Management, a knowledge graph represents the network of suppliers, raw materials, products, and logistics that work together to supply a company’s operations and customers. This end-to-end supply chain visibility allows managers to identify weak points and predict where disruptions may occur. Graph algorithms such as opens in new tabshortest path optimize the supply chain in real time by finding the most direct route between A and B.
+
+Investigative Journalism
+In opens in new tabInvestigative Journalism, knowledge graphs capture key entities (companies, people, bank accounts, etc.) and activities under investigation. Organizing these entities in relation to one another makes it possible to find hidden patterns, such as distant relationships between entities that shouldn’t be present.
+
+Investigators may use techniques such as entity resolution to reveal entities hiding behind fake or shell identities to mask their activities. Algorithms like community detection and link prediction also provide insight and areas for further investigation.
+
+Drug Discovery in Healthcare Research
+Knowledge graphs store information about the research subject in opens in new tabmedical and other research use cases. For example, the knowledge graph could have protein and genome sequences together with environmental and chemical data, revealing intricate patterns and expanding our knowledge of proteins.
+
+
+Getting Started With Knowledge Graphs
+Knowledge graphs are organized representations of real-world entities and their relationships, overlaid with one or more organizing principles that frame the information in context to drive insight from the data. Knowledge graphs underpin insightful applications and artificial intelligence solutions across many use cases.
+
+opens in new tabThe Developer’s Guide: How to Build a Knowledge Graph
+Master the concepts and get hands-on experience with building your first knowledge graph.
+
+The guide covers how to build, manage, query, analyze, and visualize your knowledge graph for applications and analytics.
