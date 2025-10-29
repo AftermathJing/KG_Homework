@@ -1,0 +1,986 @@
+[
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识抽取",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识融合",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识推理",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "深度学习",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "自然语言处理",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "语义网",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "信息抽取",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "RELATED_TO",
+        "object": "自然语言处理",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "RELATED_TO",
+        "object": "计算机视觉",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "卷积神经网络",
+        "relation": "USES",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "循环神经网络",
+        "relation": "USES",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "摘要",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "关键词",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "摘要",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "关键词",
+        "chunk_id": "cn_2_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "知识表示",
+        "chunk_id": "cn_2_fulltext_6"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "知识融合",
+        "chunk_id": "cn_2_fulltext_6"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "知识推理",
+        "chunk_id": "cn_2_fulltext_6"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "深度学习",
+        "chunk_id": "cn_2_fulltext_6"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "链接预测",
+        "chunk_id": "cn_2_fulltext_6"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_2_fulltext_6"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识抽取",
+        "chunk_id": "cn_2_fulltext_6"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识表示",
+        "chunk_id": "cn_2_fulltext_6"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识融合",
+        "chunk_id": "cn_2_fulltext_6"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识推理",
+        "chunk_id": "cn_2_fulltext_6"
+    },
+    {
+        "subject": "命名实体识别",
+        "relation": "RELATED_TO",
+        "object": "关系抽取",
+        "chunk_id": "cn_2_fulltext_7"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_13"
+    },
+    {
+        "subject": "知识融合",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_13"
+    },
+    {
+        "subject": "知识计算",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_13"
+    },
+    {
+        "subject": "知识推理",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_13"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "RELATED_TO",
+        "object": "知识融合",
+        "chunk_id": "cn_2_fulltext_13"
+    },
+    {
+        "subject": "知识融合",
+        "relation": "RELATED_TO",
+        "object": "知识计算",
+        "chunk_id": "cn_2_fulltext_13"
+    },
+    {
+        "subject": "知识推理",
+        "relation": "RELATED_TO",
+        "object": "知识计算",
+        "chunk_id": "cn_2_fulltext_13"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "本节根据知识图谱的体系架构详细介绍知识抽取、知识融合、知识推理的相关研究",
+        "chunk_id": "cn_2_fulltext_13"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "IMPLEMENTS",
+        "object": "CRF",
+        "chunk_id": "cn_2_fulltext_20"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "USES",
+        "object": "CRF",
+        "chunk_id": "cn_2_fulltext_20"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "USES",
+        "object": "CNN",
+        "chunk_id": "cn_2_fulltext_20"
+    },
+    {
+        "subject": "链接预测",
+        "relation": "RELATED_TO",
+        "object": "知识表示学习",
+        "chunk_id": "cn_2_fulltext_20"
+    },
+    {
+        "subject": "知识表示学习",
+        "relation": "RELATED_TO",
+        "object": "链接预测",
+        "chunk_id": "cn_2_fulltext_20"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "RELATED_TO",
+        "object": "链接预测",
+        "chunk_id": "cn_2_fulltext_20"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "RELATED_TO",
+        "object": "知识表示学习",
+        "chunk_id": "cn_2_fulltext_20"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_2_fulltext_20"
+    },
+    {
+        "subject": "LSTM",
+        "relation": "IS_A",
+        "object": "BI-LSTM",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "LSTM",
+        "relation": "IS_A",
+        "object": "BI-LSTM-CRF",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "LSTM",
+        "relation": "IS_A",
+        "object": "CNN",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "LSTM",
+        "relation": "IS_A",
+        "object": "命名实体识别",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "BI-LSTM",
+        "relation": "IS_A",
+        "object": "BI-LSTM-CRF",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "RELATED_TO",
+        "object": "CoNLL-2000",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "RELATED_TO",
+        "object": "CoNLL-2003",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "RELATED_TO",
+        "object": "命名实体识别",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "命名实体识别",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "BI-LSTM-CRF",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "USES",
+        "object": "CNN",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "USES",
+        "object": "BI-LSTM",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "命名实体识别",
+        "relation": "DESCRIBED_IN",
+        "object": "文献［20］",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "DESCRIBED_IN",
+        "object": "文献［20］",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "DESCRIBED_IN",
+        "object": "文献［27］",
+        "chunk_id": "cn_2_fulltext_22"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "Att-RCNN",
+        "chunk_id": "cn_2_fulltext_32"
+    },
+    {
+        "subject": "Att-RCNN",
+        "relation": "USES",
+        "object": "注意力机制",
+        "chunk_id": "cn_2_fulltext_32"
+    },
+    {
+        "subject": "Att-RCNN",
+        "relation": "RELATED_TO",
+        "object": "SemEval-2010",
+        "chunk_id": "cn_2_fulltext_32"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "BI-GRU",
+        "chunk_id": "cn_2_fulltext_32"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "BI-LSTM",
+        "chunk_id": "cn_2_fulltext_32"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "自注意力机制",
+        "chunk_id": "cn_2_fulltext_32"
+    },
+    {
+        "subject": "BI-GRU",
+        "relation": "RELATED_TO",
+        "object": "SemEval-2010",
+        "chunk_id": "cn_2_fulltext_32"
+    },
+    {
+        "subject": "BI-LSTM",
+        "relation": "RELATED_TO",
+        "object": "SemEval-2010",
+        "chunk_id": "cn_2_fulltext_32"
+    },
+    {
+        "subject": "BI-LSTM",
+        "relation": "USES",
+        "object": "注意力机制",
+        "chunk_id": "cn_2_fulltext_32"
+    },
+    {
+        "subject": "BI-LSTM",
+        "relation": "RELATED_TO",
+        "object": "SemEval-2010",
+        "chunk_id": "cn_2_fulltext_32"
+    },
+    {
+        "subject": "级联二进制标记框架",
+        "relation": "IMPLEMENTS",
+        "object": "三元组抽取",
+        "chunk_id": "cn_2_fulltext_40"
+    },
+    {
+        "subject": "三元组抽取",
+        "relation": "RELATED_TO",
+        "object": "EPO_None/Two/Three_Tagging",
+        "chunk_id": "cn_2_fulltext_40"
+    },
+    {
+        "subject": "EPO_None/Two/Three_Tagging",
+        "relation": "DESCRIBED_IN",
+        "object": "文献［50］",
+        "chunk_id": "cn_2_fulltext_40"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "基于 NLP 的方法",
+        "chunk_id": "cn_2_fulltext_44"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "基于结构的方法",
+        "chunk_id": "cn_2_fulltext_44"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "基于实例的方法",
+        "chunk_id": "cn_2_fulltext_44"
+    },
+    {
+        "subject": "基于 NLP 的方法",
+        "relation": "IMPLEMENTS",
+        "object": "Stemming",
+        "chunk_id": "cn_2_fulltext_44"
+    },
+    {
+        "subject": "AnchorPROMPT",
+        "relation": "IMPLEMENTS",
+        "object": "本体映射",
+        "chunk_id": "cn_2_fulltext_44"
+    },
+    {
+        "subject": "AnchorPROMPT",
+        "relation": "RELATED_TO",
+        "object": "本体映射",
+        "chunk_id": "cn_2_fulltext_44"
+    },
+    {
+        "subject": "基于结构的方法",
+        "relation": "RELATED_TO",
+        "object": "本体映射",
+        "chunk_id": "cn_2_fulltext_44"
+    },
+    {
+        "subject": "基于实例的方法",
+        "relation": "RELATED_TO",
+        "object": "本体映射",
+        "chunk_id": "cn_2_fulltext_44"
+    },
+    {
+        "subject": "知识融合",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_46"
+    },
+    {
+        "subject": "实体对齐",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_46"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识融合",
+        "chunk_id": "cn_2_fulltext_46"
+    },
+    {
+        "subject": "谓词逻辑推理",
+        "relation": "IS_A",
+        "object": "本体推理",
+        "chunk_id": "cn_2_fulltext_52"
+    },
+    {
+        "subject": "谓词逻辑推理",
+        "relation": "RELATED_TO",
+        "object": "一阶归纳学习",
+        "chunk_id": "cn_2_fulltext_52"
+    },
+    {
+        "subject": "一阶归纳学习",
+        "relation": "IMPLEMENTS",
+        "object": "谓词逻辑推理",
+        "chunk_id": "cn_2_fulltext_52"
+    },
+    {
+        "subject": "本体寻路",
+        "relation": "RELATED_TO",
+        "object": "谓词逻辑推理",
+        "chunk_id": "cn_2_fulltext_52"
+    },
+    {
+        "subject": "本体寻路",
+        "relation": "RELATED_TO",
+        "object": "一阶归纳学习",
+        "chunk_id": "cn_2_fulltext_52"
+    },
+    {
+        "subject": "本体寻路",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating Embeddings...",
+        "chunk_id": "cn_2_fulltext_52"
+    },
+    {
+        "subject": "双层随机游走",
+        "relation": "IMPLEMENTS",
+        "object": "知识推理",
+        "chunk_id": "cn_2_fulltext_53"
+    },
+    {
+        "subject": "双层随机游走",
+        "relation": "IMPLEMENTS",
+        "object": "翻译模型",
+        "chunk_id": "cn_2_fulltext_53"
+    },
+    {
+        "subject": "双层随机游走",
+        "relation": "IMPLEMENTS",
+        "object": "语义匹配模型",
+        "chunk_id": "cn_2_fulltext_53"
+    },
+    {
+        "subject": "双层随机游走",
+        "relation": "IMPLEMENTS",
+        "object": "张量分解",
+        "chunk_id": "cn_2_fulltext_53"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "TransR",
+        "chunk_id": "cn_2_fulltext_54"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "TransN",
+        "chunk_id": "cn_2_fulltext_54"
+    },
+    {
+        "subject": "TransR",
+        "relation": "RELATED_TO",
+        "object": "TransN",
+        "chunk_id": "cn_2_fulltext_54"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "Rotate",
+        "chunk_id": "cn_2_fulltext_54"
+    },
+    {
+        "subject": "TransR",
+        "relation": "RELATED_TO",
+        "object": "Rotate",
+        "chunk_id": "cn_2_fulltext_54"
+    },
+    {
+        "subject": "TransN",
+        "relation": "RELATED_TO",
+        "object": "Rotate",
+        "chunk_id": "cn_2_fulltext_54"
+    },
+    {
+        "subject": "TransE",
+        "relation": "IMPLEMENTS",
+        "object": "TransE-NA",
+        "chunk_id": "cn_2_fulltext_55"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "RLPTransE",
+        "chunk_id": "cn_2_fulltext_55"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "RLPTransE",
+        "chunk_id": "cn_2_fulltext_55"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "RLPTransE",
+        "chunk_id": "cn_2_fulltext_55"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "RLPTransE",
+        "chunk_id": "cn_2_fulltext_55"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "RLPTransE",
+        "chunk_id": "cn_2_fulltext_55"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "RLPTransE",
+        "chunk_id": "cn_2_fulltext_55"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "RLPTransE",
+        "chunk_id": "cn_2_fulltext_55"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "RLPTransE",
+        "chunk_id": "cn_2_fulltext_55"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "RLPTransE",
+        "chunk_id": "cn_2_fulltext_55"
+    },
+    {
+        "subject": "张量分解",
+        "relation": "RELATED_TO",
+        "object": "RESCAL",
+        "chunk_id": "cn_2_fulltext_56"
+    },
+    {
+        "subject": "张量分解",
+        "relation": "RELATED_TO",
+        "object": "TRESCAL",
+        "chunk_id": "cn_2_fulltext_56"
+    },
+    {
+        "subject": "RESCAL",
+        "relation": "IMPLEMENTS",
+        "object": "张量分解",
+        "chunk_id": "cn_2_fulltext_56"
+    },
+    {
+        "subject": "RESCAL",
+        "relation": "RELATED_TO",
+        "object": "TRESCAL",
+        "chunk_id": "cn_2_fulltext_56"
+    },
+    {
+        "subject": "TRESCAL",
+        "relation": "RELATED_TO",
+        "object": "张量分解",
+        "chunk_id": "cn_2_fulltext_56"
+    },
+    {
+        "subject": "路径张量分解",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱推理",
+        "chunk_id": "cn_2_fulltext_57"
+    },
+    {
+        "subject": "DistMult 模型",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱推理",
+        "chunk_id": "cn_2_fulltext_57"
+    },
+    {
+        "subject": "DistMult 模型",
+        "relation": "RELATED_TO",
+        "object": "RESCAL",
+        "chunk_id": "cn_2_fulltext_57"
+    },
+    {
+        "subject": "RESCAL",
+        "relation": "RELATED_TO",
+        "object": "知识图谱推理",
+        "chunk_id": "cn_2_fulltext_57"
+    },
+    {
+        "subject": "知识图谱嵌入",
+        "relation": "IMPLEMENTS",
+        "object": "知识推理",
+        "chunk_id": "cn_2_fulltext_61"
+    },
+    {
+        "subject": "LSTM",
+        "relation": "USES",
+        "object": "知识图谱嵌入",
+        "chunk_id": "cn_2_fulltext_61"
+    },
+    {
+        "subject": "TransE",
+        "relation": "USES",
+        "object": "知识图谱嵌入",
+        "chunk_id": "cn_2_fulltext_61"
+    },
+    {
+        "subject": "CNN",
+        "relation": "USES",
+        "object": "知识推理",
+        "chunk_id": "cn_2_fulltext_61"
+    },
+    {
+        "subject": "ConvE",
+        "relation": "IMPLEMENTS",
+        "object": "知识推理",
+        "chunk_id": "cn_2_fulltext_62"
+    },
+    {
+        "subject": "ConvE",
+        "relation": "RELATED_TO",
+        "object": "InteractE",
+        "chunk_id": "cn_2_fulltext_62"
+    },
+    {
+        "subject": "InteractE",
+        "relation": "RELATED_TO",
+        "object": "ConvE",
+        "chunk_id": "cn_2_fulltext_62"
+    },
+    {
+        "subject": "ProPPR",
+        "relation": "IMPLEMENTS",
+        "object": "EntitySim",
+        "chunk_id": "cn_2_fulltext_65"
+    },
+    {
+        "subject": "EntitySim",
+        "relation": "RELATED_TO",
+        "object": "TypeSim",
+        "chunk_id": "cn_2_fulltext_65"
+    },
+    {
+        "subject": "TypeSim",
+        "relation": "RELATED_TO",
+        "object": "GraphLF",
+        "chunk_id": "cn_2_fulltext_65"
+    },
+    {
+        "subject": "GraphLF",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_65"
+    },
+    {
+        "subject": "ProPPR",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_65"
+    },
+    {
+        "subject": "结构化知识",
+        "relation": "IMPLEMENTS",
+        "object": "信息抽取",
+        "chunk_id": "cn_2_fulltext_70"
+    },
+    {
+        "subject": "深度学习模块",
+        "relation": "USES",
+        "object": "映射函数",
+        "chunk_id": "cn_2_fulltext_71"
+    },
+    {
+        "subject": "逻辑模块",
+        "relation": "IS_A",
+        "object": "一阶逻辑",
+        "chunk_id": "cn_2_fulltext_71"
+    },
+    {
+        "subject": "深度学习模块",
+        "relation": "RELATED_TO",
+        "object": "逻辑模块",
+        "chunk_id": "cn_2_fulltext_71"
+    },
+    {
+        "subject": "映射函数",
+        "relation": "RELATED_TO",
+        "object": "意见目标抽取任务",
+        "chunk_id": "cn_2_fulltext_71"
+    },
+    {
+        "subject": "映射函数",
+        "relation": "RELATED_TO",
+        "object": "关系抽取任务",
+        "chunk_id": "cn_2_fulltext_71"
+    },
+    {
+        "subject": "深度学习模块",
+        "relation": "RELATED_TO",
+        "object": "意见目标抽取任务",
+        "chunk_id": "cn_2_fulltext_71"
+    },
+    {
+        "subject": "深度学习模块",
+        "relation": "RELATED_TO",
+        "object": "关系抽取任务",
+        "chunk_id": "cn_2_fulltext_71"
+    },
+    {
+        "subject": "映射函数",
+        "relation": "DESCRIBED_IN",
+        "object": "该文提出的模型",
+        "chunk_id": "cn_2_fulltext_71"
+    },
+    {
+        "subject": "逻辑模块",
+        "relation": "DESCRIBED_IN",
+        "object": "该文提出的模型",
+        "chunk_id": "cn_2_fulltext_71"
+    },
+    {
+        "subject": "深度学习模块",
+        "relation": "DESCRIBED_IN",
+        "object": "该文提出的模型",
+        "chunk_id": "cn_2_fulltext_71"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "RELATED_TO",
+        "object": "因果推理",
+        "chunk_id": "cn_2_fulltext_72"
+    },
+    {
+        "subject": "图网络",
+        "relation": "IMPLEMENTS",
+        "object": "因果推理",
+        "chunk_id": "cn_2_fulltext_72"
+    },
+    {
+        "subject": "图网络",
+        "relation": "RELATED_TO",
+        "object": "深度学习",
+        "chunk_id": "cn_2_fulltext_72"
+    },
+    {
+        "subject": "图网络",
+        "relation": "RELATED_TO",
+        "object": "贝叶斯网络",
+        "chunk_id": "cn_2_fulltext_72"
+    },
+    {
+        "subject": "图网络",
+        "relation": "RELATED_TO",
+        "object": "因果推理",
+        "chunk_id": "cn_2_fulltext_72"
+    },
+    {
+        "subject": "图神经网络",
+        "relation": "IS_A",
+        "object": "图卷积网络",
+        "chunk_id": "cn_2_fulltext_73"
+    },
+    {
+        "subject": "图神经网络",
+        "relation": "IS_A",
+        "object": "图注意力网络",
+        "chunk_id": "cn_2_fulltext_73"
+    },
+    {
+        "subject": "图神经网络",
+        "relation": "RELATED_TO",
+        "object": "RCKD 模型",
+        "chunk_id": "cn_2_fulltext_73"
+    },
+    {
+        "subject": "图神经网络",
+        "relation": "RELATED_TO",
+        "object": "RCKC 模型",
+        "chunk_id": "cn_2_fulltext_73"
+    },
+    {
+        "subject": "RCKD 模型",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_73"
+    },
+    {
+        "subject": "RCKD 模型",
+        "relation": "IMPLEMENTS",
+        "object": "深度学习",
+        "chunk_id": "cn_2_fulltext_73"
+    },
+    {
+        "subject": "RCKC 模型",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱",
+        "chunk_id": "cn_2_fulltext_73"
+    },
+    {
+        "subject": "RCKC 模型",
+        "relation": "IMPLEMENTS",
+        "object": "协同过滤",
+        "chunk_id": "cn_2_fulltext_73"
+    },
+    {
+        "subject": "RCKD",
+        "relation": "USES",
+        "object": "TransE",
+        "chunk_id": "cn_2_fulltext_74"
+    },
+    {
+        "subject": "RCKD",
+        "relation": "RELATED_TO",
+        "object": "RCKC",
+        "chunk_id": "cn_2_fulltext_74"
+    },
+    {
+        "subject": "RCKC",
+        "relation": "USES",
+        "object": "TransE",
+        "chunk_id": "cn_2_fulltext_74"
+    },
+    {
+        "subject": "RCKC",
+        "relation": "RELATED_TO",
+        "object": "RCKD",
+        "chunk_id": "cn_2_fulltext_74"
+    },
+    {
+        "subject": "小样本学习",
+        "relation": "RELATED_TO",
+        "object": "实体对齐",
+        "chunk_id": "cn_2_fulltext_77"
+    },
+    {
+        "subject": "动态知识图谱推理",
+        "relation": "RELATED_TO",
+        "object": "EvolveGCN",
+        "chunk_id": "cn_2_fulltext_77"
+    },
+    {
+        "subject": "EvolveGCN",
+        "relation": "USES",
+        "object": "RNN",
+        "chunk_id": "cn_2_fulltext_77"
+    },
+    {
+        "subject": "EvolveGCN",
+        "relation": "USES",
+        "object": "GCN",
+        "chunk_id": "cn_2_fulltext_77"
+    },
+    {
+        "subject": "动态知识图谱推理",
+        "relation": "RELATED_TO",
+        "object": "知识推理",
+        "chunk_id": "cn_2_fulltext_77"
+    },
+    {
+        "subject": "跨语言的知识推理",
+        "relation": "RELATED_TO",
+        "object": "知识推理",
+        "chunk_id": "cn_2_fulltext_77"
+    }
+]

@@ -1,0 +1,590 @@
+[
+    {
+        "subject": "知识图谱",
+        "relation": "CREATED_BY",
+        "object": "谷歌公司",
+        "chunk_id": "cn_1_fulltext_4"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "搜索引擎",
+        "chunk_id": "cn_1_fulltext_4"
+    },
+    {
+        "subject": "搜索引擎",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_1_fulltext_4"
+    },
+    {
+        "subject": "数据链接",
+        "relation": "IS_A",
+        "object": "知识图谱",
+        "chunk_id": "cn_1_fulltext_6"
+    },
+    {
+        "subject": "数据链接",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_1_fulltext_6"
+    },
+    {
+        "subject": "URI",
+        "relation": "IMPLEMENTS",
+        "object": "数据链接",
+        "chunk_id": "cn_1_fulltext_6"
+    },
+    {
+        "subject": "RDF",
+        "relation": "IMPLEMENTS",
+        "object": "数据链接",
+        "chunk_id": "cn_1_fulltext_6"
+    },
+    {
+        "subject": "OWL",
+        "relation": "IMPLEMENTS",
+        "object": "数据链接",
+        "chunk_id": "cn_1_fulltext_6"
+    },
+    {
+        "subject": "数据链接",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱",
+        "chunk_id": "cn_1_fulltext_6"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "IS_A",
+        "object": "关系抽取",
+        "chunk_id": "cn_1_fulltext_22"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "RELATED_TO",
+        "object": "实体抽取",
+        "chunk_id": "cn_1_fulltext_22"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "RELATED_TO",
+        "object": "属性抽取",
+        "chunk_id": "cn_1_fulltext_22"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "RELATED_TO",
+        "object": "关系抽取",
+        "chunk_id": "cn_1_fulltext_22"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "USES",
+        "object": "实体抽取",
+        "chunk_id": "cn_1_fulltext_22"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "USES",
+        "object": "关系抽取",
+        "chunk_id": "cn_1_fulltext_22"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "USES",
+        "object": "属性抽取",
+        "chunk_id": "cn_1_fulltext_22"
+    },
+    {
+        "subject": "实体抽取",
+        "relation": "RELATED_TO",
+        "object": "关系抽取",
+        "chunk_id": "cn_1_fulltext_22"
+    },
+    {
+        "subject": "实体抽取",
+        "relation": "RELATED_TO",
+        "object": "属性抽取",
+        "chunk_id": "cn_1_fulltext_22"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "RELATED_TO",
+        "object": "属性抽取",
+        "chunk_id": "cn_1_fulltext_22"
+    },
+    {
+        "subject": "ＯＩＥ 系统",
+        "relation": "RELATED_TO",
+        "object": "Ｎ 元关系模型",
+        "chunk_id": "cn_1_fulltext_37"
+    },
+    {
+        "subject": "ＯＩＥ 系统",
+        "relation": "RELATED_TO",
+        "object": "ＫＲＡＫＥＮ 模型",
+        "chunk_id": "cn_1_fulltext_37"
+    },
+    {
+        "subject": "ＯＩＥ 系统",
+        "relation": "RELATED_TO",
+        "object": "后期关系推理",
+        "chunk_id": "cn_1_fulltext_37"
+    },
+    {
+        "subject": "主题模型",
+        "relation": "IMPLEMENTS",
+        "object": "生成模型",
+        "chunk_id": "cn_1_fulltext_49"
+    },
+    {
+        "subject": "Linde模型",
+        "relation": "IMPLEMENTS",
+        "object": "生成模型",
+        "chunk_id": "cn_1_fulltext_49"
+    },
+    {
+        "subject": "生成模型",
+        "relation": "RELATED_TO",
+        "object": "主题模型",
+        "chunk_id": "cn_1_fulltext_49"
+    },
+    {
+        "subject": "生成模型",
+        "relation": "RELATED_TO",
+        "object": "Linde模型",
+        "chunk_id": "cn_1_fulltext_49"
+    },
+    {
+        "subject": "对象对齐",
+        "relation": "RELATED_TO",
+        "object": "实体匹配",
+        "chunk_id": "cn_1_fulltext_52"
+    },
+    {
+        "subject": "对象对齐",
+        "relation": "RELATED_TO",
+        "object": "实体同义",
+        "chunk_id": "cn_1_fulltext_52"
+    },
+    {
+        "subject": "对象对齐",
+        "relation": "RELATED_TO",
+        "object": "共指消解",
+        "chunk_id": "cn_1_fulltext_52"
+    },
+    {
+        "subject": "Ｈｏｂｂｓ算法",
+        "relation": "RELATED_TO",
+        "object": "向心理论",
+        "chunk_id": "cn_1_fulltext_52"
+    },
+    {
+        "subject": "共指消解",
+        "relation": "RELATED_TO",
+        "object": "实体匹配",
+        "chunk_id": "cn_1_fulltext_52"
+    },
+    {
+        "subject": "共指消解",
+        "relation": "RELATED_TO",
+        "object": "实体同义",
+        "chunk_id": "cn_1_fulltext_52"
+    },
+    {
+        "subject": "共指消解",
+        "relation": "RELATED_TO",
+        "object": "对象对齐",
+        "chunk_id": "cn_1_fulltext_52"
+    },
+    {
+        "subject": "向心理论",
+        "relation": "DESCRIBED_IN",
+        "object": "共指消解",
+        "chunk_id": "cn_1_fulltext_52"
+    },
+    {
+        "subject": "实体聚类方法",
+        "relation": "RELATED_TO",
+        "object": "本体结构",
+        "chunk_id": "cn_1_fulltext_74"
+    },
+    {
+        "subject": "主题模型",
+        "relation": "RELATED_TO",
+        "object": "本体结构",
+        "chunk_id": "cn_1_fulltext_74"
+    },
+    {
+        "subject": "单词共现网络",
+        "relation": "RELATED_TO",
+        "object": "本体结构",
+        "chunk_id": "cn_1_fulltext_74"
+    },
+    {
+        "subject": "本体结构",
+        "relation": "IMPLEMENTS",
+        "object": "短文本的主题聚类",
+        "chunk_id": "cn_1_fulltext_74"
+    },
+    {
+        "subject": "贝叶斯模型",
+        "relation": "RELATED_TO",
+        "object": "本体结构",
+        "chunk_id": "cn_1_fulltext_74"
+    },
+    {
+        "subject": "贝叶斯模型",
+        "relation": "IMPLEMENTS",
+        "object": "短文本的主题聚类",
+        "chunk_id": "cn_1_fulltext_74"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "IS_A",
+        "object": "一阶谓词逻辑",
+        "chunk_id": "cn_1_fulltext_77"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_1_fulltext_77"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "RELATED_TO",
+        "object": "知识库",
+        "chunk_id": "cn_1_fulltext_77"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "RELATED_TO",
+        "object": "ＴＢｏｘ",
+        "chunk_id": "cn_1_fulltext_77"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "RELATED_TO",
+        "object": "ＡＢｏｘ",
+        "chunk_id": "cn_1_fulltext_77"
+    },
+    {
+        "subject": "ＴＢｏｘ",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_1_fulltext_77"
+    },
+    {
+        "subject": "ＡＢｏｘ",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_1_fulltext_77"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "DESCRIBED_IN",
+        "object": "描述逻辑（ｄｅｓｃｒｉｐｔｉｏｎｌｏｇｉｃ）",
+        "chunk_id": "cn_1_fulltext_77"
+    },
+    {
+        "subject": "ＴＢｏｘ",
+        "relation": "DESCRIBED_IN",
+        "object": "描述逻辑（ｄｅｓｃｒｉｐｔｉｏｎｌｏｇｉｃ）",
+        "chunk_id": "cn_1_fulltext_77"
+    },
+    {
+        "subject": "ＡＢｏｘ",
+        "relation": "DESCRIBED_IN",
+        "object": "描述逻辑（ｄｅｓｃｒｉｐｔｉｏｎｌｏｇｉｃ）",
+        "chunk_id": "cn_1_fulltext_77"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "关系推理",
+        "chunk_id": "cn_1_fulltext_78"
+    },
+    {
+        "subject": "OWL",
+        "relation": "IMPLEMENTS",
+        "object": "本体",
+        "chunk_id": "cn_1_fulltext_78"
+    },
+    {
+        "subject": "SWRL",
+        "relation": "IMPLEMENTS",
+        "object": "本体",
+        "chunk_id": "cn_1_fulltext_78"
+    },
+    {
+        "subject": "SWRL",
+        "relation": "RELATED_TO",
+        "object": "关系推理",
+        "chunk_id": "cn_1_fulltext_78"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "一致性检验",
+        "chunk_id": "cn_1_fulltext_78"
+    },
+    {
+        "subject": "本体",
+        "relation": "USES",
+        "object": "OWL",
+        "chunk_id": "cn_1_fulltext_78"
+    },
+    {
+        "subject": "本体",
+        "relation": "USES",
+        "object": "SWRL",
+        "chunk_id": "cn_1_fulltext_78"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "语义Web规则语言（SWRL）",
+        "chunk_id": "cn_1_fulltext_78"
+    },
+    {
+        "subject": "语义Web规则语言（SWRL）",
+        "relation": "RELATED_TO",
+        "object": "关系推理",
+        "chunk_id": "cn_1_fulltext_78"
+    },
+    {
+        "subject": "基于神经网络模型的推理方法",
+        "relation": "RELATED_TO",
+        "object": "PathRanking算法",
+        "chunk_id": "cn_1_fulltext_79"
+    },
+    {
+        "subject": "神经张量网络模型",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱",
+        "chunk_id": "cn_1_fulltext_79"
+    },
+    {
+        "subject": "PathRanking算法",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_1_fulltext_79"
+    },
+    {
+        "subject": "PathRanking算法",
+        "relation": "RELATED_TO",
+        "object": "基于神经网络模型的推理方法",
+        "chunk_id": "cn_1_fulltext_79"
+    },
+    {
+        "subject": "质量评估方法",
+        "relation": "IS_A",
+        "object": "质量评估方法",
+        "chunk_id": "cn_1_fulltext_83"
+    },
+    {
+        "subject": "逻辑斯蒂回归模型",
+        "relation": "DESCRIBED_IN",
+        "object": "逻辑斯蒂回归模型",
+        "chunk_id": "cn_1_fulltext_83"
+    },
+    {
+        "subject": "跨语言知识抽取",
+        "relation": "RELATED_TO",
+        "object": "Ｘｌｉｋｅ项目",
+        "chunk_id": "cn_1_fulltext_90"
+    },
+    {
+        "subject": "跨语言知识抽取",
+        "relation": "RELATED_TO",
+        "object": "ＸＬｏｒｅ项目",
+        "chunk_id": "cn_1_fulltext_90"
+    },
+    {
+        "subject": "Ｘｌｉｋｅ项目",
+        "relation": "USES",
+        "object": "跨语言知识抽取",
+        "chunk_id": "cn_1_fulltext_90"
+    },
+    {
+        "subject": "ＸＬｏｒｅ项目",
+        "relation": "USES",
+        "object": "跨语言知识抽取",
+        "chunk_id": "cn_1_fulltext_90"
+    },
+    {
+        "subject": "Ｘｌｉｋｅ项目",
+        "relation": "DESCRIBED_IN",
+        "object": "Ｘｌｉｋｅ项目",
+        "chunk_id": "cn_1_fulltext_90"
+    },
+    {
+        "subject": "ＸＬｏｒｅ项目",
+        "relation": "DESCRIBED_IN",
+        "object": "ＸＬｏｒｅ项目",
+        "chunk_id": "cn_1_fulltext_90"
+    },
+    {
+        "subject": "知识链接",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_1_fulltext_93"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "IS_A",
+        "object": "本体",
+        "chunk_id": "cn_1_fulltext_93"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "知识链接",
+        "chunk_id": "cn_1_fulltext_93"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "知识链接",
+        "chunk_id": "cn_1_fulltext_93"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_1_fulltext_93"
+    },
+    {
+        "subject": "单语种本体映射",
+        "relation": "RELATED_TO",
+        "object": "跨语言本体映射",
+        "chunk_id": "cn_1_fulltext_94"
+    },
+    {
+        "subject": "Google Now",
+        "relation": "USES",
+        "object": "Knowledge Graph",
+        "chunk_id": "cn_1_fulltext_97"
+    },
+    {
+        "subject": "Apple Siri",
+        "relation": "USES",
+        "object": "Knowledge Graph",
+        "chunk_id": "cn_1_fulltext_97"
+    },
+    {
+        "subject": "IBM Watson",
+        "relation": "USES",
+        "object": "Knowledge Graph",
+        "chunk_id": "cn_1_fulltext_97"
+    },
+    {
+        "subject": "Wolfram Alpha",
+        "relation": "USES",
+        "object": "Knowledge Graph",
+        "chunk_id": "cn_1_fulltext_97"
+    },
+    {
+        "subject": "Jacona-Freebase系统",
+        "relation": "RELATED_TO",
+        "object": "Paralex系统",
+        "chunk_id": "cn_1_fulltext_100"
+    },
+    {
+        "subject": "Jacona-Freebase系统",
+        "relation": "RELATED_TO",
+        "object": "SEMPRE系统",
+        "chunk_id": "cn_1_fulltext_100"
+    },
+    {
+        "subject": "Paralex系统",
+        "relation": "RELATED_TO",
+        "object": "SEMPRE系统",
+        "chunk_id": "cn_1_fulltext_100"
+    },
+    {
+        "subject": "Jacona-Freebase系统",
+        "relation": "RELATED_TO",
+        "object": "基于信息检索的问答系统",
+        "chunk_id": "cn_1_fulltext_100"
+    },
+    {
+        "subject": "Paralex系统",
+        "relation": "RELATED_TO",
+        "object": "基于信息检索的问答系统",
+        "chunk_id": "cn_1_fulltext_100"
+    },
+    {
+        "subject": "SEMPRE系统",
+        "relation": "RELATED_TO",
+        "object": "基于语义分析的问答系统",
+        "chunk_id": "cn_1_fulltext_100"
+    },
+    {
+        "subject": "实体链接",
+        "relation": "RELATED_TO",
+        "object": "实体消歧",
+        "chunk_id": "cn_1_fulltext_106"
+    },
+    {
+        "subject": "实体链接",
+        "relation": "RELATED_TO",
+        "object": "共指消解",
+        "chunk_id": "cn_1_fulltext_106"
+    },
+    {
+        "subject": "实体链接",
+        "relation": "RELATED_TO",
+        "object": "外部知识库融合",
+        "chunk_id": "cn_1_fulltext_106"
+    },
+    {
+        "subject": "实体链接",
+        "relation": "RELATED_TO",
+        "object": "关系数据库知识融合",
+        "chunk_id": "cn_1_fulltext_106"
+    },
+    {
+        "subject": "知识加工",
+        "relation": "IS_A",
+        "object": "本体",
+        "chunk_id": "cn_1_fulltext_106"
+    },
+    {
+        "subject": "知识加工",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_1_fulltext_106"
+    },
+    {
+        "subject": "知识加工",
+        "relation": "RELATED_TO",
+        "object": "知识推理技术",
+        "chunk_id": "cn_1_fulltext_106"
+    },
+    {
+        "subject": "知识加工",
+        "relation": "RELATED_TO",
+        "object": "知识质量评估手段",
+        "chunk_id": "cn_1_fulltext_106"
+    },
+    {
+        "subject": "知识加工",
+        "relation": "RELATED_TO",
+        "object": "推理技术的应用",
+        "chunk_id": "cn_1_fulltext_106"
+    },
+    {
+        "subject": "图数据库",
+        "relation": "USES",
+        "object": "SQL",
+        "chunk_id": "cn_1_fulltext_108"
+    },
+    {
+        "subject": "图数据库",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_1_fulltext_108"
+    }
+]

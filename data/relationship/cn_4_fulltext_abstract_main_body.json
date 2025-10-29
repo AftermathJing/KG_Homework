@@ -1,0 +1,560 @@
+[
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "本体",
+        "chunk_id": "cn_4_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_4_fulltext_2"
+    },
+    {
+        "subject": "本体",
+        "relation": "IS_A",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "知识图谱构建",
+        "chunk_id": "cn_4_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识图谱构建",
+        "chunk_id": "cn_4_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "通用知识图谱",
+        "chunk_id": "cn_4_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "行业知识图谱",
+        "chunk_id": "cn_4_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识图谱构建",
+        "chunk_id": "cn_4_fulltext_2"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_4_fulltext_3"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_3"
+    },
+    {
+        "subject": "本体",
+        "relation": "IS_A",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_8"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "本体",
+        "chunk_id": "cn_4_fulltext_8"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_8"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_4_fulltext_8"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "USES",
+        "object": "RDFS",
+        "chunk_id": "cn_4_fulltext_8"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "USES",
+        "object": "OWL",
+        "chunk_id": "cn_4_fulltext_8"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "RDFS",
+        "chunk_id": "cn_4_fulltext_8"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "OWL",
+        "chunk_id": "cn_4_fulltext_8"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_4_fulltext_9"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识地图",
+        "chunk_id": "cn_4_fulltext_9"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "科学知识图谱",
+        "chunk_id": "cn_4_fulltext_9"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "实体抽取",
+        "chunk_id": "cn_4_fulltext_9"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "关系抽取",
+        "chunk_id": "cn_4_fulltext_9"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "语义解析",
+        "chunk_id": "cn_4_fulltext_9"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识表示",
+        "chunk_id": "cn_4_fulltext_9"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "图数据库",
+        "chunk_id": "cn_4_fulltext_9"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识融合",
+        "chunk_id": "cn_4_fulltext_9"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "数据集成",
+        "chunk_id": "cn_4_fulltext_9"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识推理",
+        "chunk_id": "cn_4_fulltext_9"
+    },
+    {
+        "subject": "引文网络",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_11"
+    },
+    {
+        "subject": "科学知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_11"
+    },
+    {
+        "subject": "科学知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_4_fulltext_11"
+    },
+    {
+        "subject": "科学知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识地图",
+        "chunk_id": "cn_4_fulltext_11"
+    },
+    {
+        "subject": "科学知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_11"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "本体",
+        "chunk_id": "cn_4_fulltext_14"
+    },
+    {
+        "subject": "WordNet",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_14"
+    },
+    {
+        "subject": "CYC",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_14"
+    },
+    {
+        "subject": "HowNet",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_14"
+    },
+    {
+        "subject": "YAGO",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_14"
+    },
+    {
+        "subject": "DBPedia",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_14"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "通用本体",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "领域本体",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "通用知识图谱",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "行业知识图谱",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "通用本体",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "领域本体",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "通用知识图谱",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "行业知识图谱",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "语义搜索",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "百科类",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "语言学类",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "WordNet",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "大词林",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "DBpedia",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "zhishi. me",
+        "chunk_id": "cn_4_fulltext_15"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "行业知识图谱",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "RELATED_TO",
+        "object": "GeoNames",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "RELATED_TO",
+        "object": "中医医案知识图谱",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体层",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体层",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "USES",
+        "object": "本体层",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "USES",
+        "object": "本体层",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "行业知识图谱",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "通用知识图谱",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "CREATED_BY",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "CREATED_BY",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_16"
+    },
+    {
+        "subject": "Paralex 系统",
+        "relation": "USES",
+        "object": "知识图谱技术",
+        "chunk_id": "cn_4_fulltext_23"
+    },
+    {
+        "subject": "Evi",
+        "relation": "USES",
+        "object": "知识图谱技术",
+        "chunk_id": "cn_4_fulltext_23"
+    },
+    {
+        "subject": "Siri",
+        "relation": "USES",
+        "object": "知识图谱技术",
+        "chunk_id": "cn_4_fulltext_23"
+    },
+    {
+        "subject": "出门问问",
+        "relation": "USES",
+        "object": "知识图谱技术",
+        "chunk_id": "cn_4_fulltext_23"
+    },
+    {
+        "subject": "电子商务网站个性化推荐",
+        "relation": "RELATED_TO",
+        "object": "个性化推荐",
+        "chunk_id": "cn_4_fulltext_24"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "RELATED_TO",
+        "object": "本体学习",
+        "chunk_id": "cn_4_fulltext_26"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "IMPLEMENTS",
+        "object": "实体抽取",
+        "chunk_id": "cn_4_fulltext_26"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "IMPLEMENTS",
+        "object": "关系抽取",
+        "chunk_id": "cn_4_fulltext_26"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "IMPLEMENTS",
+        "object": "属性抽取",
+        "chunk_id": "cn_4_fulltext_26"
+    },
+    {
+        "subject": "实体抽取",
+        "relation": "RELATED_TO",
+        "object": "命名实体学习",
+        "chunk_id": "cn_4_fulltext_26"
+    },
+    {
+        "subject": "实体抽取",
+        "relation": "RELATED_TO",
+        "object": "命名实体识别",
+        "chunk_id": "cn_4_fulltext_26"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "自底向上的构建方法",
+        "chunk_id": "cn_4_fulltext_26"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "RELATED_TO",
+        "object": "属性抽取",
+        "chunk_id": "cn_4_fulltext_27"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "RELATED_TO",
+        "object": "知识融合",
+        "chunk_id": "cn_4_fulltext_27"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "RELATED_TO",
+        "object": "实体对齐",
+        "chunk_id": "cn_4_fulltext_27"
+    },
+    {
+        "subject": "知识融合",
+        "relation": "RELATED_TO",
+        "object": "实体对齐",
+        "chunk_id": "cn_4_fulltext_27"
+    },
+    {
+        "subject": "本体构建",
+        "relation": "IS_A",
+        "object": "本体学习",
+        "chunk_id": "cn_4_fulltext_29"
+    },
+    {
+        "subject": "本体构建",
+        "relation": "RELATED_TO",
+        "object": "本体学习",
+        "chunk_id": "cn_4_fulltext_29"
+    },
+    {
+        "subject": "本体学习",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating Embeddings...",
+        "chunk_id": "cn_4_fulltext_29"
+    },
+    {
+        "subject": "OWL",
+        "relation": "IS_A",
+        "object": "知识图谱",
+        "chunk_id": "cn_4_fulltext_37"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "OWL",
+        "chunk_id": "cn_4_fulltext_37"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "USES",
+        "object": "OWL",
+        "chunk_id": "cn_4_fulltext_37"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "OWL",
+        "chunk_id": "cn_4_fulltext_37"
+    }
+]
