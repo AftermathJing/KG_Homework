@@ -1,0 +1,1872 @@
+[
+    {
+        "name": "知识图谱",
+        "definition": "以图的形式表现客观世界中的概念和实体及其之间关系的知识库，用于存储和表示知识的结构化数据集合，描述现实世界实体及其关系的结构化知识库，结合应用计量学引文分析和共现分析、图形学、可视化技术、信息科学等学科的理论与方法，图形化的展示各领域的学科结构、各学科的研究内容、学科间的关系、识别和分析学科的发展新趋势以及预测前沿。",
+        "aliases": [
+            "知识图谱",
+            "KG",
+            "知识库",
+            "ＫｎｏｗｌｅｄｇｅＧｒａｐｈ",
+            "ＫＧ",
+            "知识图",
+            "知识图谱技术"
+        ],
+        "category": "Task, Theory, Model, Data Structure",
+        "sub_domain": "知识表示学习, 知识图谱",
+        "publication_year": "",
+        "vendor_or_originator": ""
+    },
+    {
+        "name": "本体",
+        "definition": "共享概念模型的显式说明，描述概念与概念间的关系；是语义 Web 的关键技术，用于为 Web 网页添加语义。",
+        "aliases": [
+            "本体",
+            "Ontology",
+            "本体论"
+        ],
+        "category": "Theory",
+        "sub_domain": "知识表示学习",
+        "purpose": "为 Web 网页添加语义，支持语义服务；用于知识的组织和表示；用于描述实体及其关系，以确保知识的准确性和完整性；用于知识组织和推理；为不同主体之间进行交流提供语义基础"
+    },
+    {
+        "name": "通用知识图谱",
+        "definition": "描述通用领域知识的结构化知识库",
+        "aliases": [
+            "通用知识图谱"
+        ],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于通用知识查询和推理"
+    },
+    {
+        "name": "行业知识图谱",
+        "definition": "行业知识图谱是面向特定领域的知识图谱，能够进行知识推理和辅助分析及决策支持。",
+        "aliases": [
+            "行业知识图谱"
+        ],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于辅助分析及决策支持，满足特定领域的需求。"
+    },
+    {
+        "name": "知识图谱构建",
+        "definition": "知识图谱的构建、存储及检索方法",
+        "aliases": [
+            "知识图谱构建"
+        ],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "提高知识图谱的使用率和重用率"
+    },
+    {
+        "name": "实体抽取",
+        "definition": "知识图谱构建阶段的实体抽取、关系抽取、语义解析等机器学习和自然语言处理方法和算法",
+        "aliases": [
+            "命名实体识别",
+            "NER"
+        ],
+        "category": "Task",
+        "sub_domain": "知识图谱构建",
+        "purpose": "从文本中提取实体信息"
+    },
+    {
+        "name": "关系抽取",
+        "definition": "知识图谱构建阶段的实体抽取、关系抽取、语义解析等机器学习和自然语言处理方法和算法",
+        "aliases": [
+            "关系抽取",
+            "RE"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "从文本中提取实体之间的关系"
+    },
+    {
+        "name": "语义解析",
+        "definition": "知识图谱构建阶段的实体抽取、关系抽取、语义解析等机器学习和自然语言处理方法和算法",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识图谱构建",
+        "purpose": "将自然语言转换为结构化语义表示"
+    },
+    {
+        "name": "知识表示",
+        "definition": "将知识以计算机可处理的形式进行表示。",
+        "aliases": [
+            "知识表示学习"
+        ],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "将知识以计算机可处理的形式进行表示，便于存储和推理。"
+    },
+    {
+        "name": "图数据库",
+        "definition": "用于知识图谱存储的知识表示、图数据库和知识融合等方法和技术",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识图谱存储",
+        "purpose": "存储和查询知识图谱"
+    },
+    {
+        "name": "知识融合",
+        "definition": "将来自不同来源的知识整合到一个统一的知识体系中，消除冗余和不一致性。",
+        "aliases": [
+            "知识融合",
+            "本体集成",
+            "知识整合",
+            "知识融合技术"
+        ],
+        "category": "Task",
+        "sub_domain": "知识融合",
+        "purpose": "将来自不同来源的知识整合到一个统一的知识体系中，提高知识的准确性和一致性。"
+    },
+    {
+        "name": "数据集成",
+        "definition": "知识图谱应用阶段的数据集成、知识推理等",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识图谱应用",
+        "purpose": "整合不同来源的数据"
+    },
+    {
+        "name": "知识推理",
+        "definition": "从知识库中已有的实体关系数据出发，经过计算机推理，建立实体间的新关联，从而拓展和丰富知识网络",
+        "aliases": [
+            "知识推理",
+            "知识推理技术"
+        ],
+        "category": "Task",
+        "sub_domain": "知识推理",
+        "purpose": "拓展和丰富知识网络，发现新的知识"
+    },
+    {
+        "name": "知识地图",
+        "definition": "知识地图 (knowledge map) 将特定组织内的知识索引通过‘地图’的形式串联在一起, 揭示相关知识资源的类型、特征以及相互关系",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识图谱应用",
+        "purpose": "实现知识的快速检索、共享和再重用"
+    },
+    {
+        "name": "科学知识图谱",
+        "definition": "结合应用计量学引文分析和共现分析、图形学、可视化技术、信息科学等学科的理论与方法，图形化的展示各领域的学科结构、各学科的研究内容、学科间的关系、识别和分析学科的发展新趋势以及预测前沿",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识图谱",
+        "purpose": "展示学科结构、研究内容、学科间关系、识别学科发展新趋势以及预测前沿"
+    },
+    {
+        "name": "引文网络",
+        "definition": "用于研究当代科学发展脉络的方法",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识图谱",
+        "purpose": "研究当代科学发展脉络"
+    },
+    {
+        "name": "WordNet",
+        "definition": "WordNet 是一个大规模的英语单词本体，用于描述单词之间的关系。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于描述单词之间的关系，以支持知识的表示和推理。"
+    },
+    {
+        "name": "CYC",
+        "definition": "CYC 是一个大规模的本体，用于描述常识知识。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于描述常识知识，以支持知识的表示和推理。"
+    },
+    {
+        "name": "HowNet",
+        "definition": "HowNet 是一个大规模的中文本体，用于描述中文单词之间的关系。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于描述中文单词之间的关系，以支持知识的表示和推理。"
+    },
+    {
+        "name": "YAGO",
+        "definition": "YAGO 是一个从开放的互联网信息中自动抽取实体与关系构建的知识图谱。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识抽取",
+        "purpose": "用于从互联网信息中自动抽取实体与关系，以构建大规模知识图谱。"
+    },
+    {
+        "name": "DBPedia",
+        "definition": "DBPedia 是一个从开放的互联网信息中自动抽取实体与关系构建的知识图谱。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识抽取",
+        "purpose": "用于从互联网信息中自动抽取实体与关系，以构建大规模知识图谱。"
+    },
+    {
+        "name": "通用本体",
+        "definition": "描述通用领域概念及其关系的结构化知识体系",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于通用知识组织和推理"
+    },
+    {
+        "name": "领域本体",
+        "definition": "描述特定领域概念及其关系的结构化知识体系",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于特定领域知识组织和推理"
+    },
+    {
+        "name": "本体层",
+        "definition": "本体层是知识图谱中用于定义实体及其关系的结构化框架。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于定义实体及其关系，支持知识的规范构建和推理。"
+    },
+    {
+        "name": "GeoNames",
+        "definition": "GeoNames是一个行业知识图谱的例子，用于地理信息的知识表示和组织。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于地理信息的知识表示和组织。"
+    },
+    {
+        "name": "中医医案知识图谱",
+        "definition": "中医医案知识图谱是面向中医领域的知识图谱，用于知识推理和辅助分析。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于中医领域的知识推理和辅助分析。"
+    },
+    {
+        "name": "个性化推荐",
+        "definition": "基于用户画像, 不同的用户会看到不同的推荐结果",
+        "aliases": [
+            "个性化推荐"
+        ],
+        "category": "Task",
+        "sub_domain": "推荐系统",
+        "purpose": "实现精准营销与推荐"
+    },
+    {
+        "name": "知识抽取",
+        "definition": "从非结构化文本中提取实体、关系和属性的过程。",
+        "aliases": [
+            "知识抽取技术"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "为知识图谱提供结构化数据。"
+    },
+    {
+        "name": "属性抽取",
+        "definition": "从数据中提取实体的属性。",
+        "aliases": [
+            "属性抽取"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "提取知识图谱的属性"
+    },
+    {
+        "name": "本体学习",
+        "definition": "通过机器学习技术自动或半自动地从数据中学习本体。",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "学习本体"
+    },
+    {
+        "name": "命名实体学习",
+        "definition": "自动发现具体的人名、组织机构名、地名、日期、时间等实体的过程。",
+        "aliases": [
+            "命名实体识别"
+        ],
+        "category": "Method",
+        "sub_domain": "知识抽取",
+        "purpose": "提取实体"
+    },
+    {
+        "name": "实体对齐",
+        "definition": "判断相同或不同数据集中的多个实体是否指向客观世界同一实体, 解决一个实体对应多个名称的问题",
+        "aliases": [
+            "实体对齐"
+        ],
+        "category": "Task",
+        "sub_domain": "知识整合",
+        "purpose": "解决实体名称不一致的问题"
+    },
+    {
+        "name": "本体构建",
+        "definition": "构建知识图谱的模式层",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识图谱构建",
+        "purpose": "构建知识图谱的模式层"
+    },
+    {
+        "name": "实体学习",
+        "definition": "将知识抽取得到的实体匹配填充到所构建的模式层本体中",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识图谱构建",
+        "purpose": "填充知识图谱的实体"
+    },
+    {
+        "name": "OWL",
+        "definition": "基于描述逻辑的本体描述语言，用于描述网络资源的本体。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "构建在RDF之上，具有更强的表达及解释能力"
+    },
+    {
+        "name": "信息抽取",
+        "definition": "从非结构化或半结构化数据中提取结构化信息的过程，如实体、关系和事件。",
+        "aliases": [
+            "信息抽取",
+            "信息抽取技术"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "从文本中提取结构化信息，为知识图谱的构建提供基础数据。"
+    },
+    {
+        "name": "机器学习",
+        "definition": "通过数据训练模型，使计算机能够自动学习和改进技能",
+        "aliases": [
+            "机器学习"
+        ],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "自动获取知识资源"
+    },
+    {
+        "name": "人工智能",
+        "definition": "使计算机能够执行需要人类智能的任务",
+        "aliases": [
+            "人工智能"
+        ],
+        "category": "Theory",
+        "sub_domain": "知识表示学习",
+        "purpose": "实现知识推理等任务"
+    },
+    {
+        "name": "实体",
+        "definition": "知识图谱中表示具体事物或概念的节点",
+        "aliases": [
+            "实体"
+        ],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "存储和组织知识"
+    },
+    {
+        "name": "关系",
+        "definition": "实体之间的联系或关联",
+        "aliases": [
+            "关系"
+        ],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "存储和组织知识"
+    },
+    {
+        "name": "事实",
+        "definition": "实体之间关系的陈述或描述",
+        "aliases": [
+            "事实"
+        ],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "存储和组织知识"
+    },
+    {
+        "name": "群体智能",
+        "definition": "利用群体协作来解决复杂问题的方法。",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识抽取",
+        "purpose": "通过群体协作来构建和维护知识库。"
+    },
+    {
+        "name": "维基百科",
+        "definition": "一个由用户协作维护的在线百科全书。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "提供丰富的知识资源，用于构建知识图谱。"
+    },
+    {
+        "name": "DBpedia",
+        "definition": "基于维基百科构建的结构化知识库。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "组织和存储维基百科中的知识。"
+    },
+    {
+        "name": "Freebase",
+        "definition": "基于维基百科构建的包含大量实体的结构化数据知识图谱。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "构建包含大量实体的结构化数据知识图谱。"
+    },
+    {
+        "name": "互动百科",
+        "definition": "一个用户协作维护的百科全书。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "提供丰富的知识资源，用于构建知识图谱。"
+    },
+    {
+        "name": "百度百科",
+        "definition": "一个用户协作维护的百科全书。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "提供丰富的知识资源，用于构建知识图谱。"
+    },
+    {
+        "name": "XLore",
+        "definition": "基于互动百科和百度百科构建的大型知识图谱。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "组织和存储互动百科和百度百科中的知识。"
+    },
+    {
+        "name": "ZhiShi.me",
+        "definition": "基于互动百科和百度百科构建的大型知识图谱。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "组织和存储互动百科和百度百科中的知识。"
+    },
+    {
+        "name": "知识表示技术",
+        "definition": "知识表示技术可以分成符号主义和联结主义。",
+        "aliases": [],
+        "category": "Theory",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于表示和推理知识"
+    },
+    {
+        "name": "符号主义",
+        "definition": "符号主义的基础是纽威尔和西蒙提出的物理符号系统假设。",
+        "aliases": [],
+        "category": "Theory",
+        "sub_domain": "知识表示学习",
+        "purpose": "认为人类认知和思维的基本单元是符号，而认知过程就是在符号表示上的运算"
+    },
+    {
+        "name": "联结主义",
+        "definition": "联结主义认为，人的认知就是相互联系的具有一定活性值的神经单元所形成网络的整体活动。",
+        "aliases": [],
+        "category": "Theory",
+        "sub_domain": "知识表示学习",
+        "purpose": "知识信息不存在于特定的点，而是在神经网络的联结或者权重中"
+    },
+    {
+        "name": "物理符号系统假设",
+        "definition": "物理符号系统假设是符号主义的基础。",
+        "aliases": [],
+        "category": "Theory",
+        "sub_domain": "知识表示学习",
+        "purpose": "认为人类认知和思维的基本单元是符号，而认知过程就是在符号表示上的运算"
+    },
+    {
+        "name": "逻辑表示法",
+        "definition": "逻辑表示法是一种基于符号逻辑的知识表示方法。",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于知识表示和推理"
+    },
+    {
+        "name": "产生式表示法",
+        "definition": "产生式表示法是一种基于符号逻辑的知识表示方法。",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于知识表示和推理"
+    },
+    {
+        "name": "框架表示",
+        "definition": "框架表示是一种基于符号逻辑的知识表示方法。",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于知识表示和推理"
+    },
+    {
+        "name": "一阶逻辑",
+        "definition": "一阶逻辑是一种逻辑表示法。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于知识表示和推理"
+    },
+    {
+        "name": "描述逻辑",
+        "definition": "一种基于对象的知识表示的形式化工具，是一阶谓词逻辑的子集，它是本体语言推理的重要设计基础。",
+        "aliases": [
+            "Description Logic"
+        ],
+        "category": "Theory",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于知识库中的概念之间和关系之间的关系推理"
+    },
+    {
+        "name": "语义网",
+        "definition": "一种基于本体的网络，用于描述和链接网络上的资源，以支持语义推理和查询。",
+        "aliases": [
+            "语义网络"
+        ],
+        "category": "Theory",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于描述和链接网络上的资源，支持语义推理和查询。"
+    },
+    {
+        "name": "XML",
+        "definition": "基于标签的半结构化标记语言",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "通过为内容置标，便于数据交换"
+    },
+    {
+        "name": "RDF",
+        "definition": "基于三元组（主体，谓词，客体）描述互联网资源之间的语义关系",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "描述互联网资源之间的语义关系"
+    },
+    {
+        "name": "知识表示学习",
+        "definition": "通过机器学习或深度学习，将研究对象的语义信息表示为稠密低维的实值向量。可以显著提升计算效率，有效缓解数据稀疏性，更容易实现不同来源的异质信息融合。",
+        "aliases": [],
+        "category": "Method, Theory",
+        "sub_domain": "知识表示学习",
+        "purpose": "对不同粒度知识单元进行隐式的向量化表示，以支持大数据环境下知识的快速计算；提升表示学习效果，以表示更复杂的关系"
+    },
+    {
+        "name": "张量重构",
+        "definition": "综合整个知识库的信息，但计算量较大。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "对不同粒度知识单元进行隐式的向量化表示，以支持大数据环境下知识的快速计算"
+    },
+    {
+        "name": "势能函数",
+        "definition": "认为关系是头实体到尾实体的一种平移变换。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "对不同粒度知识单元进行隐式的向量化表示，以支持大数据环境下知识的快速计算"
+    },
+    {
+        "name": "TransE",
+        "definition": "一种知识表示学习模型，用于学习实体和关系之间的向量表示。",
+        "aliases": [
+            "TransE"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "学习实体和关系之间的向量表示，以增强知识图谱的表示能力。"
+    },
+    {
+        "name": "概念层次学习",
+        "definition": "通过合理的技术，抽取知识表示中的概念，并确定其上下位关系",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "概念层次学习",
+        "purpose": "确定概念的上下位关系"
+    },
+    {
+        "name": "知识图谱构建方法",
+        "definition": "按照知识图谱构建时采用的机器学习方法可以分为有监督、半监督及无监督的知识图谱构建方法",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识图谱构建",
+        "purpose": "构建知识图谱"
+    },
+    {
+        "name": "有监督的知识图谱构建方法",
+        "definition": "有监督的事实知识获取方法需要有已标注文档作为训练集",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识图谱构建",
+        "purpose": "构建知识图谱"
+    },
+    {
+        "name": "半监督的知识图谱构建方法",
+        "definition": "有监督的事实知识获取方法需要有已标注文档作为训练集",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识图谱构建",
+        "purpose": "构建知识图谱"
+    },
+    {
+        "name": "无监督的知识图谱构建方法",
+        "definition": "有监督的事实知识获取方法需要有已标注文档作为训练集",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识图谱构建",
+        "purpose": "构建知识图谱"
+    },
+    {
+        "name": "基于规则学习的语义标注方法",
+        "definition": "从带语义标注的语料中自动学习标注规则，利用规则对数据资源进行语义标注",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识图谱构建",
+        "purpose": "进行语义标注"
+    },
+    {
+        "name": "基于分类的知识获取方法",
+        "definition": "将知识获取转化为分类问题，根据确定的标注特征从标注语料中学习标注模型",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识图谱构建",
+        "purpose": "进行知识获取"
+    },
+    {
+        "name": "基于序列模式标注的方法",
+        "definition": "同时考虑多个语义标注之间的关系，可以提高标注的准确率",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识图谱构建",
+        "purpose": "进行语义标注"
+    },
+    {
+        "name": "语义集成",
+        "definition": "在异构知识库之间，发现实体间的等价关系，从而实现知识共享。",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识共享",
+        "purpose": "实现异构知识库之间的知识共享"
+    },
+    {
+        "name": "本体映射",
+        "definition": "语义集成中的主要环节，用于发现异构知识库之间实体的等价关系。",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识共享",
+        "purpose": "发现异构知识库之间实体的等价关系"
+    },
+    {
+        "name": "基于文本的方法",
+        "definition": "利用本体中实体的文本信息，例如实体的标签和摘要，通过计算两个实体字符串之间的相似度来确定实体之间是否具有匹配关系。",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识共享",
+        "purpose": "确定实体之间是否具有匹配关系"
+    },
+    {
+        "name": "基于结构的方法",
+        "definition": "利用本体的图结构信息对本体进行匹配，其中较为代表性的方法有 Sim-Rank 和相似度传播。通过结构化的方式建立本体之间的映射",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": [
+            "知识共享",
+            "本体"
+        ],
+        "purpose": "对本体进行匹配"
+    },
+    {
+        "name": "Sim-Rank",
+        "definition": "一种基于图结构的方法，用于对实体间的相似度进行传播，从而提高对齐的效果。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识共享",
+        "purpose": "提高对齐的效果"
+    },
+    {
+        "name": "相似度传播",
+        "definition": "一种基于图结构的方法，用于对实体间的相似度进行传播，从而提高对齐的效果。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识共享",
+        "purpose": "提高对齐的效果"
+    },
+    {
+        "name": "语义搜索",
+        "definition": "利用知识图谱的结构形式，以有向图的方式提供满足用户需求的结构化语义内容。",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识搜索",
+        "purpose": "改善搜索结果，通过语义标注和结构化信息提高搜索质量。"
+    },
+    {
+        "name": "ＲＤＦ",
+        "definition": "一种用于表示知识的标准化格式，通常用于语义搜索和知识图谱。",
+        "aliases": [
+            "Resource Description Framework"
+        ],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于语义搜索和知识图谱中的知识表示。"
+    },
+    {
+        "name": "ＯＷＬ",
+        "definition": "一种用于描述知识的格式，通常用于语义搜索和知识图谱。",
+        "aliases": [
+            "Web Ontology Language"
+        ],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于语义搜索和知识图谱中的知识描述。"
+    },
+    {
+        "name": "链接数据",
+        "definition": "一种用于表示知识图谱中实体之间关系的数据格式。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于知识图谱中的实体关系表示。"
+    },
+    {
+        "name": "知识问答",
+        "definition": "基于知识库的问答通过对问句的语义分析，将非结构化问句解析成结构化的查询，在已有结构化的知识库上获取答案",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识问答",
+        "purpose": "在已有结构化的知识库上获取答案"
+    },
+    {
+        "name": "知识获取",
+        "definition": "知识的获取方法",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识抽取",
+        "purpose": "研究知识表示和获取的新理论和方法"
+    },
+    {
+        "name": "知识驱动的智能信息处理应用",
+        "definition": "基于知识图谱的应用研究",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识表示学习",
+        "purpose": "推进知识驱动的智能信息处理应用"
+    },
+    {
+        "name": "知识加工",
+        "definition": "对提取和融合后的知识进行进一步处理，如规范化、验证和存储。",
+        "aliases": [
+            "知识处理",
+            "知识加工"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "对提取和融合后的知识进行进一步处理，确保其质量和可用性。"
+    },
+    {
+        "name": "语义搜索引擎",
+        "definition": "一种能够理解用户查询的语义并提供更相关搜索结果的搜索引擎。",
+        "aliases": [
+            "语义搜索"
+        ],
+        "category": "Method",
+        "sub_domain": "信息检索",
+        "purpose": "理解用户查询的语义并提供更相关搜索结果，提高搜索的准确性和效率。"
+    },
+    {
+        "name": "自然语言处理",
+        "definition": "使计算机能够理解、解析和生成人类语言的技术。",
+        "aliases": [
+            "NLP"
+        ],
+        "category": "Method",
+        "sub_domain": "信息检索",
+        "purpose": "使计算机能够理解、解析和生成人类语言，为知识图谱的构建提供技术支持。"
+    },
+    {
+        "name": "搜索引擎",
+        "definition": "传统搜索引擎技术能够根据用户查询快速排序网页，提高信息检索的效率",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "信息检索",
+        "purpose": "提高信息检索的效率"
+    },
+    {
+        "name": "数据链接",
+        "definition": "数据链接是一种思想，呼吁推广和完善相关的技术标准。",
+        "aliases": [
+            "Linked Data"
+        ],
+        "category": "Theory",
+        "sub_domain": "知识表示学习",
+        "purpose": "为迎接语义网络时代的到来做好准备"
+    },
+    {
+        "name": "URI",
+        "definition": "URI是统一资源标识符，用于唯一标识网络资源。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于唯一标识网络资源"
+    },
+    {
+        "name": "实体关系抽取",
+        "definition": "通过建模实体间关系的模式进行关系抽取",
+        "aliases": [
+            "关系抽取"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "用于识别和抽取文本中实体之间的关系"
+    },
+    {
+        "name": "ＯＩＥ 系统",
+        "definition": "用于抽取实体间关系的系统",
+        "aliases": [
+            "Ontology Induction and Extraction System"
+        ],
+        "category": "Model",
+        "sub_domain": "知识抽取",
+        "purpose": "提高实体间关系的抽取准确率和召回率"
+    },
+    {
+        "name": "Ｎ 元关系模型",
+        "definition": "用于改进ＯＩＥ系统以处理高阶多元实体关系的模型",
+        "aliases": [
+            "N-ary Relationship Model"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "提高ＯＩＥ系统对多元实体关系的识别能力"
+    },
+    {
+        "name": "ＫＲＡＫＥＮ 模型",
+        "definition": "改进ＯＩＥ系统的模型，能够有效提高对多元实体关系的识别能力",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "提高ＯＩＥ系统对多元实体关系的识别能力"
+    },
+    {
+        "name": "后期关系推理",
+        "definition": "用于提高ＯＩＥ系统对隐含实体关系发现能力的方法",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识抽取",
+        "purpose": "提高ＯＩＥ系统对隐含实体关系的发现能力"
+    },
+    {
+        "name": "实体链接",
+        "definition": "是指对于从文本中抽取得到的实体对象，将其链接到知识库中对应的正确实体对象的操作",
+        "aliases": [
+            "Entity Linking",
+            "实体链接"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "将从文本中抽取到的实体链接到知识库中对应的正确实体对象"
+    },
+    {
+        "name": "实体消歧",
+        "definition": "专门用于解决同名实体产生歧义问题的技术",
+        "aliases": [
+            "实体消歧"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "根据当前的语境，准确建立实体链接"
+    },
+    {
+        "name": "百科知识模型",
+        "definition": "利用百科类网站中实体页面之间的链接关系计算实体指称项之间的相似度",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "计算实体指称项之间的相似度，以消除同名实体间的歧义"
+    },
+    {
+        "name": "主题模型",
+        "definition": "一种用于发现文档中隐藏主题的统计模型",
+        "aliases": [
+            "LDA模型"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于相似度计算，以提高实体消歧的准确率"
+    },
+    {
+        "name": "Linde模型",
+        "definition": "一种同时考虑文本相似性和主题一致性的模型",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于实体消歧，取得当前最好的实验结果"
+    },
+    {
+        "name": "生成模型",
+        "definition": "一种基于概率的模型，用于生成数据",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于实体消歧，降低对知识库的依赖"
+    },
+    {
+        "name": "实体消歧技术",
+        "definition": "帮助搜索引擎更好地理解用户的搜索意图，从而给出更好的上下文推荐结果，提高搜索服务质量",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识抽取",
+        "purpose": "解决实体存在歧义时的重要性评估问题，以确定推荐内容的优先级"
+    },
+    {
+        "name": "对象对齐",
+        "definition": "学术界对该问题有多种不同的表述",
+        "aliases": [
+            "object alignment"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "解决实体识别和匹配问题"
+    },
+    {
+        "name": "实体匹配",
+        "definition": "学术界对该问题有多种不同的表述",
+        "aliases": [
+            "entity matching"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "解决实体识别和匹配问题"
+    },
+    {
+        "name": "实体同义",
+        "definition": "学术界对该问题有多种不同的表述",
+        "aliases": [
+            "entity synonyms"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "解决实体识别和匹配问题"
+    },
+    {
+        "name": "共指消解",
+        "definition": "解决指称项与实体对象匹配的问题",
+        "aliases": [
+            "coreference resolution",
+            "指代消解"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "解决文本中指称项与实体对象的匹配问题"
+    },
+    {
+        "name": "Ｈｏｂｂｓ算法",
+        "definition": "基于自然语言处理的共指消解的代表性方法",
+        "aliases": [
+            "Hobbs algorithm",
+            "Hobbs算法"
+        ],
+        "category": "Method",
+        "sub_domain": "知识抽取",
+        "purpose": "解决实体识别和匹配问题"
+    },
+    {
+        "name": "向心理论",
+        "definition": "基于自然语言处理的共指消解的代表性方法",
+        "aliases": [
+            "centering theory"
+        ],
+        "category": "Theory",
+        "sub_domain": "知识抽取",
+        "purpose": "解决实体识别和匹配问题"
+    },
+    {
+        "name": "知识库融合",
+        "definition": "将外部知识库融合到本地知识库需要处理两个层面的问题",
+        "aliases": [
+            "知识库融合"
+        ],
+        "category": "Task",
+        "sub_domain": "知识融合",
+        "purpose": "促进知识库融合的标准化"
+    },
+    {
+        "name": "分布相似度",
+        "definition": "在相似的上下文环境中频繁出现的实体之间具有语义上的相似性",
+        "aliases": [
+            "distributional similarity"
+        ],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "通过计算实体向量间的相似度，得到实体间的并列关系相似度"
+    },
+    {
+        "name": "实体聚类方法",
+        "definition": "用于本体生成的方法，通过聚类实体描述来构建本体结构",
+        "aliases": [
+            "实体聚类"
+        ],
+        "category": "Method",
+        "sub_domain": "知识抽取",
+        "purpose": "解决实体描述简短、缺乏上下文信息的问题"
+    },
+    {
+        "name": "单词共现网络",
+        "definition": "用于捕捉文本中词语共现关系的网络结构",
+        "aliases": [
+            "共现网络"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "辅助主题聚类和上位词抽取"
+    },
+    {
+        "name": "本体结构",
+        "definition": "表示知识图谱中实体和关系的结构化表示",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "组织和表示知识图谱中的实体和关系"
+    },
+    {
+        "name": "贝叶斯模型",
+        "definition": "基于贝叶斯概率理论的统计模型",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "实现实体关键词的分层聚类"
+    },
+    {
+        "name": "知识库",
+        "definition": "包含ＴＢｏｘ（术语盒）与ＡＢｏｘ（事实盒）的系统",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于存储和管理知识"
+    },
+    {
+        "name": "ＴＢｏｘ",
+        "definition": "用于描述概念之间和关系之间的关系的公理集合",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于描述概念之间和关系之间的关系"
+    },
+    {
+        "name": "ＡＢｏｘ",
+        "definition": "用于描述具体事实的公理集合",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于描述具体事实"
+    },
+    {
+        "name": "一致性检验",
+        "definition": "将基于描述逻辑的推理归结为一致性检验问题",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识推理",
+        "purpose": "简化并实现关系推理"
+    },
+    {
+        "name": "Web本体语言（OWL）",
+        "definition": "用于描述本体的标准化语言",
+        "aliases": [
+            "OWL"
+        ],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "提供丰富的语句和知识描述能力"
+    },
+    {
+        "name": "语义Web规则语言（SWRL）",
+        "definition": "用于添加自定义规则的规则语言",
+        "aliases": [
+            "SWRL"
+        ],
+        "category": "Method",
+        "sub_domain": "知识推理",
+        "purpose": "对本体模型进行功能拓展"
+    },
+    {
+        "name": "关系推理",
+        "definition": "基于本体进行推理的过程",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识推理",
+        "purpose": "实现网络服务的匹配机制"
+    },
+    {
+        "name": "基于神经网络模型的推理方法",
+        "definition": "基于神经网络模型进行知识图谱中的关系推理",
+        "aliases": [
+            "神经网络推理方法"
+        ],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于知识图谱中的关系推理"
+    },
+    {
+        "name": "PathRanking算法",
+        "definition": "将知识图谱视为图，通过随机游走推测实体间关系的算法",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于知识图谱中的关系推理"
+    },
+    {
+        "name": "神经张量网络模型",
+        "definition": "一种神经网络模型，用于知识图谱中的关系推理",
+        "aliases": [
+            "神经张量网络"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于知识图谱中的关系推理"
+    },
+    {
+        "name": "跨知识库的知识推理",
+        "definition": "通过不同知识库中的已有知识进行推理的方法",
+        "aliases": [
+            "跨知识库推理"
+        ],
+        "category": "Task",
+        "sub_domain": "知识推理",
+        "purpose": "解决跨知识库的知识推理问题"
+    },
+    {
+        "name": "质量评估",
+        "definition": "对知识的可信度进行量化",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识库构建技术",
+        "purpose": "保障知识库的质量"
+    },
+    {
+        "name": "质量评估方法",
+        "definition": "支持用户根据自身业务需求灵活定义质量评估函数，也可以对多种评估方法的结果进行综合考评以确定知识的最终质量评分",
+        "aliases": [
+            "Sieve方法"
+        ],
+        "category": "Method",
+        "sub_domain": "质量评估",
+        "purpose": "解决知识库之间的冲突问题"
+    },
+    {
+        "name": "逻辑斯蒂回归模型",
+        "definition": "用于对REVERB系统的的信息抽取结果计算置信度",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "信息抽取",
+        "purpose": "用于对REVERB系统的的信息抽取结果计算置信度"
+    },
+    {
+        "name": "跨语言知识图谱",
+        "definition": "应用于跨语言的信息检索、机器翻译以及跨语言知识问答等",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识图谱构建",
+        "purpose": "解决跨语言信息处理中的问题"
+    },
+    {
+        "name": "跨语言知识抽取",
+        "definition": "跨语言知识抽取是指从不同语言的文本中提取知识的 technique。",
+        "aliases": [
+            "跨语言知识抽取技术",
+            "跨语言知识抽取"
+        ],
+        "category": "Method",
+        "sub_domain": "知识抽取",
+        "purpose": "弥补单语种知识的不足，实现跨语言的信息发布、媒体监督和商业智能服务"
+    },
+    {
+        "name": "知识链接",
+        "definition": "构建跨语言知识图谱需要解决的关键问题之一，其主要思想是将不同语言表示的相同知识链接起来，包括模式层的链接和数据层的链接。",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识图谱构建",
+        "purpose": "解决跨语言知识图谱中的知识链接问题"
+    },
+    {
+        "name": "跨语言本体映射",
+        "definition": "实现不同语言的本体库之间的本体映射",
+        "aliases": [
+            "cross-lingual ontology mapping",
+            "alignment"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "实现不同语言的本体库之间的本体映射"
+    },
+    {
+        "name": "单语种本体映射",
+        "definition": "实现同一语言的本体库之间的本体映射",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "实现同一语言的本体库之间的本体映射"
+    },
+    {
+        "name": "外部知识库融合",
+        "definition": "将外部知识库中的信息与文本中的信息进行整合",
+        "aliases": [
+            "外部知识库融合"
+        ],
+        "category": "Task",
+        "sub_domain": "知识融合",
+        "purpose": "将外部知识库中的信息与文本中的信息进行整合"
+    },
+    {
+        "name": "关系数据库知识融合",
+        "definition": "将关系数据库中的信息与文本中的信息进行整合",
+        "aliases": [
+            "关系数据库知识融合"
+        ],
+        "category": "Task",
+        "sub_domain": "知识融合",
+        "purpose": "将关系数据库中的信息与文本中的信息进行整合"
+    },
+    {
+        "name": "知识质量评估",
+        "definition": "对知识质量评估问题的研究则主要关注建立完善的质量评估技术标准和指标体系",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识质量",
+        "purpose": "建立知识图谱的质量评估技术标准和指标体系"
+    },
+    {
+        "name": "增量更新技术",
+        "definition": "在知识更新环节，增量更新技术是未来的发展方向",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识更新",
+        "purpose": "提高知识图谱的自动化更新程度"
+    },
+    {
+        "name": "深度学习",
+        "definition": "一种基于神经网络的机器学习方法，用于从数据中学习特征和模式。",
+        "aliases": [
+            "深度神经网络",
+            "DL"
+        ],
+        "category": "Model",
+        "sub_domain": "深度学习",
+        "purpose": "从数据中学习特征和模式，用于解决复杂的机器学习问题。"
+    },
+    {
+        "name": "卷积神经网络",
+        "definition": "一种深度学习模型，通过卷积操作提取数据特征。",
+        "aliases": [
+            "CNN"
+        ],
+        "category": "Model",
+        "sub_domain": "深度学习",
+        "purpose": "通过卷积操作提取数据特征"
+    },
+    {
+        "name": "循环神经网络",
+        "definition": "一种深度学习模型，通过循环结构处理序列数据。",
+        "aliases": [
+            "RNN"
+        ],
+        "category": "Model",
+        "sub_domain": "深度学习",
+        "purpose": "通过循环结构处理序列数据"
+    },
+    {
+        "name": "链接预测",
+        "definition": "在知识图谱中预测实体之间的潜在关系。",
+        "aliases": [
+            "链接预测技术"
+        ],
+        "category": "Task",
+        "sub_domain": "链接预测",
+        "purpose": "在知识图谱中预测实体之间的潜在关系，提高知识图谱的完整性。"
+    },
+    {
+        "name": "命名实体识别",
+        "definition": "从文本中识别和分类命名实体的任务。",
+        "aliases": [
+            "NER"
+        ],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "从文本中识别和分类命名实体"
+    },
+    {
+        "name": "知识计算",
+        "definition": "知识图谱的主要输出能力。",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识计算",
+        "purpose": "实现知识图谱的主要输出能力"
+    },
+    {
+        "name": "残差膨胀卷积神经网络",
+        "definition": "结合CRF的残差膨胀卷积神经网络（RD-CNN-CRF）",
+        "aliases": [
+            "RD-CNN-CRF"
+        ],
+        "category": "Model",
+        "sub_domain": "神经网络",
+        "purpose": "解决传统CNN模型学习速率低的问题"
+    },
+    {
+        "name": "CRF",
+        "definition": "用于捕获相邻标签相关性的模型",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "序列标注",
+        "purpose": "捕获相邻标签的相关性"
+    },
+    {
+        "name": "CNN",
+        "definition": "卷积神经网络",
+        "aliases": [
+            "卷积神经网络"
+        ],
+        "category": "Model",
+        "sub_domain": "神经网络",
+        "purpose": "学习图像或序列数据的特征"
+    },
+    {
+        "name": "LSTM",
+        "definition": "一种循环神经网络模型",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "神经网络模型",
+        "purpose": "用于序列数据的建模和预测"
+    },
+    {
+        "name": "BI-LSTM",
+        "definition": "一种双向长短期记忆网络模型。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "深度学习",
+        "purpose": "用于捕捉句子的内部语义信息。"
+    },
+    {
+        "name": "BI-LSTM-CRF",
+        "definition": "",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "神经网络模型",
+        "purpose": "用于序列标注任务，提高命名实体识别的准确率"
+    },
+    {
+        "name": "Att-RCNN",
+        "definition": "一种结合注意力机制的卷积神经网络模型。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "深度学习",
+        "purpose": "用于提取文本特征与关系分类。"
+    },
+    {
+        "name": "自注意力机制",
+        "definition": "一种用于捕捉序列中元素之间关系的机制。",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "深度学习",
+        "purpose": "用于关系抽取。"
+    },
+    {
+        "name": "BI-GRU",
+        "definition": "一种双向门控循环单元模型。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "深度学习",
+        "purpose": "用于改善单一模型特征提取不足的问题。"
+    },
+    {
+        "name": "注意力机制",
+        "definition": "一种用于强化关键词与特征的机制。",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "深度学习",
+        "purpose": "用于提高分类性能。"
+    },
+    {
+        "name": "SemEval-2010",
+        "definition": "一个用于评估关系抽取任务的基准数据集。",
+        "aliases": [],
+        "category": "Data Structure",
+        "sub_domain": "自然语言处理",
+        "purpose": "用于评估关系抽取模型的性能。"
+    },
+    {
+        "name": "级联二进制标记框架",
+        "definition": "一种用于关系抽取的框架，通过Subject Tagger与Relation-Specific Object Taggers获取实体关系三元组",
+        "aliases": [
+            "CasRel"
+        ],
+        "category": "Model",
+        "sub_domain": "知识抽取",
+        "purpose": "有效解决关系重叠问题"
+    },
+    {
+        "name": "三元组抽取",
+        "definition": "将实体关系三元组分为头实体抽取和尾实体抽取两个部分",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "解决SEO问题"
+    },
+    {
+        "name": "EPO_None/Two/Three_Tagging",
+        "definition": "三种策略用于尾实体抽取",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识抽取",
+        "purpose": "对尾实体进行标记"
+    },
+    {
+        "name": "基于 NLP 的方法",
+        "definition": "通过自然语言处理技术比较映射对象的相似度",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "本体",
+        "purpose": "用于寻找词形的变化"
+    },
+    {
+        "name": "基于实例的方法",
+        "definition": "通过机器学习方法学习正确的映射",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "本体",
+        "purpose": "解决异构本体之间的映射问题"
+    },
+    {
+        "name": "谓词逻辑推理",
+        "definition": "基于逻辑规则的推理方法，包括谓词逻辑推理、本体推理和随机推理。",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于自动提取高质量的事实并去除噪声"
+    },
+    {
+        "name": "本体推理",
+        "definition": "基于逻辑规则的推理方法，包括谓词逻辑推理、本体推理和随机推理。",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于自动提取高质量的事实并去除噪声"
+    },
+    {
+        "name": "一阶归纳学习",
+        "definition": "一种典型的谓词逻辑推理方法，可以自动提取高质量的事实并去除噪声。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于自动提取高质量的事实并去除噪声"
+    },
+    {
+        "name": "本体寻路",
+        "definition": "一种算法，通过一系列的并行优化技术实现大规模的知识图谱，在 Freebase 数据库中挖掘了第一个规则集。",
+        "aliases": [
+            "Ontological Pathfinding"
+        ],
+        "category": "Model",
+        "sub_domain": "知识图谱",
+        "purpose": "用于实现大规模的知识图谱并挖掘规则集"
+    },
+    {
+        "name": "双层随机游走",
+        "definition": "一种用于解决实体关系推理中准确率和召回率低问题的算法",
+        "aliases": [
+            "TRWA"
+        ],
+        "category": "Method",
+        "sub_domain": "知识图谱",
+        "purpose": "提高算法的准确率和召回率"
+    },
+    {
+        "name": "翻译模型",
+        "definition": "一种用于知识推理的模型",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识图谱",
+        "purpose": "用于知识推理"
+    },
+    {
+        "name": "张量分解",
+        "definition": "将知识图谱中的实体关系三元组通过张量分解方法进行表示学习",
+        "aliases": [
+            "张量分解方法"
+        ],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于知识图谱中的实体关系表示学习"
+    },
+    {
+        "name": "语义匹配模型",
+        "definition": "一种用于知识推理的模型",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识图谱",
+        "purpose": "用于知识推理"
+    },
+    {
+        "name": "TransR",
+        "definition": "一种知识图谱中的模型，用于表示三元组关系。",
+        "aliases": [
+            "TransR"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "建模三元组关系，提升知识推理的性能"
+    },
+    {
+        "name": "TransN",
+        "definition": "一种知识图谱中的模型，用于整合三元组周围的邻域信息。",
+        "aliases": [
+            "TransN"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "整合三元组周围的邻域信息，提升知识推理的性能"
+    },
+    {
+        "name": "Rotate",
+        "definition": "一种知识图谱中的模型，用于建模和推断各种关系的模式。",
+        "aliases": [
+            "Rotate"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "建模和推断各种关系的模式，提升模型效果"
+    },
+    {
+        "name": "TransE-NA",
+        "definition": "在 TransE 的基础上引入三元组邻域信息的表示模型。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "通过聚合邻域信息来缓解数据稀疏问题。"
+    },
+    {
+        "name": "RLPTransE",
+        "definition": "将知识表示与强化学习相结合的模型，用于增强知识推理的可解释性。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识推理",
+        "purpose": "将知识推理问题转化为马尔科夫序列决策问题，增强知识推理的可解释性。"
+    },
+    {
+        "name": "RESCAL",
+        "definition": "将高维关系数据分解为三阶张量，在降低数据维度的同时又保持了数据原有特征",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识推理",
+        "purpose": "用于知识图谱中的推理任务"
+    },
+    {
+        "name": "TRESCAL",
+        "definition": "引入实体类型信息来约束并排除不满足关系的三元组",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识推理",
+        "purpose": "用于知识图谱中的推理任务"
+    },
+    {
+        "name": "路径张量分解",
+        "definition": "通过对知识图谱进行路径张量分解，旨在解决知识图谱推理中忽略实体间关系路径的问题",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识图谱推理",
+        "purpose": "解决知识图谱推理中忽略实体间关系路径的问题，高效地挖掘实体间的关系与新事实，有助于完善知识图谱"
+    },
+    {
+        "name": "DistMult 模型",
+        "definition": "将 RESCAL 中的每一个关系向量转换为对角矩阵，从而对 RESCAL 进行简化，减少参数",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识推理",
+        "purpose": "在对现有知识库的推理中表现出了较好的效果"
+    },
+    {
+        "name": "神经张量网络",
+        "definition": "一种新的神经张量网络模型",
+        "aliases": [
+            "Neural Tensor Network",
+            "NTN"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "建模关系信息"
+    },
+    {
+        "name": "知识图谱嵌入",
+        "definition": "基于 LSTM 的知识图谱嵌入方法",
+        "aliases": [
+            "KGDL"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "实现知识推理"
+    },
+    {
+        "name": "ConvE",
+        "definition": "一种用于知识推理的卷积神经网络模型，采用二维卷积的嵌入来对知识图谱中的新链接进行推理。",
+        "aliases": [
+            "ConvE",
+            "Convolutional Knowledge Embeddings"
+        ],
+        "category": "Model",
+        "sub_domain": "知识图谱",
+        "purpose": "对知识图谱中的新链接进行推理并在现有数据集中获得较好结果"
+    },
+    {
+        "name": "InteractE",
+        "definition": "一种通过特征置换、特征重塑以及圆形卷积来捕捉额外的异构特征，增加实体关系间交互次数的模型。",
+        "aliases": [
+            "InteractE"
+        ],
+        "category": "Model",
+        "sub_domain": "知识图谱",
+        "purpose": "捕捉额外的异构特征，增加实体关系间的交互次数"
+    },
+    {
+        "name": "ProPPR",
+        "definition": "一种具有可解释性的通用概率逻辑系统，用于完成推荐任务。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "推荐系统",
+        "purpose": "完成推荐任务"
+    },
+    {
+        "name": "EntitySim",
+        "definition": "一种仅使用知识图谱链接来了解用户喜好的模型。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "推荐系统",
+        "purpose": "了解用户的喜好"
+    },
+    {
+        "name": "TypeSim",
+        "definition": "一种扩展的模型，利用实体的类型等额外信息。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "推荐系统",
+        "purpose": "利用实体的类型等额外信息"
+    },
+    {
+        "name": "GraphLF",
+        "definition": "一种基于图的潜在因子模型，用于展现对象的隐藏维度以提高推荐性能。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "推荐系统",
+        "purpose": "提高推荐性能"
+    },
+    {
+        "name": "深度概率逻辑系统",
+        "definition": "将概率逻辑和深度学习相结合，使用概率逻辑表示间接监督的监督模块，使用深度神经网络作为最终的预测模块",
+        "aliases": [
+            "Deep Probabilistic Logic",
+            "DPL"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于生物医学机器阅读实验，表现优良性能"
+    },
+    {
+        "name": "结构化知识",
+        "definition": "结构化的知识",
+        "aliases": [
+            "结构化知识"
+        ],
+        "category": "Data Structure",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于整合到神经网络结构中，通过将规则转换为可微分的计算图，使用其节点约束来系统地扩充现有的网络结构。"
+    },
+    {
+        "name": "深度学习模块",
+        "definition": "用于学习每个单词的特征表示",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "学习每个单词的特征表示"
+    },
+    {
+        "name": "逻辑模块",
+        "definition": "通过一阶逻辑（First-Order Logic，FOL）表示的一组逻辑规则",
+        "aliases": [
+            "First-Order Logic",
+            "FOL"
+        ],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "指明了输出标签的空间复杂关系"
+    },
+    {
+        "name": "映射函数",
+        "definition": "将神经网络的输出映射到逻辑系统",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "将神经网络的输出映射到逻辑系统并最终产生逻辑输出"
+    },
+    {
+        "name": "意见目标抽取任务",
+        "definition": "需要从文本中抽取与意见相关的目标",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "在意见目标抽取任务中效果较好"
+    },
+    {
+        "name": "关系抽取任务",
+        "definition": "需要从文本中抽取实体之间的关系",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识抽取",
+        "purpose": "在关系抽取任务中效果较好"
+    },
+    {
+        "name": "贝叶斯网络",
+        "definition": "一种概率图模型，用于表示变量之间的概率关系",
+        "aliases": [
+            "BN"
+        ],
+        "category": "Model",
+        "sub_domain": "概率图模型",
+        "purpose": "用于表示变量之间的概率关系"
+    },
+    {
+        "name": "因果推理",
+        "definition": "一种推理方法，用于推断变量之间的因果关系",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "因果推理",
+        "purpose": "用于推断变量之间的因果关系"
+    },
+    {
+        "name": "图网络",
+        "definition": "一种结合图和深度学习的网络结构，用于关系推理",
+        "aliases": [
+            "Graph Network"
+        ],
+        "category": "Model",
+        "sub_domain": "图神经网络",
+        "purpose": "用于关系推理和因果推理"
+    },
+    {
+        "name": "图神经网络",
+        "definition": "一种可以处理非欧几里德结构数据的神经网络",
+        "aliases": [
+            "图神经网络"
+        ],
+        "category": "Model",
+        "sub_domain": "图神经网络",
+        "purpose": "处理非欧几里德结构数据"
+    },
+    {
+        "name": "图卷积网络",
+        "definition": "一种图神经网络的类型",
+        "aliases": [
+            "GCN"
+        ],
+        "category": "Model",
+        "sub_domain": "图神经网络",
+        "purpose": "处理图结构数据"
+    },
+    {
+        "name": "图注意力网络",
+        "definition": "一种图神经网络的类型",
+        "aliases": [
+            "GAT"
+        ],
+        "category": "Model",
+        "sub_domain": "图神经网络",
+        "purpose": "处理图结构数据"
+    },
+    {
+        "name": "RCKD 模型",
+        "definition": "一种混合推荐模型，结合了知识图谱和深度学习",
+        "aliases": [
+            "RCKD"
+        ],
+        "category": "Model",
+        "sub_domain": "推荐模型",
+        "purpose": "结合知识图谱和深度学习进行推荐"
+    },
+    {
+        "name": "RCKC 模型",
+        "definition": "一种混合推荐模型，结合了知识图谱和协同过滤",
+        "aliases": [
+            "RCKC"
+        ],
+        "category": "Model",
+        "sub_domain": "推荐模型",
+        "purpose": "结合知识图谱和协同过滤进行推荐"
+    },
+    {
+        "name": "RCKD",
+        "definition": "一种利用知识图谱推理路径和深度学习进行语义预测评分的模型。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "用于知识图谱中的语义预测评分。"
+    },
+    {
+        "name": "RCKC",
+        "definition": "一种结合TransE模型和协同过滤思想进行用户物品推荐的模型。",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "推荐系统",
+        "purpose": "用于知识图谱中的用户物品推荐。"
+    },
+    {
+        "name": "小样本学习",
+        "definition": "最具潜力的研究方法之一，在计算机视觉中取得了较好的效果，使得模型具有高效的学习能力",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "提高模型的学习效率"
+    },
+    {
+        "name": "动态知识图谱推理",
+        "definition": "考虑时间信息的知识图谱推理",
+        "aliases": [],
+        "category": "Method",
+        "sub_domain": "知识表示学习",
+        "purpose": "捕捉图序列的动态信息"
+    },
+    {
+        "name": "EvolveGCN",
+        "definition": "使用 RNN 来演化 GCN 的参数，捕捉图序列的动态信息",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "捕捉图序列的动态信息"
+    },
+    {
+        "name": "RNN",
+        "definition": "循环神经网络",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "捕捉图序列的动态信息"
+    },
+    {
+        "name": "GCN",
+        "definition": "图卷积网络",
+        "aliases": [],
+        "category": "Model",
+        "sub_domain": "知识表示学习",
+        "purpose": "捕捉图序列的动态信息"
+    },
+    {
+        "name": "跨语言的知识推理",
+        "definition": "在不同语言之间进行知识推理",
+        "aliases": [],
+        "category": "Task",
+        "sub_domain": "知识表示学习",
+        "purpose": "在不同语言之间进行知识推理"
+    }
+]

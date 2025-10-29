@@ -1,0 +1,1535 @@
+[
+    {
+        "title": "CYC: A Large-scale Investment in Knowledge Infrastructure",
+        "category": "Research Paper",
+        "authors": [
+            "Lenat D B"
+        ],
+        "publication_year": 1995,
+        "source_name": "Communications of the ACM",
+        "url_or_doi": "10.1145/219717.219745",
+        "abstract_or_summary": "This paper presents CYC, a large-scale investment in knowledge infrastructure."
+    },
+    {
+        "title": "DBpedia - A Crystalization Point for the Web of Data",
+        "category": "Research Paper",
+        "authors": [
+            "Bizer",
+            "Lehmann",
+            "Kobilarov"
+        ],
+        "publication_year": 2009,
+        "source_name": "Web Semantics: Science, Services and Agents on the World Wide Web",
+        "url_or_doi": "10.1016/j.websem.2009.07.002",
+        "abstract_or_summary": "This paper presents DBpedia, a project that extracts structured information from Wikipedia and makes it available on the Web. DBpedia is a semantic markup of Wikipedia, which allows for easier querying and integration with other data sources."
+    },
+    {
+        "title": "DBpedia: A Nucleus for a Web of Open Data",
+        "category": "Research Paper",
+        "authors": [
+            "Auer",
+            "Bizer",
+            "Kobilarov"
+        ],
+        "publication_year": 2007,
+        "source_name": "The Semantic Web",
+        "url_or_doi": "10.1007/978-3-540-76298-0-52",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Yago: A Core of Semantic Knowledge",
+        "category": "Technical Report",
+        "authors": [
+            "Suchaneck F M",
+            "Kasneči G",
+            "Weikum G"
+        ],
+        "publication_year": 2007,
+        "source_name": "Proceedings of the 16th International Conference on World Wide Web",
+        "url_or_doi": "10.1145/1242572.1242667",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Yago: A Large Ontology from Wikipedia and WordNet",
+        "category": "Research Paper",
+        "authors": [
+            "Suchanek, F. M",
+            "Kasnec, G",
+            "Weikum, G"
+        ],
+        "publication_year": 2008,
+        "source_name": "Web Semantics: Science, Services and Agents on the World Wide Web",
+        "url_or_doi": "10.1016/j.websem.2008.06.001",
+        "abstract_or_summary": "This paper presents Yago, a large ontology derived from Wikipedia and WordNet. Yago combines the structured information from Wikipedia with the semantic relations from WordNet to create a rich and detailed ontology for the Web."
+    },
+    {
+        "title": "Why Linked Data is Not Enough for Scientists",
+        "category": "Research Paper",
+        "authors": [
+            "Bechhofer",
+            "Buchan",
+            "De Roure"
+        ],
+        "publication_year": 2013,
+        "source_name": "Future Generation Computer Systems",
+        "url_or_doi": "10.1016/j.future.2011.08.004",
+        "abstract_or_summary": "This paper discusses the limitations of Linked Data in addressing the needs of scientists, highlighting the importance of more comprehensive data models and integration strategies."
+    },
+    {
+        "title": "Computer Science as Empirical Inquiry: Symbols and Search",
+        "category": "Research Paper",
+        "authors": [
+            "Newell",
+            "Simon"
+        ],
+        "publication_year": 1976,
+        "source_name": "Communications of the ACM",
+        "url_or_doi": "10.1145/360018.360022",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Factoring Yago: Scalable Machine Learning for Linked Data",
+        "category": "Research Paper",
+        "authors": [
+            "Nickel",
+            "Tresp",
+            "Krieger"
+        ],
+        "publication_year": 2012,
+        "source_name": "Proceedings of the 21st International Conference on World Wide Web",
+        "url_or_doi": "10.1145/2187836.2187874",
+        "abstract_or_summary": "This paper presents Factoring Yago, a scalable machine learning approach for linked data."
+    },
+    {
+        "title": "Translating Embeddings for Modeling Multirelational Data",
+        "category": "Research Paper",
+        "authors": [
+            "Bores A",
+            "Usunier N",
+            "Garcia-Duran A",
+            "etal"
+        ],
+        "publication_year": 2013,
+        "source_name": "Advances in Neural Information Processing Systems",
+        "url_or_doi": "https://proceedings.neurips.cc/paper/2013/file/329a291521405f6b2c6118a202120625-Paper.pdf",
+        "abstract_or_summary": "Translating Embeddings for Modeling Multirelational Data"
+    },
+    {
+        "title": "A Semantic Matching Energy Function for Learning with Multi-relational Data",
+        "category": "Research Paper",
+        "authors": [
+            "Bores",
+            "Glorot",
+            "Weston",
+            "etal"
+        ],
+        "publication_year": 2014,
+        "source_name": "Machine Learning",
+        "url_or_doi": "10.1007/s10994-013-5363-6",
+        "abstract_or_summary": ""
+    },
+    {
+        "name": "Probase: A Probabilistic Taxonomy for Text Understanding",
+        "definition": "This paper presents Probase, a probabilistic taxonomy for text understanding. Probase: A Probabilistic Taxonomy for Text Understanding is a research paper that introduces a probabilistic taxonomy for text understanding. The paper presents a method for learning a hierarchical taxonomy of concepts from text, which can be used for tasks such as information retrieval and natural language processing.",
+        "aliases": [
+            "Probase",
+            "A Probabilistic Taxonomy for Text Understanding"
+        ],
+        "category": "Research Paper",
+        "sub_domain": "Natural Language Processing",
+        "publication_year": 2012,
+        "vendor_or_originator": "ACM SIGMOD International Conference on Management of Data"
+    },
+    {
+        "title": "Coupled Semi-supervised Learning for Information Extraction",
+        "category": "Technical Report",
+        "authors": [
+            "Carson A",
+            "Betteridge J",
+            "Wang R C",
+            "etal"
+        ],
+        "publication_year": 2010,
+        "source_name": "Proceedings of the Third ACM International Conference on Web Search and Data Mining",
+        "url_or_doi": "10.1145/1718487.1718501",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Open Question Answering with Weakly Supervised Embedding Models",
+        "category": "Technical Report",
+        "authors": [
+            "Boordes A",
+            "Weston J",
+            "Usunier N"
+        ],
+        "publication_year": 2014,
+        "source_name": "Joint European Conference on Machine Learning and Knowledge Discovery in Databases",
+        "url_or_doi": "10.1007/978-3-662-44848-9-11",
+        "abstract_or_summary": "This paper presents a method for open question answering using weakly supervised embedding models. The approach leverages the power of embedding models to learn representations of concepts and entities, which can then be used to answer open-domain questions."
+    },
+    {
+        "title": "Linked Data - The Story So Far",
+        "category": "Research Paper",
+        "authors": [
+            "Christiana B",
+            "Heath T",
+            "Berners-Lee T"
+        ],
+        "publication_year": 2009,
+        "source_name": "International Journal on Semantic Web and Information Systems",
+        "url_or_doi": "https://doi.org/10.1108/17449310910964676",
+        "abstract_or_summary": "This paper presents a historical overview of the Linked Data movement, tracing its development from its origins in the late 1990s to the present day. It discusses the key concepts, technologies, and standards that have shaped the field, as well as the challenges and opportunities that remain."
+    },
+    {
+        "title": "Survey on big data system and analytical technology",
+        "category": "Research Paper",
+        "authors": [
+            "Chen Xueqi",
+            "Jin Xiaolong",
+            "Wang Yuanzhuo",
+            "et al."
+        ],
+        "publication_year": 2014,
+        "source_name": "Journal of Software",
+        "url_or_doi": "",
+        "abstract_or_summary": "A survey on big data system and analytical technology."
+    },
+    {
+        "title": "基于开放网络知识的信息检索与数据挖掘",
+        "category": "Research Paper",
+        "authors": [
+            "王元卓",
+            "贾岩涛",
+            "刘大伟"
+        ],
+        "publication_year": 2014,
+        "source_name": "计算机研究与发展",
+        "url_or_doi": "",
+        "abstract_or_summary": "该论文探讨了基于开放网络知识的信息检索与数据挖掘方法，旨在提高信息检索的准确性和效率。"
+    },
+    {
+        "title": "Information Extraction",
+        "category": "Research Paper",
+        "authors": [
+            "Cowie",
+            "Lehner"
+        ],
+        "publication_year": 1996,
+        "source_name": "Communications of the ACM",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "A maximum entropy approach to biomedical named entity recognition",
+        "category": "Technical Report",
+        "authors": [
+            "Lin Yifeng",
+            "Tsaig Tzonghan",
+            "Chou Wenchi",
+            "et al."
+        ],
+        "publication_year": 2004,
+        "source_name": "ACM SIGKDD Workshop on Data Mining in Bioinformatics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Open information extraction",
+        "category": "Technical Report",
+        "authors": [
+            "Zhang Jun",
+            "Liu Kang",
+            "Zhou Guangyou",
+            "et al."
+        ],
+        "publication_year": 2011,
+        "source_name": "Journal of Chinese Information Processing",
+        "url_or_doi": "",
+        "abstract_or_summary": "Open information extraction is a research topic in natural language processing that focuses on extracting structured information from unstructured text."
+    },
+    {
+        "title": "Combinining lexical, syntactic, and semantic features with maximum entropy models for extracting relations",
+        "category": "Research Paper",
+        "authors": [
+            "Kambhatala",
+            "N."
+        ],
+        "publication_year": 2004,
+        "source_name": "Proceedings of the 42nd Association for Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": "This paper presents a method for extracting relations by combining lexical, syntactic, and semantic features using maximum entropy models."
+    },
+    {
+        "title": "Implementation of a kernel-based Chinese relation extraction system",
+        "category": "Research Paper",
+        "authors": [
+            "Liu Kebin",
+            "Li Fang",
+            "Liu Lei",
+            "et al."
+        ],
+        "publication_year": 2007,
+        "source_name": "Journal of Computer Research and Development",
+        "url_or_doi": "",
+        "abstract_or_summary": "This paper presents the implementation of a kernel-based Chinese relation extraction system. The system is designed to automatically extract relationships from Chinese text. The implementation details and experimental results are discussed, demonstrating the effectiveness of the proposed method in Chinese relation extraction tasks."
+    },
+    {
+        "title": "基于弱监督学习的海量网络数据关系抽取",
+        "category": "Research Paper",
+        "authors": [
+            " Chen Liwei",
+            "Feng Yansong",
+            "Zhao Dongyan"
+        ],
+        "publication_year": 2013,
+        "source_name": "Journal of Computer Research and Development",
+        "url_or_doi": "",
+        "abstract_or_summary": "基于弱监督学习的海量网络数据关系抽取"
+    },
+    {
+        "title": "A trainable method for extracting Chinese entity names and their relations",
+        "category": "Technical Report",
+        "authors": [
+            "Zhang Yiming",
+            "Zhou JF"
+        ],
+        "publication_year": 2000,
+        "source_name": "Proc. of the 2nd Workshop on Chinese Language Conjunction with the 38th Annual Meeting of the Association for Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Open Information Extraction using Wikipedia",
+        "category": "Technical Blog",
+        "authors": [
+            "Wu Fei",
+            "Weld DS"
+        ],
+        "publication_year": 2010,
+        "source_name": "Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": "This paper presents a method for open information extraction using Wikipedia."
+    },
+    {
+        "title": "KrakeN: N-ary facts in open information extraction",
+        "category": "Research Paper",
+        "authors": [
+            "Alan A",
+            "Alexander L"
+        ],
+        "publication_year": 2012,
+        "source_name": "Proc. of the Joint Workshop on Automatic Knowledge Base Construction and Web-scale Knowledge Extraction",
+        "url_or_doi": "https://aclanthology.org/D12-1008.pdf",
+        "abstract_or_summary": "KrakeN: N-ary facts in open information extraction"
+    },
+    {
+        "title": "Dbpedia: A nucleus for a Web of open data",
+        "category": "Research Paper",
+        "authors": [
+            "Auer",
+            "Bizer",
+            "Kobilarov"
+        ],
+        "publication_year": 2007,
+        "source_name": "Proceedings of the 6th International Semantic Web Conference",
+        "url_or_doi": "https://doi.org/10.1007/978-3-540-74924-3_57",
+        "abstract_or_summary": "Dbpedia: A nucleus for a Web of open data"
+    },
+    {
+        "title": "Autonomously Semantifying Wikipedia",
+        "category": "Research Paper",
+        "authors": [
+            "Wu Fei",
+            "Weld DS"
+        ],
+        "publication_year": 2007,
+        "source_name": "Proceedings of the 16th ACM Conf on Information and Knowledge Management",
+        "url_or_doi": "https://doi.org/10.1145/1289751.1289767",
+        "abstract_or_summary": "This paper presents a method for autonomously semantifying Wikipedia, which involves the automatic extraction and organization of semantic information from the Wikipedia database."
+    },
+    {
+        "title": "基于扩展领域模型的有名属性抽取",
+        "category": "Research Paper",
+        "authors": [
+            "王宇",
+            "谭松波",
+            "廖祥文"
+        ],
+        "publication_year": 2010,
+        "source_name": "Journal of Computer Research and Development",
+        "url_or_doi": "",
+        "abstract_or_summary": "该文提出了一种基于扩展领域模型的有名属性抽取方法，旨在提高信息抽取的准确性和效率。"
+    },
+    {
+        "title": "Collective Context-Aware Topic Models for Entity Disambiguation",
+        "category": "Research Paper",
+        "authors": [
+            "Sen P."
+        ],
+        "publication_year": 2012,
+        "source_name": "Proceedings of the 21st International Conference on World Wide Web",
+        "url_or_doi": "",
+        "abstract_or_summary": "This paper presents collective context-aware topic models for entity disambiguation. The models leverage the contextual information of multiple entities to improve the accuracy of disambiguation tasks."
+    },
+    {
+        "title": "Centering: A Framework for Modeling the Local Coherence of Discourse",
+        "category": "Research Paper",
+        "authors": [
+            "GroszBJ",
+            "WeinsteinS",
+            "JoshiA"
+        ],
+        "publication_year": 1995,
+        "source_name": "Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Entity Synonyms for Structured Web Search",
+        "category": "Research Paper",
+        "authors": [
+            "Cheng Tao",
+            "Lauw HW",
+            "Paparizos S"
+        ],
+        "publication_year": 2012,
+        "source_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "A Framework for Robust Discovery of Entity Synonyms",
+        "category": "Research Paper",
+        "authors": [
+            "Chakrabarti",
+            "Chaudhuri",
+            "Tao Cheng"
+        ],
+        "publication_year": 2012,
+        "source_name": "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Building, maintaining, and using knowledge bases: A report from the trenches",
+        "category": "Technical Report",
+        "authors": [
+            "Deshpande O",
+            "Lamba DS",
+            "Tourne M",
+            "et al."
+        ],
+        "publication_year": 2013,
+        "source_name": "Proceedings of the 32nd ACM SIGMOD Int Conf on Management of Data",
+        "url_or_doi": "https://doi.org/10.1145/2465456.2465545",
+        "abstract_or_summary": "This paper presents a report on the challenges and practices involved in building, maintaining, and using knowledge bases. The authors discuss the various aspects of knowledge base development, including data integration, query processing, and system maintenance. The report provides insights into the practical issues faced in real-world scenarios and highlights the importance of effective knowledge management in data management systems."
+    },
+    {
+        "title": "Sieve: Linked data quality assessment and fusion",
+        "category": "Technical Report",
+        "authors": [
+            "Mendes PN",
+            "Mühliesen H",
+            "Bizer C"
+        ],
+        "publication_year": 2012,
+        "source_name": "Proc of the 2nd Int Workshop on Linked Web Data Management at Extending Database Technology",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "A Survey of RDB to RDF Translation Approaches and Tools",
+        "category": "Technical Report",
+        "authors": [
+            "Michel F",
+            "Montagnat J",
+            "Faro-Zucker C"
+        ],
+        "publication_year": 2014,
+        "source_name": "Informatics, Signals & Systems Lab (I3S), University of Nice-Sophia Antipolis",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "A phrase mining framework for recursive construction of a topical hierarchy",
+        "category": "Research Paper",
+        "authors": [
+            "Wang Chi",
+            "Danielvesky M",
+            "Desai N",
+            "etal"
+        ],
+        "publication_year": 2013,
+        "source_name": "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+        "url_or_doi": "https://doi.org/10.1145/2457667.2457685",
+        "abstract_or_summary": "This paper presents a phrase mining framework for recursive construction of a topical hierarchy. The framework is designed to efficiently extract and organize phrases from large text corpora, enabling the creation of hierarchical topic structures that can be used for information retrieval and data mining tasks."
+    },
+    {
+        "title": "Knowledge base inference and maintenance system",
+        "category": "Research Paper",
+        "authors": [
+            "Yang Li",
+            "Hu Shouren"
+        ],
+        "publication_year": 1991,
+        "source_name": "Journal of National University of Defense Technology",
+        "url_or_doi": "",
+        "abstract_or_summary": "This paper presents a knowledge base inference and maintenance system (KBIMS) that is designed to handle the tasks of knowledge base inference and maintenance. The system is implemented and tested, demonstrating its effectiveness in managing knowledge bases."
+    },
+    {
+        "title": "基于描述逻辑的组合知识库推理",
+        "category": "Research Paper",
+        "authors": [
+            "卢道设",
+            "杨世瀚",
+            "吴尽昭"
+        ],
+        "publication_year": 2013,
+        "source_name": "Journal of Application Research of Computers",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "KnowledgeVault: A Web-scale Approach to Probabilistic Knowledge Fusion",
+        "category": "Research Paper",
+        "authors": [
+            "DongXin",
+            "GabrilovichE",
+            "HeitzG"
+        ],
+        "publication_year": 2014,
+        "source_name": "Proc. of the 20th Int. Conf. on Knowledge Discovery and Data Mining",
+        "url_or_doi": "https://doi.org/10.1145/2590676.2590734",
+        "abstract_or_summary": "KnowledgeVault: A Web-scale Approach to Probabilistic Knowledge Fusion is a research paper that presents a method for probabilistic knowledge fusion at a web-scale."
+    },
+    {
+        "title": "XLore: A Large-scale English-Chinese Bilingual Knowledge Graph",
+        "category": "Research Paper",
+        "authors": [
+            "Wang Zhihang",
+            "Li Juanzi",
+            "Wang Zhichun",
+            "et al."
+        ],
+        "publication_year": 2013,
+        "source_name": "Proceedings of the 12th International Semantic Web Conference",
+        "url_or_doi": "https://doi.org/10.1145/2485338.2485355",
+        "abstract_or_summary": "XLore is a large-scale English-Chinese bilingual knowledge graph that aims to bridge the gap between English and Chinese knowledge resources. It is constructed by aligning English and Chinese knowledge entities and relations, and it serves as a foundation for multilingual knowledge graph applications."
+    },
+    {
+        "title": "Multilingual Schema Matching for Wikipedia Infoboxes",
+        "category": "Technical Report",
+        "authors": [
+            "Ngyen T",
+            "Moreira V",
+            "Ngyen H"
+        ],
+        "publication_year": 2011,
+        "source_name": "The VLDB Endowment",
+        "url_or_doi": "",
+        "abstract_or_summary": "This paper presents a method for multilingual schema matching for Wikipedia infoboxes."
+    },
+    {
+        "title": "Transfer learning based cross-lingual knowledge extraction for Wikipedia",
+        "category": "Research Paper",
+        "authors": [
+            "Wang Zhihang",
+            "Li Zhiying",
+            "Li Juanzi",
+            "et al."
+        ],
+        "publication_year": 2013,
+        "source_name": "Proc of the 51st Annual Meeting of the Association for Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Booasting Cross-Linguistic Knowledge Linking via Concept Annotation",
+        "category": "Research Paper",
+        "authors": [
+            "Wang Zhi Chun",
+            "Li Juanzi",
+            "Tang Jie"
+        ],
+        "publication_year": 2013,
+        "source_name": "Proc. of the 23rd Int. Conf. on Artificial Intelligence",
+        "url_or_doi": "https://doi.org/10.24963/ijcai.2013/565",
+        "abstract_or_summary": "This paper presents a method for boosting cross-linguistic knowledge linking via concept annotation."
+    },
+    {
+        "title": "Information extraction over structured data: Question answering with freebase",
+        "category": "Research Paper",
+        "authors": [
+            "Yao Xuchen",
+            "Benjamin V D"
+        ],
+        "publication_year": 2014,
+        "source_name": "Proc of the 52nd Annual Meeting of the Association for Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Semantic parsing via paraphrasing",
+        "category": "Research Paper",
+        "authors": [
+            "Beraunt",
+            "Liang"
+        ],
+        "publication_year": 2014,
+        "source_name": "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "A translation approach to portable ontology specifications",
+        "category": "Research Paper",
+        "authors": [
+            "Gruber TR"
+        ],
+        "publication_year": 1993,
+        "source_name": "Knowledge Acquisition",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "RDFS(FA): Connecting RDF(S) and OWL DL",
+        "category": "Research Paper",
+        "authors": [
+            "Pan JZ",
+            "Horrocks I"
+        ],
+        "publication_year": 2007,
+        "source_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "url_or_doi": "doi: 10.1109/TKDE.2007.37",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "OWL Web ontology language overview",
+        "category": "Technical Report",
+        "authors": [
+            "Mcguinness DL",
+            "Harmelen F"
+        ],
+        "publication_year": 2004,
+        "source_name": "W3C",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "The foundations of information science. Part Ⅲ: Quantitative aspects: Objective maps and subjective landscapes",
+        "category": "Research Paper",
+        "authors": [
+            "Brookes BC"
+        ],
+        "publication_year": 1980,
+        "source_name": "Journal of Information Science",
+        "url_or_doi": "doi: 10.1177/016555158000200602",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "论布鲁克斯情报学基本理论",
+        "category": "Book / Chapter",
+        "authors": [
+            "马费成"
+        ],
+        "publication_year": 1983,
+        "source_name": "情报学报",
+        "url_or_doi": "",
+        "abstract_or_summary": "本文探讨了布鲁克斯情报学基本理论，分析了其在情报学领域中的重要性与应用。"
+    },
+    {
+        "title": "知识地图研究现状与展望",
+        "category": "Technical Blog",
+        "authors": [
+            "陈强",
+            "廖开际",
+            "奚建清"
+        ],
+        "publication_year": 2006,
+        "source_name": "情报杂志",
+        "url_or_doi": "doi: 10.3969/j.issn.1002-1965.2006.05.016",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Knowledge map of information science",
+        "category": "Research Paper",
+        "authors": [
+            "7 Zins C."
+        ],
+        "publication_year": 2007,
+        "source_name": "Journal of the Association for Information Science and Technology",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "CiteSpace 知识图谱的方法论功能",
+        "category": "Research Paper",
+        "authors": [
+            "陈悦",
+            "陈超美",
+            "刘则渊",
+            "等"
+        ],
+        "publication_year": 2015,
+        "source_name": "科学学研究",
+        "url_or_doi": "doi: 10.3969/j.issn.1003-2053.2015.02.009",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Citation indexes for science: A new dimension in documentation through association of ideas",
+        "category": "Research Paper",
+        "authors": [
+            "Garfield E."
+        ],
+        "publication_year": 1955,
+        "source_name": "Science",
+        "url_or_doi": "doi: 10.1126/science.122.3159.108",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "知识图谱技术综述",
+        "definition": "Review on knowledge graph technique",
+        "aliases": [
+            "徐增林",
+            "盛泳潘",
+            "贺丽荣",
+            "电子科技大学学报",
+            "2016"
+        ],
+        "category": "Research Paper",
+        "sub_domain": "Technical Report",
+        "publication_year": 2016,
+        "vendor_or_originator": "电子科技大学学报"
+    },
+    {
+        "title": "WordNet: An Electronic Lexical Database",
+        "category": "Book / Chapter",
+        "authors": [
+            "Fellbaum C."
+        ],
+        "publication_year": 1998,
+        "source_name": "MIT Press",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "CYC: A large-scale investment in knowledge infrastructure",
+        "definition": "CYC is a large-scale investment in knowledge infrastructure, aimed at creating a comprehensive and interconnected knowledge base for artificial intelligence research.",
+        "aliases": [
+            "CYC",
+            "large-scale investment in knowledge infrastructure"
+        ],
+        "category": "Research Paper",
+        "publication_year": 1990,
+        "vendor_or_originator": "Guha RV, Lenat D"
+    },
+    {
+        "title": "DBpedia: A nucleus for a web of open data",
+        "category": "Technical Report",
+        "authors": [
+            "Auer S",
+            "Bizer C",
+            "Kobilarov G",
+            "et al."
+        ],
+        "publication_year": 2007,
+        "source_name": "Proceedings of the Semantic Web, International Semantic Web Conference, Asian Semantic Web Conference, ISWC 2007+Aswc 2007",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "CN-DBpedia: A never-ending Chinese knowledge extraction system",
+        "category": "Technical Report",
+        "authors": [
+            "Xu B",
+            "Xu Y",
+            "Liang JQ",
+            "et al."
+        ],
+        "publication_year": 2017,
+        "source_name": "Proceedings of the 30th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "基于多种数据源的中文知识图谱构建方法研究",
+        "category": "Book / Chapter",
+        "authors": [
+            "胡芳槐"
+        ],
+        "publication_year": 2015,
+        "source_name": "华东理工大学",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "基于 HowNet 的词汇语义倾向计算",
+        "category": "Research Paper",
+        "authors": [
+            "23 朱嫣岚",
+            "闵锦",
+            "周雅倩",
+            "等"
+        ],
+        "publication_year": 2006,
+        "source_name": "中文信息学报",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "基于 WordNet 词义消歧的语义检索研究",
+        "category": "Technical Blog",
+        "authors": [
+            "高雪霞",
+            "炎士涛"
+        ],
+        "publication_year": 2017,
+        "source_name": "湘潭大学自然科学学报",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "ConceptNet 5: A large semantic network for relational knowledge",
+        "category": "Research Paper",
+        "authors": [
+            "Speer R",
+            "Havasi C"
+        ],
+        "publication_year": 2013,
+        "source_name": "The People’s Web Meets NLP",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "ConceptNet at SemEval-2017 Task2: Extending word embeddings with multilingual relational knowledge",
+        "category": "Research Paper",
+        "authors": [
+            "Speer R",
+            "Lowry-Duda J"
+        ],
+        "publication_year": 2017,
+        "source_name": "arXiv",
+        "url_or_doi": "arXiv: 1704.03560",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "DBpedia 及其典型应用",
+        "category": "Technical Blog",
+        "authors": [
+            "37 朝乐门",
+            "张勇",
+            "邢春晓"
+        ],
+        "publication_year": 2011,
+        "source_name": "现代图书情报技术",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "YAGO: A large ontology from wikipedia and WordNet",
+        "category": "Research Paper",
+        "authors": [
+            "Suchanek FM",
+            "Kasneci G",
+            "Weikum G"
+        ],
+        "publication_year": 2008,
+        "source_name": "Journal of Web Semantics",
+        "url_or_doi": "doi: 10.1016/j.websem.2008.06.001",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "High-leverage apps for the mathematics classroom: WolframAlpha",
+        "category": "Technical Blog",
+        "authors": [
+            "Thrasher EP",
+            "Perry AD"
+        ],
+        "publication_year": 2015,
+        "source_name": "The Mathematics Teacher",
+        "url_or_doi": "doi: 10.5951/mathteacher.109.1.0066",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Introducing wikidata to the linked data web",
+        "category": "Technical Report",
+        "authors": [
+            "42 Erxleben F",
+            "Günther M",
+            "Krötzsch M",
+            "et al."
+        ],
+        "publication_year": 2014,
+        "source_name": "Proceedings of the 13th International Semantic Web Conference",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "BabelNet: Building a very large multilingual semantic network",
+        "category": "Research Paper",
+        "authors": [
+            "Navigli R",
+            "Ponzetto SP"
+        ],
+        "publication_year": 2010,
+        "source_name": "Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network",
+        "category": "Research Paper",
+        "authors": [
+            "Navigli R",
+            "Ponzetto SP"
+        ],
+        "publication_year": 2012,
+        "source_name": "Artificial Intelligence",
+        "url_or_doi": "doi: 10.1016/j.artint.2012.07.001",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "双语影视知识图谱的构建研究",
+        "category": "Book / Chapter",
+        "authors": [
+            "王巍巍",
+            "王志刚",
+            "潘亮铭",
+            "等"
+        ],
+        "publication_year": 2016,
+        "source_name": "北京大学学报 (自然科学版)",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Active recommendation of tourist attractions based on visitors interests and semantic relatedness",
+        "category": "Research Paper",
+        "authors": [
+            "Zeng Y",
+            "Zhang T",
+            "Hao H"
+        ],
+        "publication_year": 2014,
+        "source_name": "Active Media Technology",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Bio2RDF: Towards a mashup to build bioinformatics knowledge systems",
+        "category": "Research Paper",
+        "authors": [
+            "Belleau F",
+            "Nolin MA",
+            "Tourigny N",
+            "et al."
+        ],
+        "publication_year": 2008,
+        "source_name": "Journal of Biomedical Informatics",
+        "url_or_doi": "doi: 10.1016/j.jbi.2008.03.004",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Dynamic FOAF management method for social networks in the social web environment",
+        "category": "Research Paper",
+        "authors": [
+            "54 Sohn JS",
+            "Chung IJ"
+        ],
+        "publication_year": 2013,
+        "source_name": "The Journal of Supercomputing",
+        "url_or_doi": "doi: 10.1007/s11227-012-0847-x",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Ontology learning from text: A look back and into the future",
+        "category": "Research Paper",
+        "authors": [
+            "62 Wong",
+            "W Liu",
+            "M Bennamoun"
+        ],
+        "publication_year": 2012,
+        "source_name": "ACM Computing Surveys",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "邹磊-浅谈知识图谱数据管理",
+        "category": "Technical Blog",
+        "authors": [
+            "邹磊"
+        ],
+        "publication_year": 2017,
+        "source_name": "blog.openkg.cn",
+        "url_or_doi": "http://blog.openkg.cn/邹磊-浅谈知识图谱数据管理/",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "DLDB: Extending relational databases to support semantic web queries",
+        "category": "Technical Report",
+        "authors": [
+            "Pan ZX",
+            "Heflin J"
+        ],
+        "publication_year": 2003,
+        "source_name": "Proceedings of the First International Workshop on Practical and Scalable Semantic Systems",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "gStore: A graph-based SPARQL query engine",
+        "category": "Research Paper",
+        "authors": [
+            "Zou L",
+            "Özsu MT",
+            "Chen L",
+            "et al."
+        ],
+        "publication_year": 2014,
+        "source_name": "The VLDB Journal",
+        "url_or_doi": "doi: 10.1007/s00778-013-0337-7",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Big data: a survey",
+        "category": "Research Paper",
+        "authors": [
+            "MIN C",
+            "MAO S",
+            "LIU Y"
+        ],
+        "publication_year": 2014,
+        "source_name": "Mobile Networks & Applications",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "知识图谱研究综述",
+        "category": "Technical Blog",
+        "authors": [
+            "李涓子",
+            "侯磊"
+        ],
+        "publication_year": 2017,
+        "source_name": "山西大学学报（自然科学版）",
+        "url_or_doi": "",
+        "abstract_or_summary": "Reviews on knowledge graph research"
+    },
+    {
+        "title": "Relation extraction using distant supervision: a survey",
+        "category": "Research Paper",
+        "authors": [
+            "SMIRNOVA A",
+            "CUDRE-MAUROUX P"
+        ],
+        "publication_year": 2019,
+        "source_name": "ACM Computing Surveys",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "基于深度学习的关系抽取研究综述",
+        "category": "Technical Blog",
+        "authors": [
+            "庄传志",
+            "靳小龙",
+            "朱伟建",
+            "等"
+        ],
+        "publication_year": 2019,
+        "source_name": "中文信息学报",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Knowledge vault：a Web-scale approach to probabilistic knowledge fusion",
+        "category": "Technical Report",
+        "authors": [
+            "DONG X",
+            "GABRILOVICH E",
+            "HEITZ G"
+        ],
+        "publication_year": 2014,
+        "source_name": "Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "An end-to-end model for question answering over knowledge base with cross- attention combining global knowledge",
+        "category": "Technical Report",
+        "authors": [
+            "HAO Y",
+            "ZHANG Y",
+            "LIU K",
+            "et al."
+        ],
+        "publication_year": 2017,
+        "source_name": "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "SMR：medical knowledge graph embedding for safe medicine recommendation",
+        "category": "Research Paper",
+        "authors": [
+            "GONG F",
+            "WANG M",
+            "WANG H",
+            "et al."
+        ],
+        "publication_year": 2021,
+        "source_name": "Big Data Research",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "知识图谱：方法，实践与应用",
+        "category": "Book / Chapter",
+        "authors": [
+            "王昊奋",
+            "漆桂林",
+            "陈华钧"
+        ],
+        "publication_year": 2019,
+        "source_name": "电子工业出版社",
+        "url_or_doi": "",
+        "abstract_or_summary": "该书介绍了知识图谱的方法、实践和应用，涵盖知识图谱的构建、存储、查询和应用等方面的内容。"
+    },
+    {
+        "title": "RelExt：a tool for relation extraction from text in ontology extension",
+        "category": "Technical Report",
+        "authors": [
+            "SCHUTZ A",
+            "BUITELAAR P"
+        ],
+        "publication_year": 2005,
+        "source_name": "Proceedings of the 4th International Semantic Web Conference",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Preemptive information extraction using unrestricted relation discovery",
+        "category": "Technical Report",
+        "authors": [
+            "SHINYAMA Y",
+            "SEKINE S"
+        ],
+        "publication_year": 2006,
+        "source_name": "Proceedings of Human Language Technology Conference of the North American Chapter of the Association of Computational Linguistics",
+        "url_or_doi": "org/N19-1423. pdf.",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "End-to-end sequence labeling via bi- directional LSTM-CNNs-CRF",
+        "category": "Technical Blog",
+        "authors": [
+            "MA X",
+            "HOVY E"
+        ],
+        "publication_year": 2021,
+        "source_name": "ACL",
+        "url_or_doi": "https://www.aclweb.org/old_anthology/P/P16/P16-1101.pdf",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Chapter-level entity relationship extraction method based on joint learning",
+        "category": "Book / Chapter",
+        "authors": [
+            "XIAO J",
+            "ZHOU Z"
+        ],
+        "publication_year": 2020,
+        "source_name": "Proceedings of 2020 International Conference on Intelligent Human- Machine Systems and Cybernetics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Natural language processing（almost）from scratch",
+        "category": "Technical Blog",
+        "authors": [
+            "RONAN C",
+            "JASON W",
+            "LÉON B"
+        ],
+        "publication_year": 2011,
+        "source_name": "Journal of Machine Learning Research",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Bidirectional LSTM-CRF models for sequence tagging",
+        "category": "Technical Blog",
+        "authors": [
+            "HUANG Z",
+            "WEI X",
+            "KAI Y"
+        ],
+        "publication_year": 2021,
+        "source_name": "arXiv",
+        "url_or_doi": "https://arxiv.org/pdf/1508.01991.pdf",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Effect of character and word features in bidirectional LSTM-CRF for NER",
+        "category": "Technical Report",
+        "authors": [
+            "RONRAN C",
+            "LEE S"
+        ],
+        "publication_year": 2020,
+        "source_name": "Proceedings of 2020 IEEE International Conference on Big Data and Smart Computing",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "BERT：pre-training of deep bidirectional transformers for language understanding",
+        "category": "Research Paper",
+        "authors": [
+            "DEVLIN J",
+            "CHANG M W",
+            "LEE K",
+            "et al."
+        ],
+        "publication_year": 2021,
+        "source_name": "ACL Anthology",
+        "url_or_doi": "https://aclanthology.org/http://www.nlpr.labs.cn/cip/liukang.files/camera_coling2014_final.pdf",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Entity relation extraction method based on fusion of multiple information and attention mechanism",
+        "category": "Technical Report",
+        "authors": [
+            "YIN B",
+            "SUN Y",
+            "WANG Y"
+        ],
+        "publication_year": 2020,
+        "source_name": "Proceedings of 2020 IEEE International Conference on Computer and Communications",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Semantic compositionality through recursive matrix-vector spaces",
+        "category": "Research Paper",
+        "authors": [
+            "SOCHER R",
+            "HUVAL B",
+            "MANNING C D",
+            "et al."
+        ],
+        "publication_year": 2012,
+        "source_name": "Proceedings of Joint Conference on Empirical Methods in Natural Language Processing（EMNLP）& Computational Natural Language Learning（CoNLL）",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Going out on a limb：joint extraction of entity mentions and relations without dependency trees",
+        "category": "Technical Blog",
+        "authors": [
+            "KATIYAR A",
+            "CARDIE C"
+        ],
+        "publication_year": 2017,
+        "source_name": "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "A novel hierarchical binary tagging framework for relational triple extraction",
+        "category": "Research Paper",
+        "authors": [
+            "WEI Z",
+            "SU J",
+            "WANG Y"
+        ],
+        "publication_year": 2021,
+        "source_name": "arXiv",
+        "url_or_doi": "https://arxiv.org/pdf/1909.03227v2.pdf",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "A discriminative hierarchical model for fast coreference at large scale",
+        "category": "Technical Report",
+        "authors": [
+            "WICK M",
+            "SINGH S",
+            "MCCALLUM A"
+        ],
+        "publication_year": 2012,
+        "source_name": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Large-scale collective entity matching",
+        "category": "Technical Report",
+        "authors": [
+            "RASTOGI V",
+            "DALVI N",
+            "GAROFALAKIS M"
+        ],
+        "publication_year": 2011,
+        "source_name": "Proceedings of the VLDB Endowment",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Learning first-order horn clauses from Web text",
+        "category": "Technical Report",
+        "authors": [
+            "SCHOENMACKERS S",
+            "DAVIS J",
+            "ETZIONI O"
+        ],
+        "publication_year": 2010,
+        "source_name": "Proceedings of Conference on Empirical Methods in Natural Language Processing",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Ontological pathfinding：mining first-order knowledge from large knowledge base",
+        "category": "Research Paper",
+        "authors": [
+            "CHEN Y",
+            "GOLDBERG S",
+            "WANG D Z",
+            "et al."
+        ],
+        "publication_year": 2016,
+        "source_name": "Proceedings of 2016 ACM SIGMOD Conference on Management of Data",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Translating representations of knowledge graphs with neighbor［s C］",
+        "category": "Research Paper",
+        "authors": [
+            "WANG C",
+            "CHENG P"
+        ],
+        "publication_year": 2017,
+        "source_name": "Journal of Computers",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Ontology mapping： the state of the art",
+        "category": "Research Paper",
+        "authors": [
+            "KALFOGLOU Y",
+            "SCHORLEMMER M"
+        ],
+        "publication_year": 2003,
+        "source_name": "The Knowledge Engineering Review",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "A methodology for ontology integration",
+        "category": "Technical Report",
+        "authors": [
+            "PINTO H S",
+            "MARTINS J P"
+        ],
+        "publication_year": 2018,
+        "source_name": "Proceedings of the 1st International 41st International ACM SIGIR Conference on Research & Development in Information Retrieval",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "The PROMPT suite：interactive tools for ontology merging and mapping",
+        "category": "Research Paper",
+        "authors": [
+            "NOY N F",
+            "MUSEN M A"
+        ],
+        "publication_year": 2003,
+        "source_name": "International Journal of Human-Computer Studies",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Typed tensor decomposition of knowledge bases for relation extraction",
+        "category": "Technical Blog",
+        "authors": [
+            "CHANG K W",
+            "YIH W T",
+            "YANG B",
+            "et al."
+        ],
+        "publication_year": 2014,
+        "source_name": "ACL",
+        "url_or_doi": "https://mirror.aclweb.org/emnlp2014/papers/pdf/EMNLP2014165.pdf",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Embedding entities and relations for learning and inference in knowledge base",
+        "category": "Research Paper",
+        "authors": [
+            "YANG B",
+            "YIH W T",
+            "HE X"
+        ],
+        "publication_year": 2015,
+        "source_name": "ICLR",
+        "url_or_doi": "http://scottyih.org/files/ICLR2015_updated.pdf",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "基于表示学习和语义要素感知的关系推理算法",
+        "category": "Technical Blog",
+        "authors": [
+            "刘峤",
+            "韩明皓",
+            "杨晓慧",
+            "et al."
+        ],
+        "publication_year": 2017,
+        "source_name": "计算机研究与发展",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "InteractE： improving convolution-based knowledge graph embeddings by increasing feature interactions",
+        "category": "Technical Report",
+        "authors": [
+            "VASHISHTH S",
+            "SANYAL S",
+            "NITIN V"
+        ],
+        "publication_year": 2020,
+        "source_name": "Proceedings of AAAI Conference on Artificial Intelligence",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach",
+        "category": "Technical Blog",
+        "authors": [
+            "CATHERINE R",
+            "COHEN W"
+        ],
+        "publication_year": 2016,
+        "source_name": "Proceedings of ACM Conference on Recommender Systems",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Unifying knowledge graph learning and recommendation: towards a better understanding of user preferences",
+        "category": "Research Paper",
+        "authors": [
+            "CAO Y",
+            "XIANG W",
+            "HE X",
+            "et al."
+        ],
+        "publication_year": 2021,
+        "source_name": "arxiv.org",
+        "url_or_doi": "https://arxiv.org/pdf/1902.06236.pdf",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Interpreting CNN knowledge via an explanatory graph",
+        "category": "Research Paper",
+        "authors": [
+            "ZHANG Q",
+            "CAO R",
+            "SHI F",
+            "et al."
+        ],
+        "publication_year": 2021,
+        "source_name": "arXiv",
+        "url_or_doi": "https://arxiv.org/pdf/1708.01785.pdf",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Harnessing deep neural networks with logic rules",
+        "category": "Technical Blog",
+        "authors": [
+            "HU Z",
+            "MA X",
+            "LIU Z"
+        ],
+        "publication_year": 2016,
+        "source_name": "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Deep probabilistic logic: a unifying semantical aspect awareness",
+        "category": "Research Paper",
+        "authors": [
+            "WANG H",
+            "POON H"
+        ],
+        "publication_year": 2017,
+        "source_name": "Journal of Computer Research and Development",
+        "url_or_doi": "https://arxiv.org/pdf/1808.08485.pdf",
+        "abstract_or_summary": "A unifying semantical aspect awareness."
+    },
+    {
+        "title": "Reasoning with neural tensor networks for knowledge base completion",
+        "category": "Technical Report",
+        "authors": [
+            "SOCHER R",
+            "CHEN D",
+            "MANNING C D",
+            "et al."
+        ],
+        "publication_year": 2013,
+        "source_name": "Proceedings of the 26th International Conference on Neural Information Processing",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Integrating deep learning with logic fusion for information extraction",
+        "category": "Research Paper",
+        "authors": [
+            "WANG W",
+            "PAN S J"
+        ],
+        "publication_year": 2021,
+        "source_name": "arXiv",
+        "url_or_doi": "https://arxiv.org/pdf/1912.03041v1.pdf",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Theoretical impediments to machine learning with seven sparks from the causal revolution",
+        "category": "Technical Blog",
+        "authors": [
+            "PEARL J"
+        ],
+        "publication_year": 2018,
+        "source_name": "Proceedings of the 7th ACM International Conference on Web Search and Data Mining",
+        "url_or_doi": "",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "Convolutional 2D knowledge graph embeddings",
+        "category": "Technical Report",
+        "authors": [
+            "DETTMERS T",
+            "MINERVINI P",
+            "STENETORP P"
+        ],
+        "publication_year": 2021,
+        "source_name": "Proceedings of the 32nd AAAI Conference on Artificial Relational inductive biases，deep learning，and graph network",
+        "url_or_doi": "https：//arxiv. org/pdf/ 1806. 01261. pdf.",
+        "abstract_or_summary": ""
+    },
+    {
+        "title": "EvolveGCN： evolving graph convolutional networks for dynamic graphs",
+        "category": "Research Paper",
+        "authors": [
+            "PAREJA A",
+            "DOMENICONI G",
+            "CHEN J",
+            "et al."
+        ],
+        "publication_year": 2021,
+        "source_name": "arxiv",
+        "url_or_doi": "https://arxiv.org/pdf/1902.10191.pdf",
+        "abstract_or_summary": ""
+    }
+]

@@ -1,0 +1,2907 @@
+[
+    {
+        "subject": "本体",
+        "relation": "USES",
+        "object": "OWL"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识获取"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "DESCRIBED_IN",
+        "object": "Bidirectional LSTM-CRF models for sequence tagging"
+    },
+    {
+        "subject": "百度百科",
+        "relation": "RELATED_TO",
+        "object": "ZhiShi.me"
+    },
+    {
+        "subject": "ProPPR",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "USES",
+        "object": "实体抽取"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "LSTM",
+        "relation": "IS_A",
+        "object": "BI-LSTM"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "RELATED_TO",
+        "object": "ＴＢｏｘ"
+    },
+    {
+        "subject": "本体寻路",
+        "relation": "RELATED_TO",
+        "object": "一阶归纳学习"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "通用本体"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "信息抽取"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "RELATED_TO",
+        "object": "知识融合"
+    },
+    {
+        "subject": "DistMult 模型",
+        "relation": "RELATED_TO",
+        "object": "Embedding entities and relations for learning and inference in knowledge base"
+    },
+    {
+        "subject": "OWL",
+        "relation": "DESCRIBED_IN",
+        "object": "RDFS(FA): Connecting RDF(S) and OWL DL"
+    },
+    {
+        "subject": "物理符号系统假设",
+        "relation": "RELATED_TO",
+        "object": "符号主义"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "科学知识图谱"
+    },
+    {
+        "subject": "Siri",
+        "relation": "DESCRIBED_IN",
+        "object": "Siri"
+    },
+    {
+        "subject": "对象对齐",
+        "relation": "RELATED_TO",
+        "object": "共指消解"
+    },
+    {
+        "subject": "逻辑模块",
+        "relation": "IS_A",
+        "object": "一阶逻辑"
+    },
+    {
+        "subject": "DBpedia",
+        "relation": "IMPLEMENTS",
+        "object": "本体"
+    },
+    {
+        "subject": "实体关系抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "Combinining lexical, syntactic, and semantic features with maximum entropy models for extracting relations"
+    },
+    {
+        "subject": "SemEval-2010",
+        "relation": "RELATED_TO",
+        "object": "Entity relation extraction method based on fusion of multiple information and attention mechanism"
+    },
+    {
+        "subject": "RESCAL",
+        "relation": "DESCRIBED_IN",
+        "object": "Typed tensor decomposition of knowledge bases for relation extraction"
+    },
+    {
+        "subject": "WordNet",
+        "relation": "DESCRIBED_IN",
+        "object": "WordNet: An Electronic Lexical Database"
+    },
+    {
+        "subject": "实体抽取",
+        "relation": "RELATED_TO",
+        "object": "Information Extraction"
+    },
+    {
+        "subject": "基于结构的方法",
+        "relation": "RELATED_TO",
+        "object": "The PROMPT suite：interactive tools for ontology merging and mapping"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识图谱研究综述"
+    },
+    {
+        "subject": "YAGO",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "语义集成",
+        "relation": "IS_A",
+        "object": "本体映射"
+    },
+    {
+        "subject": "共指消解",
+        "relation": "RELATED_TO",
+        "object": "实体匹配"
+    },
+    {
+        "subject": "本体",
+        "relation": "USES",
+        "object": "SWRL"
+    },
+    {
+        "subject": "后期关系推理",
+        "relation": "DESCRIBED_IN",
+        "object": "KrakeN: N-ary facts in open information extraction"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体层"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "RELATED_TO",
+        "object": "知识图谱技术综述"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "通用本体"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "BI-LSTM-CRF"
+    },
+    {
+        "subject": "维基百科",
+        "relation": "RELATED_TO",
+        "object": "YAGO"
+    },
+    {
+        "subject": "知识融合",
+        "relation": "RELATED_TO",
+        "object": "知识图谱：方法，实践与应用"
+    },
+    {
+        "subject": "基于 NLP 的方法",
+        "relation": "RELATED_TO",
+        "object": "The PROMPT suite：interactive tools for ontology merging and mapping"
+    },
+    {
+        "subject": "生成模型",
+        "relation": "RELATED_TO",
+        "object": "主题模型"
+    },
+    {
+        "subject": "XSPARQL",
+        "relation": "DESCRIBED_IN",
+        "object": "A Survey of RDB to RDF Translation Approaches and Tools"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "RELATED_TO",
+        "object": "知识库"
+    },
+    {
+        "subject": "本体寻路",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating Embeddings..."
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "通用知识图谱"
+    },
+    {
+        "subject": "图神经网络",
+        "relation": "RELATED_TO",
+        "object": "RCKD 模型"
+    },
+    {
+        "subject": "TransE",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating representations of knowledge graphs with neighbor［s C］"
+    },
+    {
+        "subject": "YAGO",
+        "relation": "USES",
+        "object": "WordNet"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "ＯＩＥ 系统",
+        "relation": "DESCRIBED_IN",
+        "object": "KrakeN: N-ary facts in open information extraction"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "DESCRIBED_IN",
+        "object": "End-to-end sequence labeling via bi- directional LSTM-CNNs-CRF"
+    },
+    {
+        "subject": "ＸＬｏｒｅ项目",
+        "relation": "RELATED_TO",
+        "object": "跨语言知识抽取"
+    },
+    {
+        "subject": "映射函数",
+        "relation": "DESCRIBED_IN",
+        "object": "该文提出的模型"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "USES",
+        "object": "CNN"
+    },
+    {
+        "subject": "实体链接",
+        "relation": "RELATED_TO",
+        "object": "共指消解"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "CN-DBpedia: A never-ending Chinese knowledge extraction system"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "关系抽取"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "大词林"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "科学知识图谱"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "图数据库"
+    },
+    {
+        "subject": "一阶归纳学习",
+        "relation": "DESCRIBED_IN",
+        "object": "Learning first-order horn clauses from Web text"
+    },
+    {
+        "subject": "三元组抽取",
+        "relation": "RELATED_TO",
+        "object": "EPO_None/Two/Three_Tagging"
+    },
+    {
+        "subject": "语义网",
+        "relation": "IS_A",
+        "object": "概念"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "RELATED_TO",
+        "object": "本体学习"
+    },
+    {
+        "subject": "谓词逻辑推理",
+        "relation": "RELATED_TO",
+        "object": "一阶归纳学习"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "RELATED_TO",
+        "object": "计算机视觉"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "DESCRIBED_IN",
+        "object": "The foundations of information science. Part Ⅲ: Quantitative aspects: Objective maps and subjective landscapes"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "OWL"
+    },
+    {
+        "subject": "深度学习模块",
+        "relation": "RELATED_TO",
+        "object": "关系抽取任务"
+    },
+    {
+        "subject": "向心理论",
+        "relation": "DESCRIBED_IN",
+        "object": "Centering: A Framework for Modeling the Local Coherence of Discourse"
+    },
+    {
+        "subject": "本体寻路",
+        "relation": "RELATED_TO",
+        "object": "Learning first-order horn clauses from Web text"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "DBpedia: A nucleus for a web of open data"
+    },
+    {
+        "subject": "贝叶斯网络",
+        "relation": "RELATED_TO",
+        "object": "因果推理"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "通用知识图谱"
+    },
+    {
+        "subject": "通用本体",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究"
+    },
+    {
+        "subject": "Jacona-Freebase系统",
+        "relation": "RELATED_TO",
+        "object": "Paralex系统"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "关系推理"
+    },
+    {
+        "subject": "XLore",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "YAGO",
+        "relation": "RELATED_TO",
+        "object": "维基百科"
+    },
+    {
+        "subject": "RDFS",
+        "relation": "DESCRIBED_IN",
+        "object": "RDFS(FA): Connecting RDF(S) and OWL DL"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识驱动的智能信息处理应用"
+    },
+    {
+        "subject": "对象对齐",
+        "relation": "RELATED_TO",
+        "object": "实体同义"
+    },
+    {
+        "subject": "人立方、事立方、知立方",
+        "relation": "RELATED_TO",
+        "object": "Survey on big data system and analytical technology"
+    },
+    {
+        "subject": "本体构建",
+        "relation": "RELATED_TO",
+        "object": "本体学习"
+    },
+    {
+        "subject": "语义搜索",
+        "relation": "DESCRIBED_IN",
+        "object": "基于知识的大数据分析与决策"
+    },
+    {
+        "subject": "图网络",
+        "relation": "IMPLEMENTS",
+        "object": "因果推理"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "IS_A",
+        "object": "关系抽取"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "RELATED_TO",
+        "object": "Entity relation extraction method based on fusion of multiple information and attention mechanism"
+    },
+    {
+        "subject": "GraphLF",
+        "relation": "DESCRIBED_IN",
+        "object": "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach"
+    },
+    {
+        "subject": "科学知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "图神经网络",
+        "relation": "IS_A",
+        "object": "图注意力网络"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "USES",
+        "object": "本体层"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "知识推理"
+    },
+    {
+        "subject": "本体结构",
+        "relation": "DESCRIBED_IN",
+        "object": "A phrase mining framework for recursive construction of a topical hierarchy"
+    },
+    {
+        "subject": "TransR",
+        "relation": "RELATED_TO",
+        "object": "TransN"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "RELATED_TO",
+        "object": "命名实体识别"
+    },
+    {
+        "subject": "神经张量网络",
+        "relation": "DESCRIBED_IN",
+        "object": "Reasoning with neural tensor networks for knowledge base completion"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "本节根据知识图谱的体系架构详细介绍知识抽取、知识融合、知识推理的相关研究"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "RELATED_TO",
+        "object": "知识图谱研究综述"
+    },
+    {
+        "subject": "IBM Watson",
+        "relation": "USES",
+        "object": "Knowledge Graph"
+    },
+    {
+        "subject": "AnchorPROMPT",
+        "relation": "DESCRIBED_IN",
+        "object": "The PROMPT suite：interactive tools for ontology merging and mapping"
+    },
+    {
+        "subject": "实体链接",
+        "relation": "RELATED_TO",
+        "object": "关系数据库知识融合"
+    },
+    {
+        "subject": "Linde模型",
+        "relation": "DESCRIBED_IN",
+        "object": "Collective Context-Aware Topic Models for Entity Disambiguation"
+    },
+    {
+        "subject": "RDF",
+        "relation": "IS_A",
+        "object": "技术"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "RELATED_TO",
+        "object": "中医医案知识图谱"
+    },
+    {
+        "subject": "RDF",
+        "relation": "USES",
+        "object": "语义网"
+    },
+    {
+        "subject": "主题模型",
+        "relation": "RELATED_TO",
+        "object": "本体结构"
+    },
+    {
+        "subject": "OWL",
+        "relation": "IS_A",
+        "object": "技术"
+    },
+    {
+        "subject": "DBPedia",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A large-scale investment in knowledge infrastructure"
+    },
+    {
+        "subject": "一阶逻辑",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search"
+    },
+    {
+        "subject": "RESCAL",
+        "relation": "RELATED_TO",
+        "object": "TRESCAL"
+    },
+    {
+        "subject": "TransE",
+        "relation": "USES",
+        "object": "知识图谱嵌入"
+    },
+    {
+        "subject": "本体",
+        "relation": "DESCRIBED_IN",
+        "object": "A methodology for ontology integration"
+    },
+    {
+        "subject": "DistMult 模型",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱推理"
+    },
+    {
+        "subject": "互动百科",
+        "relation": "RELATED_TO",
+        "object": "XLore"
+    },
+    {
+        "subject": "实体抽取",
+        "relation": "RELATED_TO",
+        "object": "关系抽取"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "DESCRIBED_IN",
+        "object": "描述逻辑（ｄｅｓｃｒｉｐｔｉｏｎｌｏｇｉｃ）"
+    },
+    {
+        "subject": "实体聚类方法",
+        "relation": "DESCRIBED_IN",
+        "object": "A phrase mining framework for recursive construction of a topical hierarchy"
+    },
+    {
+        "subject": "实体对齐",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "WordNet",
+        "relation": "RELATED_TO",
+        "object": "DBpedia: A nucleus for a web of open data"
+    },
+    {
+        "subject": "知识表示",
+        "relation": "RELATED_TO",
+        "object": "知识图谱研究综述"
+    },
+    {
+        "subject": "ConvE",
+        "relation": "DESCRIBED_IN",
+        "object": "Convolutional 2D knowledge graph embeddings"
+    },
+    {
+        "subject": "Rotate",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating representations of knowledge graphs with neighbor［s C］"
+    },
+    {
+        "subject": "语义Web规则语言（SWRL）",
+        "relation": "RELATED_TO",
+        "object": "关系推理"
+    },
+    {
+        "subject": "Paralex系统",
+        "relation": "RELATED_TO",
+        "object": "基于信息检索的问答系统"
+    },
+    {
+        "subject": "电子商务网站个性化推荐",
+        "relation": "RELATED_TO",
+        "object": "个性化推荐"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "RELATED_TO",
+        "object": "知识表示学习"
+    },
+    {
+        "subject": "双层随机游走",
+        "relation": "IMPLEMENTS",
+        "object": "语义匹配模型"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "Information Extraction"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "有监督的知识图谱构建方法"
+    },
+    {
+        "subject": "知识融合",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱：方法，实践与应用"
+    },
+    {
+        "subject": "OWL",
+        "relation": "IMPLEMENTS",
+        "object": "本体"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "语言学类"
+    },
+    {
+        "subject": "语义搜索",
+        "relation": "USES",
+        "object": "链接数据"
+    },
+    {
+        "subject": "向心理论",
+        "relation": "DESCRIBED_IN",
+        "object": "共指消解"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "TransN"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "An end-to-end model for question answering over knowledge base with cross- attention combining global knowledge"
+    },
+    {
+        "subject": "基于实例的方法",
+        "relation": "RELATED_TO",
+        "object": "The PROMPT suite：interactive tools for ontology merging and mapping"
+    },
+    {
+        "subject": "基于规则学习的语义标注方法",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "Rotate"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识地图"
+    },
+    {
+        "subject": "实体链接",
+        "relation": "RELATED_TO",
+        "object": "实体消歧"
+    },
+    {
+        "subject": "框架表示",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search"
+    },
+    {
+        "subject": "EvolveGCN",
+        "relation": "DESCRIBED_IN",
+        "object": "EvolveGCN： evolving graph convolutional networks for dynamic graphs"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "行业知识图谱"
+    },
+    {
+        "subject": "GraphLF",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "张量重构",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating Embeddings for Modeling Multirelational Data"
+    },
+    {
+        "subject": "逻辑表示法",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "RELATED_TO",
+        "object": "自然语言处理"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱技术综述"
+    },
+    {
+        "subject": "BI-LSTM",
+        "relation": "IS_A",
+        "object": "BI-LSTM-CRF"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "DBpedia"
+    },
+    {
+        "subject": "CYC",
+        "relation": "RELATED_TO",
+        "object": "DBpedia: A nucleus for a web of open data"
+    },
+    {
+        "subject": "Paralex 系统",
+        "relation": "USES",
+        "object": "知识图谱技术"
+    },
+    {
+        "subject": "本体学习",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating Embeddings..."
+    },
+    {
+        "subject": "百度百科",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "LSTM",
+        "relation": "IS_A",
+        "object": "CNN"
+    },
+    {
+        "subject": "Ｘｌｉｋｅ项目",
+        "relation": "DESCRIBED_IN",
+        "object": "Ｘｌｉｋｅ项目"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "USES",
+        "object": "RDFS"
+    },
+    {
+        "subject": "共指消解",
+        "relation": "RELATED_TO",
+        "object": "对象对齐"
+    },
+    {
+        "subject": "基于结构的方法",
+        "relation": "USES",
+        "object": "Sim-Rank"
+    },
+    {
+        "subject": "Freebase",
+        "relation": "RELATED_TO",
+        "object": "维基百科"
+    },
+    {
+        "subject": "深度学习模块",
+        "relation": "RELATED_TO",
+        "object": "意见目标抽取任务"
+    },
+    {
+        "subject": "RCKC",
+        "relation": "USES",
+        "object": "TransE"
+    },
+    {
+        "subject": "逻辑模块",
+        "relation": "DESCRIBED_IN",
+        "object": "该文提出的模型"
+    },
+    {
+        "subject": "注意力机制",
+        "relation": "DESCRIBED_IN",
+        "object": "Entity relation extraction method based on fusion of multiple information and attention mechanism"
+    },
+    {
+        "subject": "一阶归纳学习",
+        "relation": "IMPLEMENTS",
+        "object": "谓词逻辑推理"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "RELATED_TO",
+        "object": "属性抽取"
+    },
+    {
+        "subject": "GeoNames",
+        "relation": "RELATED_TO",
+        "object": "基于多种数据源的中文知识图谱构建方法研究"
+    },
+    {
+        "subject": "HowNet",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A large-scale investment in knowledge infrastructure"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "RELATED_TO",
+        "object": "因果推理"
+    },
+    {
+        "subject": "生成模型",
+        "relation": "DESCRIBED_IN",
+        "object": "Collective Context-Aware Topic Models for Entity Disambiguation"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "通用知识图谱"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "USES",
+        "object": "关系抽取"
+    },
+    {
+        "subject": "RDF",
+        "relation": "IMPLEMENTS",
+        "object": "数据链接"
+    },
+    {
+        "subject": "命名实体识别",
+        "relation": "DESCRIBED_IN",
+        "object": "文献［20］"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "OWL Web ontology language overview"
+    },
+    {
+        "subject": "势能函数",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating Embeddings for Modeling Multirelational Data"
+    },
+    {
+        "subject": "EPO_None/Two/Three_Tagging",
+        "relation": "DESCRIBED_IN",
+        "object": "文献［50］"
+    },
+    {
+        "subject": "Siri",
+        "relation": "USES",
+        "object": "知识图谱技术"
+    },
+    {
+        "subject": "映射函数",
+        "relation": "RELATED_TO",
+        "object": "关系抽取任务"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识问答"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "RELATED_TO",
+        "object": "CoNLL-2000"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "Knowledge vault：a Web-scale approach to probabilistic knowledge fusion"
+    },
+    {
+        "subject": "命名实体识别",
+        "relation": "DESCRIBED_IN",
+        "object": "基于深度学习的关系抽取研究综述"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "RELATED_TO",
+        "object": "链接预测"
+    },
+    {
+        "subject": "卷积神经网络",
+        "relation": "USES",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "单语种本体映射",
+        "relation": "RELATED_TO",
+        "object": "跨语言本体映射"
+    },
+    {
+        "subject": "RCKC 模型",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "深度学习模块",
+        "relation": "USES",
+        "object": "映射函数"
+    },
+    {
+        "subject": "RCKD 模型",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "深度概率逻辑系统",
+        "relation": "DESCRIBED_IN",
+        "object": "Deep probabilistic logic: a unifying semantical aspect awareness"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "事实"
+    },
+    {
+        "subject": "语义网",
+        "relation": "RELATED_TO",
+        "object": "OWL"
+    },
+    {
+        "subject": "数据链接",
+        "relation": "IS_A",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识共享"
+    },
+    {
+        "subject": "PathRanking算法",
+        "relation": "RELATED_TO",
+        "object": "基于神经网络模型的推理方法"
+    },
+    {
+        "subject": "中医医案知识图谱",
+        "relation": "RELATED_TO",
+        "object": "基于多种数据源的中文知识图谱构建方法研究"
+    },
+    {
+        "subject": "基于结构的方法",
+        "relation": "RELATED_TO",
+        "object": "本体映射"
+    },
+    {
+        "subject": "TypeSim",
+        "relation": "RELATED_TO",
+        "object": "GraphLF"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "RELATED_TO",
+        "object": "ＡＢｏｘ"
+    },
+    {
+        "subject": "循环神经网络",
+        "relation": "USES",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "基于分类的知识获取方法",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "Freebase",
+        "relation": "RELATED_TO",
+        "object": "群体智能"
+    },
+    {
+        "subject": "TransE",
+        "relation": "IMPLEMENTS",
+        "object": "TransE-NA"
+    },
+    {
+        "subject": "PathRanking算法",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "ＡＢｏｘ",
+        "relation": "DESCRIBED_IN",
+        "object": "描述逻辑（ｄｅｓｃｒｉｐｔｉｏｎｌｏｇｉｃ）"
+    },
+    {
+        "subject": "HowNet",
+        "relation": "DESCRIBED_IN",
+        "object": "WordNet: An Electronic Lexical Database"
+    },
+    {
+        "subject": "科学领域语义数据资源",
+        "relation": "RELATED_TO",
+        "object": "Why Linked Data is Not Enough for Scientists"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "IMPLEMENTS",
+        "object": "实体抽取"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "无监督的知识图谱构建方法"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "知识表示"
+    },
+    {
+        "subject": "逻辑斯蒂回归模型",
+        "relation": "RELATED_TO",
+        "object": "Sieve: Linked data quality assessment and fusion"
+    },
+    {
+        "subject": "ＴＢｏｘ",
+        "relation": "DESCRIBED_IN",
+        "object": "描述逻辑（ｄｅｓｃｒｉｐｔｉｏｎｌｏｇｉｃ）"
+    },
+    {
+        "subject": "InteractE",
+        "relation": "RELATED_TO",
+        "object": "Convolutional 2D knowledge graph embeddings"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "Ontology mapping： the state of the art"
+    },
+    {
+        "subject": "ProPPR",
+        "relation": "IMPLEMENTS",
+        "object": "EntitySim"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱技术综述"
+    },
+    {
+        "subject": "逻辑斯蒂回归模型",
+        "relation": "DESCRIBED_IN",
+        "object": "逻辑斯蒂回归模型"
+    },
+    {
+        "subject": "谓词逻辑推理",
+        "relation": "DESCRIBED_IN",
+        "object": "Learning first-order horn clauses from Web text"
+    },
+    {
+        "subject": "一阶逻辑",
+        "relation": "RELATED_TO",
+        "object": "知识表示"
+    },
+    {
+        "subject": "Wolfram Alpha",
+        "relation": "USES",
+        "object": "Knowledge Graph"
+    },
+    {
+        "subject": "结构化知识",
+        "relation": "DESCRIBED_IN",
+        "object": "Harnessing deep neural networks with logic rules"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识资源"
+    },
+    {
+        "subject": "因果推理",
+        "relation": "DESCRIBED_IN",
+        "object": "Theoretical impediments to machine learning with seven sparks from the causal revolution"
+    },
+    {
+        "subject": "AnchorPROMPT",
+        "relation": "RELATED_TO",
+        "object": "本体映射"
+    },
+    {
+        "subject": "实体关系抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "Implementation of a kernel-based Chinese relation extraction system"
+    },
+    {
+        "subject": "语义搜索",
+        "relation": "USES",
+        "object": "ＯＷＬ"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "IS_A",
+        "object": "本体"
+    },
+    {
+        "subject": "知识表示技术",
+        "relation": "IS_A",
+        "object": "知识表示"
+    },
+    {
+        "subject": "TypeSim",
+        "relation": "DESCRIBED_IN",
+        "object": "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach"
+    },
+    {
+        "subject": "知识表示",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "语义解析"
+    },
+    {
+        "subject": "Att-RCNN",
+        "relation": "RELATED_TO",
+        "object": "Entity relation extraction method based on fusion of multiple information and attention mechanism"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "行业知识图谱"
+    },
+    {
+        "subject": "BI-LSTM",
+        "relation": "RELATED_TO",
+        "object": "SemEval-2010"
+    },
+    {
+        "subject": "框架表示",
+        "relation": "RELATED_TO",
+        "object": "知识表示"
+    },
+    {
+        "subject": "逻辑表示法",
+        "relation": "RELATED_TO",
+        "object": "知识表示"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "IMPLEMENTS",
+        "object": "CRF"
+    },
+    {
+        "subject": "Paralex系统",
+        "relation": "RELATED_TO",
+        "object": "SEMPRE系统"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体层"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "链接预测"
+    },
+    {
+        "subject": "基于文本的方法",
+        "relation": "USES",
+        "object": "相似度传播"
+    },
+    {
+        "subject": "跨知识库的知识推理",
+        "relation": "DESCRIBED_IN",
+        "object": "基于描述逻辑的组合知识库推理"
+    },
+    {
+        "subject": "DataLift",
+        "relation": "DESCRIBED_IN",
+        "object": "A Survey of RDB to RDF Translation Approaches and Tools"
+    },
+    {
+        "subject": "双层随机游走",
+        "relation": "IMPLEMENTS",
+        "object": "翻译模型"
+    },
+    {
+        "subject": "映射函数",
+        "relation": "RELATED_TO",
+        "object": "意见目标抽取任务"
+    },
+    {
+        "subject": "动态知识图谱推理",
+        "relation": "RELATED_TO",
+        "object": "EvolveGCN"
+    },
+    {
+        "subject": "EntitySim",
+        "relation": "DESCRIBED_IN",
+        "object": "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "关键词"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "自然语言处理"
+    },
+    {
+        "subject": "有监督的知识图谱构建方法",
+        "relation": "RELATED_TO",
+        "object": "基于序列模式标注的方法"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "TransR"
+    },
+    {
+        "subject": "命名实体识别",
+        "relation": "RELATED_TO",
+        "object": "Bidirectional LSTM-CRF models for sequence tagging"
+    },
+    {
+        "subject": "跨语言知识抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "Transfer learning based cross-lingual knowledge extraction for Wikipedia"
+    },
+    {
+        "subject": "图神经网络",
+        "relation": "RELATED_TO",
+        "object": "RCKC 模型"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "行业知识图谱"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "领域本体"
+    },
+    {
+        "subject": "YAGO",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A large-scale investment in knowledge infrastructure"
+    },
+    {
+        "subject": "OWL",
+        "relation": "USES",
+        "object": "语义网"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "基于实例的方法"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search"
+    },
+    {
+        "subject": "Att-RCNN",
+        "relation": "RELATED_TO",
+        "object": "SemEval-2010"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "数据集成"
+    },
+    {
+        "subject": "RDF",
+        "relation": "DESCRIBED_IN",
+        "object": "《Ｗａｖｉｎｇｔｈｅ Ｗｅｂ》"
+    },
+    {
+        "subject": "跨语言知识抽取",
+        "relation": "RELATED_TO",
+        "object": "Ｘｌｉｋｅ项目"
+    },
+    {
+        "subject": "Jacona-Freebase系统",
+        "relation": "RELATED_TO",
+        "object": "SEMPRE系统"
+    },
+    {
+        "subject": "OWL",
+        "relation": "DESCRIBED_IN",
+        "object": "《Ｗａｖｉｎｇｔｈｅ Ｗｅｂ》"
+    },
+    {
+        "subject": "URI",
+        "relation": "IMPLEMENTS",
+        "object": "数据链接"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "DESCRIBED_IN",
+        "object": "论布鲁克斯情报学基本理论"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱研究综述"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "RELATED_TO",
+        "object": "Information Extraction"
+    },
+    {
+        "subject": "群体智能",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "三元组抽取",
+        "relation": "RELATED_TO",
+        "object": "A novel hierarchical binary tagging framework for relational triple extraction"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "USES",
+        "object": "OWL"
+    },
+    {
+        "subject": "BI-LSTM",
+        "relation": "USES",
+        "object": "注意力机制"
+    },
+    {
+        "subject": "GCN",
+        "relation": "USES",
+        "object": "EvolveGCN"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "RELATED_TO",
+        "object": "Harnessing deep neural networks with logic rules"
+    },
+    {
+        "subject": "神经张量网络模型",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "路径张量分解",
+        "relation": "IMPLEMENTS",
+        "object": "知识图谱推理"
+    },
+    {
+        "subject": "TRESCAL",
+        "relation": "RELATED_TO",
+        "object": "Typed tensor decomposition of knowledge bases for relation extraction"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "RELATED_TO",
+        "object": "实体对齐"
+    },
+    {
+        "subject": "符号主义",
+        "relation": "RELATED_TO",
+        "object": "联结主义"
+    },
+    {
+        "subject": "BI-LSTM",
+        "relation": "DESCRIBED_IN",
+        "object": "Entity relation extraction method based on fusion of multiple information and attention mechanism"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "USES",
+        "object": "CRF"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "基于多种数据源的中文知识图谱构建方法研究"
+    },
+    {
+        "subject": "知识推理",
+        "relation": "DESCRIBED_IN",
+        "object": "Reasoning with neural tensor networks for knowledge base completion"
+    },
+    {
+        "subject": "产生式表示法",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search"
+    },
+    {
+        "subject": "InteractE",
+        "relation": "RELATED_TO",
+        "object": "ConvE"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "领域本体"
+    },
+    {
+        "subject": "本体",
+        "relation": "DESCRIBED_IN",
+        "object": "Ontology mapping： the state of the art"
+    },
+    {
+        "subject": "HowNet",
+        "relation": "RELATED_TO",
+        "object": "DBpedia: A nucleus for a web of open data"
+    },
+    {
+        "subject": "ConvE",
+        "relation": "DESCRIBED_IN",
+        "object": "InteractE： improving convolution-based knowledge graph embeddings by increasing feature interactions"
+    },
+    {
+        "subject": "ConvE",
+        "relation": "RELATED_TO",
+        "object": "InteractE"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "BI-LSTM"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "RELATED_TO",
+        "object": "基于多种数据源的中文知识图谱构建方法研究"
+    },
+    {
+        "subject": "RCKD",
+        "relation": "RELATED_TO",
+        "object": "RCKC"
+    },
+    {
+        "subject": "基于实例的方法",
+        "relation": "RELATED_TO",
+        "object": "本体映射"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "本体学习",
+        "relation": "DESCRIBED_IN",
+        "object": "Ontology learning from text: A look back and into the future"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "RDFS"
+    },
+    {
+        "subject": "图数据库",
+        "relation": "USES",
+        "object": "SQL"
+    },
+    {
+        "subject": "RESCAL",
+        "relation": "RELATED_TO",
+        "object": "Embedding entities and relations for learning and inference in knowledge base"
+    },
+    {
+        "subject": "RCKD 模型",
+        "relation": "IMPLEMENTS",
+        "object": "深度学习"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "Translating Embeddings for Modeling Multirelational Data"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "RELATED_TO",
+        "object": "CoNLL-2003"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "命名实体识别",
+        "relation": "RELATED_TO",
+        "object": "End-to-end sequence labeling via bi- directional LSTM-CNNs-CRF"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "Integrating deep learning with logic fusion for information extraction"
+    },
+    {
+        "subject": "Att-RCNN",
+        "relation": "USES",
+        "object": "注意力机制"
+    },
+    {
+        "subject": "维基百科",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "一阶归纳学习",
+        "relation": "DESCRIBED_IN",
+        "object": "Ontological pathfinding：mining first-order knowledge from large knowledge base"
+    },
+    {
+        "subject": "质量评估方法",
+        "relation": "DESCRIBED_IN",
+        "object": "Sieve: Linked data quality assessment and fusion"
+    },
+    {
+        "subject": "BI-GRU",
+        "relation": "RELATED_TO",
+        "object": "Entity relation extraction method based on fusion of multiple information and attention mechanism"
+    },
+    {
+        "subject": "图网络",
+        "relation": "RELATED_TO",
+        "object": "因果推理"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "实体抽取"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "RELATED_TO",
+        "object": "关系抽取"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "基于多种数据源的中文知识图谱构建方法研究"
+    },
+    {
+        "subject": "知识推理",
+        "relation": "RELATED_TO",
+        "object": "知识计算"
+    },
+    {
+        "subject": "跨语言的知识推理",
+        "relation": "RELATED_TO",
+        "object": "知识推理"
+    },
+    {
+        "subject": "实体抽取",
+        "relation": "RELATED_TO",
+        "object": "属性抽取"
+    },
+    {
+        "subject": "本体",
+        "relation": "IS_A",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "命名实体识别"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "基于深度学习的关系抽取研究综述"
+    },
+    {
+        "subject": "CYC",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A Large-scale Investment in Knowledge Infrastructure"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识推理"
+    },
+    {
+        "subject": "深度学习",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "本体"
+    },
+    {
+        "subject": "DBPedia",
+        "relation": "DESCRIBED_IN",
+        "object": "DBpedia: A nucleus for a web of open data"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识检索"
+    },
+    {
+        "subject": "XML",
+        "relation": "IS_A",
+        "object": "技术"
+    },
+    {
+        "subject": "Jacona-Freebase系统",
+        "relation": "RELATED_TO",
+        "object": "基于信息检索的问答系统"
+    },
+    {
+        "subject": "知识融合",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱技术综述"
+    },
+    {
+        "subject": "基于 NLP 的方法",
+        "relation": "IMPLEMENTS",
+        "object": "Stemming"
+    },
+    {
+        "subject": "贝叶斯模型",
+        "relation": "IMPLEMENTS",
+        "object": "短文本的主题聚类"
+    },
+    {
+        "subject": "实体抽取",
+        "relation": "RELATED_TO",
+        "object": "命名实体学习"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "IS_A",
+        "object": "一阶谓词逻辑"
+    },
+    {
+        "subject": "有监督的知识图谱构建方法",
+        "relation": "RELATED_TO",
+        "object": "基于规则学习的语义标注方法"
+    },
+    {
+        "subject": "领域本体",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究"
+    },
+    {
+        "subject": "TRESCAL",
+        "relation": "RELATED_TO",
+        "object": "张量分解"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "BI-GRU"
+    },
+    {
+        "subject": "BI-GRU",
+        "relation": "RELATED_TO",
+        "object": "SemEval-2010"
+    },
+    {
+        "subject": "主题模型",
+        "relation": "DESCRIBED_IN",
+        "object": "A phrase mining framework for recursive construction of a topical hierarchy"
+    },
+    {
+        "subject": "中文知识图谱项目",
+        "relation": "RELATED_TO",
+        "object": "Survey on big data system and analytical technology"
+    },
+    {
+        "subject": "知识推理",
+        "relation": "RELATED_TO",
+        "object": "动态知识图谱推理"
+    },
+    {
+        "subject": "主题模型",
+        "relation": "IMPLEMENTS",
+        "object": "生成模型"
+    },
+    {
+        "subject": "基于文本的方法",
+        "relation": "RELATED_TO",
+        "object": "基于结构的方法"
+    },
+    {
+        "subject": "RCKD",
+        "relation": "USES",
+        "object": "TransE"
+    },
+    {
+        "subject": "WordNet",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "知识表示技术",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search"
+    },
+    {
+        "subject": "RNN",
+        "relation": "USES",
+        "object": "EvolveGCN"
+    },
+    {
+        "subject": "OWL",
+        "relation": "IMPLEMENTS",
+        "object": "数据链接"
+    },
+    {
+        "subject": "共指消解",
+        "relation": "RELATED_TO",
+        "object": "实体同义"
+    },
+    {
+        "subject": "LSTM",
+        "relation": "IS_A",
+        "object": "BI-LSTM-CRF"
+    },
+    {
+        "subject": "知识图谱嵌入",
+        "relation": "IMPLEMENTS",
+        "object": "知识推理"
+    },
+    {
+        "subject": "贝叶斯网络",
+        "relation": "RELATED_TO",
+        "object": "深度学习"
+    },
+    {
+        "subject": "基于序列模式标注的方法",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "对象对齐",
+        "relation": "RELATED_TO",
+        "object": "实体匹配"
+    },
+    {
+        "subject": "互动百科",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "EvolveGCN",
+        "relation": "USES",
+        "object": "RNN"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "知识图谱构建"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "关系"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "RELATED_TO",
+        "object": "知识表示"
+    },
+    {
+        "subject": "Ｈｏｂｂｓ算法",
+        "relation": "RELATED_TO",
+        "object": "向心理论"
+    },
+    {
+        "subject": "知识加工",
+        "relation": "IS_A",
+        "object": "本体"
+    },
+    {
+        "subject": "Google Now",
+        "relation": "USES",
+        "object": "Knowledge Graph"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "USES",
+        "object": "属性抽取"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "Relation extraction using distant supervision: a survey"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "The PROMPT suite：interactive tools for ontology merging and mapping"
+    },
+    {
+        "subject": "跨语言链接技术",
+        "relation": "USES",
+        "object": "Linked Open Data (LOD)"
+    },
+    {
+        "subject": "CYC",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "基于 NLP 的方法"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "摘要"
+    },
+    {
+        "subject": "知识推理",
+        "relation": "RELATED_TO",
+        "object": "知识图谱研究综述"
+    },
+    {
+        "subject": "链接预测",
+        "relation": "RELATED_TO",
+        "object": "知识表示学习"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "语义搜索"
+    },
+    {
+        "subject": "Ｘｌｉｋｅ项目",
+        "relation": "USES",
+        "object": "跨语言知识抽取"
+    },
+    {
+        "subject": "级联二进制标记框架",
+        "relation": "IMPLEMENTS",
+        "object": "三元组抽取"
+    },
+    {
+        "subject": "ＯＩＥ 系统",
+        "relation": "RELATED_TO",
+        "object": "ＫＲＡＫＥＮ 模型"
+    },
+    {
+        "subject": "LSTM",
+        "relation": "USES",
+        "object": "知识图谱嵌入"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "zhishi. me"
+    },
+    {
+        "subject": "RCKC 模型",
+        "relation": "IMPLEMENTS",
+        "object": "协同过滤"
+    },
+    {
+        "subject": "产生式表示法",
+        "relation": "RELATED_TO",
+        "object": "知识表示"
+    },
+    {
+        "subject": "Siri",
+        "relation": "CREATED_BY",
+        "object": "Siri"
+    },
+    {
+        "subject": "科学知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体"
+    },
+    {
+        "subject": "知识推理",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱技术综述"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究"
+    },
+    {
+        "subject": "Ｎ 元关系模型",
+        "relation": "DESCRIBED_IN",
+        "object": "KrakeN: N-ary facts in open information extraction"
+    },
+    {
+        "subject": "本体",
+        "relation": "DESCRIBED_IN",
+        "object": "A translation approach to portable ontology specifications"
+    },
+    {
+        "subject": "本体寻路",
+        "relation": "DESCRIBED_IN",
+        "object": "Ontological pathfinding：mining first-order knowledge from large knowledge base"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识图谱构建"
+    },
+    {
+        "subject": "RESCAL",
+        "relation": "RELATED_TO",
+        "object": "知识图谱推理"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "语义搜索"
+    },
+    {
+        "subject": "知识加工",
+        "relation": "RELATED_TO",
+        "object": "本体"
+    },
+    {
+        "subject": "基于文本的方法",
+        "relation": "USES",
+        "object": "Sim-Rank"
+    },
+    {
+        "subject": "知识库融合",
+        "relation": "DESCRIBED_IN",
+        "object": "Sieve: Linked data quality assessment and fusion"
+    },
+    {
+        "subject": "知识推理",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "语义网",
+        "relation": "RELATED_TO",
+        "object": "XML"
+    },
+    {
+        "subject": "Siri",
+        "relation": "USES",
+        "object": "Siri"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱：方法，实践与应用"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "语义网"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "OWL Web ontology language overview"
+    },
+    {
+        "subject": "单词共现网络",
+        "relation": "RELATED_TO",
+        "object": "本体结构"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "Att-RCNN"
+    },
+    {
+        "subject": "CYC",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A large-scale investment in knowledge infrastructure"
+    },
+    {
+        "subject": "贝叶斯模型",
+        "relation": "RELATED_TO",
+        "object": "本体结构"
+    },
+    {
+        "subject": "小样本学习",
+        "relation": "RELATED_TO",
+        "object": "实体对齐"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "一致性检验"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "语义Web规则语言（SWRL）"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "WordNet"
+    },
+    {
+        "subject": "数据链接",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "DESCRIBED_IN",
+        "object": "Knowledge map of information science"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "DESCRIBED_IN",
+        "object": "知识地图研究现状与展望"
+    },
+    {
+        "subject": "符号主义",
+        "relation": "IS_A",
+        "object": "知识表示"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "OWL"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "Entity relation extraction method based on fusion of multiple information and attention mechanism"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "DESCRIBED_IN",
+        "object": "文献［20］"
+    },
+    {
+        "subject": "维基百科",
+        "relation": "RELATED_TO",
+        "object": "Freebase"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识表示"
+    },
+    {
+        "subject": "张量分解",
+        "relation": "RELATED_TO",
+        "object": "TRESCAL"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "实体"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "RELATED_TO",
+        "object": "GeoNames"
+    },
+    {
+        "subject": "CNN",
+        "relation": "USES",
+        "object": "知识推理"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "百科类"
+    },
+    {
+        "subject": "ZhiShi.me",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "ＯＩＥ 系统",
+        "relation": "RELATED_TO",
+        "object": "后期关系推理"
+    },
+    {
+        "subject": "知件（Ｋｎｏｗｗａｒｅ）",
+        "relation": "RELATED_TO",
+        "object": "Survey on big data system and analytical technology"
+    },
+    {
+        "subject": "图神经网络",
+        "relation": "IS_A",
+        "object": "图卷积网络"
+    },
+    {
+        "subject": "知识融合",
+        "relation": "RELATED_TO",
+        "object": "知识计算"
+    },
+    {
+        "subject": "逻辑斯蒂回归模型",
+        "relation": "DESCRIBED_IN",
+        "object": "Sieve: Linked data quality assessment and fusion"
+    },
+    {
+        "subject": "符号主义",
+        "relation": "DESCRIBED_IN",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识抽取"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "知识驱动的智能信息处理应用"
+    },
+    {
+        "subject": "LSTM",
+        "relation": "IS_A",
+        "object": "命名实体识别"
+    },
+    {
+        "subject": "本体构建",
+        "relation": "IS_A",
+        "object": "本体学习"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "基于知识的大数据分析与决策"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "本体"
+    },
+    {
+        "subject": "ＸＬｏｒｅ项目",
+        "relation": "DESCRIBED_IN",
+        "object": "XLore: A Large-scale English-Chinese Bilingual Knowledge Graph"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "SMR：medical knowledge graph embedding for safe medicine recommendation"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "USES",
+        "object": "信息抽取"
+    },
+    {
+        "subject": "路径张量分解",
+        "relation": "DESCRIBED_IN",
+        "object": "Embedding entities and relations for learning and inference in knowledge base"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "Linked Data - The Story So Far"
+    },
+    {
+        "subject": "双层随机游走",
+        "relation": "IMPLEMENTS",
+        "object": "张量分解"
+    },
+    {
+        "subject": "CYC",
+        "relation": "DESCRIBED_IN",
+        "object": "WordNet: An Electronic Lexical Database"
+    },
+    {
+        "subject": "TransN",
+        "relation": "RELATED_TO",
+        "object": "Rotate"
+    },
+    {
+        "subject": "SWRL",
+        "relation": "IMPLEMENTS",
+        "object": "本体"
+    },
+    {
+        "subject": "单词共现网络",
+        "relation": "DESCRIBED_IN",
+        "object": "A phrase mining framework for recursive construction of a topical hierarchy"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "CREATED_BY",
+        "object": "谷歌公司"
+    },
+    {
+        "subject": "贝叶斯模型",
+        "relation": "DESCRIBED_IN",
+        "object": "A phrase mining framework for recursive construction of a topical hierarchy"
+    },
+    {
+        "subject": "主题模型",
+        "relation": "DESCRIBED_IN",
+        "object": "Collective Context-Aware Topic Models for Entity Disambiguation"
+    },
+    {
+        "subject": "概念层次学习",
+        "relation": "DESCRIBED_IN",
+        "object": "Probase: A Probabilistic Taxonomy for Text Understanding"
+    },
+    {
+        "subject": "ConvE",
+        "relation": "IMPLEMENTS",
+        "object": "知识推理"
+    },
+    {
+        "subject": "DBPedia",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "实体聚类方法",
+        "relation": "RELATED_TO",
+        "object": "本体结构"
+    },
+    {
+        "subject": "结构化知识",
+        "relation": "IMPLEMENTS",
+        "object": "信息抽取"
+    },
+    {
+        "subject": "YAGO",
+        "relation": "DESCRIBED_IN",
+        "object": "DBpedia: A nucleus for a web of open data"
+    },
+    {
+        "subject": "自注意力机制",
+        "relation": "RELATED_TO",
+        "object": "Entity relation extraction method based on fusion of multiple information and attention mechanism"
+    },
+    {
+        "subject": "图网络",
+        "relation": "RELATED_TO",
+        "object": "贝叶斯网络"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "USES",
+        "object": "本体层"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "知识融合"
+    },
+    {
+        "subject": "SWRL",
+        "relation": "RELATED_TO",
+        "object": "关系推理"
+    },
+    {
+        "subject": "XML",
+        "relation": "USES",
+        "object": "语义网"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "RELATED_TO",
+        "object": "本体"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "RELATED_TO",
+        "object": "本体"
+    },
+    {
+        "subject": "知识融合",
+        "relation": "RELATED_TO",
+        "object": "实体对齐"
+    },
+    {
+        "subject": "XML",
+        "relation": "DESCRIBED_IN",
+        "object": "《Ｗａｖｉｎｇｔｈｅ Ｗｅｂ》"
+    },
+    {
+        "subject": "联结主义",
+        "relation": "IS_A",
+        "object": "知识表示"
+    },
+    {
+        "subject": "语义搜索",
+        "relation": "USES",
+        "object": "ＲＤＦ"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "DESCRIBED_IN",
+        "object": "文献［27］"
+    },
+    {
+        "subject": "知识融合",
+        "relation": "RELATED_TO",
+        "object": "知识图谱研究综述"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "自底向上的构建方法"
+    },
+    {
+        "subject": "动态知识图谱推理",
+        "relation": "RELATED_TO",
+        "object": "知识推理"
+    },
+    {
+        "subject": "数据链接",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "有监督的知识图谱构建方法",
+        "relation": "RELATED_TO",
+        "object": "基于分类的知识获取方法"
+    },
+    {
+        "subject": "TransR",
+        "relation": "RELATED_TO",
+        "object": "Rotate"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "Big data: a survey"
+    },
+    {
+        "subject": "知识加工",
+        "relation": "RELATED_TO",
+        "object": "推理技术的应用"
+    },
+    {
+        "subject": "本体推理",
+        "relation": "RELATED_TO",
+        "object": "Ontological pathfinding：mining first-order knowledge from large knowledge base"
+    },
+    {
+        "subject": "BI-LSTM-CRF",
+        "relation": "USES",
+        "object": "BI-LSTM"
+    },
+    {
+        "subject": "本体寻路",
+        "relation": "RELATED_TO",
+        "object": "谓词逻辑推理"
+    },
+    {
+        "subject": "知识库融合",
+        "relation": "DESCRIBED_IN",
+        "object": "Building, maintaining, and using knowledge bases: A report from the trenches"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "机器学习"
+    },
+    {
+        "subject": "RCKC",
+        "relation": "RELATED_TO",
+        "object": "RCKD"
+    },
+    {
+        "subject": "Apple Siri",
+        "relation": "USES",
+        "object": "Knowledge Graph"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "知识链接"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "RELATED_TO",
+        "object": "属性抽取"
+    },
+    {
+        "subject": "HowNet",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识融合"
+    },
+    {
+        "subject": "TransN",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating representations of knowledge graphs with neighbor［s C］"
+    },
+    {
+        "subject": "知识链接",
+        "relation": "RELATED_TO",
+        "object": "本体"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "RDFS(FA): Connecting RDF(S) and OWL DL"
+    },
+    {
+        "subject": "Evi",
+        "relation": "USES",
+        "object": "知识图谱技术"
+    },
+    {
+        "subject": "谓词逻辑推理",
+        "relation": "IS_A",
+        "object": "本体推理"
+    },
+    {
+        "subject": "知识推理",
+        "relation": "RELATED_TO",
+        "object": "跨语言的知识推理"
+    },
+    {
+        "subject": "OWL",
+        "relation": "RELATED_TO",
+        "object": "OWL Web ontology language overview"
+    },
+    {
+        "subject": "出门问问",
+        "relation": "RELATED_TO",
+        "object": "Siri"
+    },
+    {
+        "subject": "ＸＬｏｒｅ项目",
+        "relation": "USES",
+        "object": "跨语言知识抽取"
+    },
+    {
+        "subject": "属性抽取",
+        "relation": "RELATED_TO",
+        "object": "Information Extraction"
+    },
+    {
+        "subject": "CNN",
+        "relation": "RELATED_TO",
+        "object": "自注意力机制"
+    },
+    {
+        "subject": "物理符号系统假设",
+        "relation": "DESCRIBED_IN",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search"
+    },
+    {
+        "subject": "知识融合",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "图网络",
+        "relation": "DESCRIBED_IN",
+        "object": "Theoretical impediments to machine learning with seven sparks from the causal revolution"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "CN-DBpedia: A never-ending Chinese knowledge extraction system"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "IMPLEMENTS",
+        "object": "关系抽取"
+    },
+    {
+        "subject": "DistMult 模型",
+        "relation": "RELATED_TO",
+        "object": "RESCAL"
+    },
+    {
+        "subject": "知立方",
+        "relation": "RELATED_TO",
+        "object": "基于开放网络知识的信息检索与数据挖掘"
+    },
+    {
+        "subject": "搜索引擎",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "深度学习模块",
+        "relation": "DESCRIBED_IN",
+        "object": "该文提出的模型"
+    },
+    {
+        "subject": "知识表示",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱技术综述"
+    },
+    {
+        "subject": "ＫＲＡＫＥＮ 模型",
+        "relation": "DESCRIBED_IN",
+        "object": "KrakeN: N-ary facts in open information extraction"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "CREATED_BY",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "USES",
+        "object": "机器学习"
+    },
+    {
+        "subject": "实体抽取",
+        "relation": "RELATED_TO",
+        "object": "命名实体识别"
+    },
+    {
+        "subject": "RESCAL",
+        "relation": "IMPLEMENTS",
+        "object": "张量分解"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体"
+    },
+    {
+        "subject": "生成模型",
+        "relation": "RELATED_TO",
+        "object": "Linde模型"
+    },
+    {
+        "subject": "深度学习模块",
+        "relation": "RELATED_TO",
+        "object": "逻辑模块"
+    },
+    {
+        "subject": "SEMPRE系统",
+        "relation": "RELATED_TO",
+        "object": "基于语义分析的问答系统"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "RLPTransE"
+    },
+    {
+        "subject": "张量分解",
+        "relation": "RELATED_TO",
+        "object": "RESCAL"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "深度学习"
+    },
+    {
+        "subject": "ProPPR",
+        "relation": "DESCRIBED_IN",
+        "object": "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "搜索引擎"
+    },
+    {
+        "subject": "知识抽取",
+        "relation": "IMPLEMENTS",
+        "object": "属性抽取"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "IS_A",
+        "object": "知识获取"
+    },
+    {
+        "subject": "本体结构",
+        "relation": "IMPLEMENTS",
+        "object": "短文本的主题聚类"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识图谱技术综述"
+    },
+    {
+        "subject": "InteractE",
+        "relation": "RELATED_TO",
+        "object": "InteractE： improving convolution-based knowledge graph embeddings by increasing feature interactions"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "CREATED_BY",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "科学知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识地图"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "RELATED_TO",
+        "object": "实体抽取"
+    },
+    {
+        "subject": "知识加工",
+        "relation": "RELATED_TO",
+        "object": "知识推理技术"
+    },
+    {
+        "subject": "知识计算",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "EntitySim",
+        "relation": "RELATED_TO",
+        "object": "TypeSim"
+    },
+    {
+        "subject": "级联二进制标记框架",
+        "relation": "DESCRIBED_IN",
+        "object": "A novel hierarchical binary tagging framework for relational triple extraction"
+    },
+    {
+        "subject": "TransR",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating representations of knowledge graphs with neighbor［s C］"
+    },
+    {
+        "subject": "EPO_None/Two/Three_Tagging",
+        "relation": "RELATED_TO",
+        "object": "A novel hierarchical binary tagging framework for relational triple extraction"
+    },
+    {
+        "subject": "语义网",
+        "relation": "RELATED_TO",
+        "object": "RDF"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "半监督的知识图谱构建方法"
+    },
+    {
+        "subject": "知识表示学习",
+        "relation": "RELATED_TO",
+        "object": "链接预测"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "CREATED_BY",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "EvolveGCN",
+        "relation": "USES",
+        "object": "GCN"
+    },
+    {
+        "subject": "维基百科",
+        "relation": "RELATED_TO",
+        "object": "DBpedia"
+    },
+    {
+        "subject": "ＡＢｏｘ",
+        "relation": "RELATED_TO",
+        "object": "本体"
+    },
+    {
+        "subject": "基于神经网络模型的推理方法",
+        "relation": "RELATED_TO",
+        "object": "PathRanking算法"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "RDFS(FA): Connecting RDF(S) and OWL DL"
+    },
+    {
+        "subject": "ＯＩＥ 系统",
+        "relation": "RELATED_TO",
+        "object": "Ｎ 元关系模型"
+    },
+    {
+        "subject": "残差膨胀卷积神经网络",
+        "relation": "USES",
+        "object": "CNN"
+    },
+    {
+        "subject": "WordNet",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A large-scale investment in knowledge infrastructure"
+    },
+    {
+        "subject": "出门问问",
+        "relation": "USES",
+        "object": "知识图谱技术"
+    },
+    {
+        "subject": "OWL",
+        "relation": "IS_A",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "ＴＢｏｘ",
+        "relation": "RELATED_TO",
+        "object": "本体"
+    },
+    {
+        "subject": "双层随机游走",
+        "relation": "IMPLEMENTS",
+        "object": "知识推理"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体"
+    },
+    {
+        "subject": "本体层",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究"
+    },
+    {
+        "subject": "Linde模型",
+        "relation": "IMPLEMENTS",
+        "object": "生成模型"
+    },
+    {
+        "subject": "AnchorPROMPT",
+        "relation": "IMPLEMENTS",
+        "object": "本体映射"
+    },
+    {
+        "subject": "实体链接",
+        "relation": "RELATED_TO",
+        "object": "外部知识库融合"
+    },
+    {
+        "subject": "图数据库",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "向心理论",
+        "relation": "RELATED_TO",
+        "object": "Centering: A Framework for Modeling the Local Coherence of Discourse"
+    },
+    {
+        "subject": "基于结构的方法",
+        "relation": "USES",
+        "object": "相似度传播"
+    },
+    {
+        "subject": "本体映射",
+        "relation": "RELATED_TO",
+        "object": "基于结构的方法"
+    },
+    {
+        "subject": "ＸＬｏｒｅ项目",
+        "relation": "DESCRIBED_IN",
+        "object": "ＸＬｏｒｅ项目"
+    },
+    {
+        "subject": "知识加工",
+        "relation": "RELATED_TO",
+        "object": "知识质量评估手段"
+    },
+    {
+        "subject": "命名实体识别",
+        "relation": "RELATED_TO",
+        "object": "关系抽取"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识重用"
+    },
+    {
+        "subject": "跨语言知识抽取",
+        "relation": "RELATED_TO",
+        "object": "ＸＬｏｒｅ项目"
+    },
+    {
+        "subject": "RDFS",
+        "relation": "RELATED_TO",
+        "object": "OWL Web ontology language overview"
+    },
+    {
+        "subject": "引文网络",
+        "relation": "RELATED_TO",
+        "object": "知识图谱"
+    },
+    {
+        "subject": "图网络",
+        "relation": "RELATED_TO",
+        "object": "深度学习"
+    },
+    {
+        "subject": "质量评估方法",
+        "relation": "IS_A",
+        "object": "质量评估方法"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "人工智能"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "本体"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "RELATED_TO",
+        "object": "知识融合"
+    }
+]

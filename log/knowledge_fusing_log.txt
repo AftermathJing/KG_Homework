@@ -1,0 +1,755 @@
+nohup: ignoring input
+12:22:32 - INFO - --- 开始融合关系 (程序化去重) ---
+12:22:32 - INFO - 正在读取关系文件: ./data/relationship/cn_1_fulltext_ref_relations.json
+12:22:32 - INFO - 正在读取关系文件: ./data/relationship/cn_4_fulltext_ref_relations.json
+12:22:32 - INFO - 正在读取关系文件: ./data/relationship/cn_2_fulltext_ref_relations.json
+12:22:32 - INFO - 正在读取关系文件: ./data/relationship/cn_4_fulltext_abstract_main_body.json
+12:22:32 - INFO - 正在读取关系文件: ./data/relationship/cn_3_fulltext_abstract_main_body.json
+12:22:32 - INFO - 正在读取关系文件: ./data/relationship/cn_1_fulltext_abstract_main_body.json
+12:22:32 - INFO - 正在读取关系文件: ./data/relationship/cn_2_fulltext_abstract_main_body.json
+12:22:32 - INFO - 正在读取关系文件: ./data/relationship/cn_3_fulltext_ref_relations.json
+12:22:32 - INFO - 关系融合完毕。总关系数: 581
+12:22:32 - INFO - 加载真实模型 (用于实体融合)...
+12:22:32 - INFO - 正在从以下路径加载 Qwen3-4B 模型: /home/wj/Qwen3-4B...
+12:22:32 - INFO - 正在使用设备: cuda
+融合后的关系已保存到: ./data/KG/relationship/all_relations_fused.json
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:08<00:16,  8.15s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.41s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:09<00:00,  3.32s/it]
+12:22:44 - INFO - 模型和分词器加载成功。
+12:22:44 - INFO - --- 开始融合实体 (基于 LLM) ---
+12:22:44 - INFO - --- 正在融合: concept.json (基于 'name') ---
+12:22:44 - INFO - 正在融合 '知识图谱' (共 37 个实体)...
+12:22:44 - INFO -   > 融合轮次: 37 -> ...
+12:22:44 - INFO -     > 正在调用 LLM 融合 10 个...
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+12:22:54 - INFO - 模型原始响应: [{
+  "name": "知识图谱",
+  "definition": "以图的形式表现客观世界中的概念和实体及其之间关系的知识库，用于存储和表示知识的结构化数据集合，描述现实世界实体及其关系的结构化知识库，结合应用计量学引文分析和共现分析、图形学、可视化技术、信息科学等学科的理论与方法，图形化的展示各领域的学科结构、各学科的研究内容、学科间的关系、识别和分析学科的发展新趋势以及预测前沿。",
+  "aliases": ["知识图谱", "KG", "知识库"],
+  "category": "Task, Theory, Model, Data Structure",
+  "sub_domain": "知识表示学习, 知识图谱",
+  "publication_year": "",
+  "vendor_or_originator": ""
+}]
+12:22:54 - INFO -     > 正在调用 LLM 融合 10 个...
+12:22:59 - INFO - 模型原始响应: [{
+  "name": "知识图谱",
+  "definition": "以结构化的方式描述客观世界中概念、实体及其间的关系，将互联网的信息表达成更接近人类认知世界的形式",
+  "aliases": ["知识图谱", "ＫｎｏｗｌｅｄｇｅＧｒａｐｈ", "ＫＧ"],
+  "category": "Data Structure",
+  "sub_domain": "知识表示学习",
+  "purpose": "提供一种更好地组织、管理和理解互联网海量信息的能力"
+}]
+12:22:59 - INFO -     > 正在调用 LLM 融合 10 个...
+12:23:05 - INFO - 模型原始响应: [{
+  "name": "知识图谱",
+  "definition": "一种用于组织和表示知识的结构化数据形式，用于增强搜索结果和改善用户搜索体验。",
+  "aliases": ["知识图", "知识图谱技术"],
+  "category": "Data Structure",
+  "sub_domain": "知识表示学习",
+  "purpose": "用于组织和表示知识，支持复杂的查询和推理，提高信息处理的效率和准确性，实现智能化语义检索，解决信息检索问题，用于解决与实体相关的智能问答问题，为实现语义智能化搜索以及知识互联打下基础"
+}]
+12:23:05 - INFO -     > 正在调用 LLM 融合 7 个...
+12:23:10 - INFO - 模型原始响应: [{
+  "name": "知识图谱",
+  "definition": "知识图谱是结构化的知识体系，用于表示和存储现实世界中的信息。",
+  "aliases": ["KG", "知识图谱"],
+  "category": "Data Structure",
+  "sub_domain": "知识表示学习",
+  "purpose": "用于表示和存储现实世界中的信息，支持知识的查询和推理。"
+}]
+12:23:10 - INFO -   > 融合轮次: 4 -> ...
+12:23:10 - INFO -     > 正在调用 LLM 融合 4 个...
+12:23:20 - INFO - 模型原始响应: [{
+  "name": "知识图谱",
+  "definition": "以图的形式表现客观世界中的概念和实体及其之间关系的知识库，用于存储和表示知识的结构化数据集合，描述现实世界实体及其关系的结构化知识库，结合应用计量学引文分析和共现分析、图形学、可视化技术、信息科学等学科的理论与方法，图形化的展示各领域的学科结构、各学科的研究内容、学科间的关系、识别和分析学科的发展新趋势以及预测前沿。",
+  "aliases": [
+    "知识图谱",
+    "KG",
+    "知识库",
+    "ＫｎｏｗｌｅｄｇｅＧｒａｐｈ",
+    "ＫＧ",
+    "知识图",
+    "知识图谱技术"
+  ],
+  "category": "Task, Theory, Model, Data Structure",
+  "sub_domain": "知识表示学习, 知识图谱",
+  "publication_year": "",
+  "vendor_or_originator": ""
+}]
+12:23:20 - INFO - 正在融合 '本体' (共 17 个实体)...
+12:23:20 - INFO -   > 融合轮次: 17 -> ...
+12:23:20 - INFO -     > 正在调用 LLM 融合 10 个...
+12:23:27 - INFO - 模型原始响应: [{
+  "name": "本体",
+  "definition": "共享概念模型的显式说明，描述概念与概念间的关系；是语义 Web 的关键技术，用于为 Web 网页添加语义。",
+  "aliases": ["本体", "Ontology"],
+  "category": "Theory",
+  "sub_domain": "知识表示学习",
+  "purpose": "为 Web 网页添加语义，支持语义服务；用于知识的组织和表示；用于描述实体及其关系，以确保知识的准确性和完整性；用于知识组织和推理；为不同主体之间进行交流提供语义基础"
+}]
+12:23:27 - INFO -     > 正在调用 LLM 融合 7 个...
+12:23:31 - INFO - 模型原始响应: [{
+  "name": "本体",
+  "definition": "知识图谱中用于描述实体及其关系的结构化表示",
+  "aliases": ["Ontology", "本体论"],
+  "category": "Model",
+  "sub_domain": "知识图谱技术",
+  "purpose": "描述领域知识的结构和关系"
+}]
+12:23:31 - INFO -   > 融合轮次: 2 -> ...
+12:23:31 - INFO -     > 正在调用 LLM 融合 2 个...
+12:23:38 - INFO - 模型原始响应: [{
+  "name": "本体",
+  "definition": "共享概念模型的显式说明，描述概念与概念间的关系；是语义 Web 的关键技术，用于为 Web 网页添加语义。",
+  "aliases": [
+    "本体",
+    "Ontology",
+    "本体论"
+  ],
+  "category": "Theory",
+  "sub_domain": "知识表示学习",
+  "purpose": "为 Web 网页添加语义，支持语义服务；用于知识的组织和表示；用于描述实体及其关系，以确保知识的准确性和完整性；用于知识组织和推理；为不同主体之间进行交流提供语义基础"
+}]
+12:23:38 - INFO - 正在融合 '通用知识图谱' (共 3 个实体)...
+12:23:38 - INFO -   > 融合轮次: 3 -> ...
+12:23:38 - INFO -     > 正在调用 LLM 融合 3 个...
+12:23:42 - INFO - 模型原始响应: [{
+  "name": "通用知识图谱",
+  "definition": "描述通用领域知识的结构化知识库",
+  "aliases": [
+    "通用知识图谱"
+  ],
+  "category": "Data Structure",
+  "sub_domain": "知识表示学习",
+  "purpose": "用于通用知识查询和推理"
+}]
+12:23:42 - INFO - 正在融合 '行业知识图谱' (共 3 个实体)...
+12:23:42 - INFO -   > 融合轮次: 3 -> ...
+12:23:42 - INFO -     > 正在调用 LLM 融合 3 个...
+12:23:46 - INFO - 模型原始响应: [{
+  "name": "行业知识图谱",
+  "definition": "行业知识图谱是面向特定领域的知识图谱，能够进行知识推理和辅助分析及决策支持。",
+  "aliases": ["行业知识图谱"],
+  "category": "Data Structure",
+  "sub_domain": "知识表示学习",
+  "purpose": "用于辅助分析及决策支持，满足特定领域的需求。"
+}]
+12:23:46 - INFO - 正在融合 '知识图谱构建' (共 2 个实体)...
+12:23:46 - INFO -   > 融合轮次: 2 -> ...
+12:23:46 - INFO -     > 正在调用 LLM 融合 2 个...
+12:23:50 - INFO - 模型原始响应: [{
+  "name": "知识图谱构建",
+  "definition": "知识图谱的构建、存储及检索方法",
+  "aliases": ["知识图谱构建"],
+  "category": "Method",
+  "sub_domain": "知识表示学习",
+  "purpose": "提高知识图谱的使用率和重用率"
+}]
+12:23:50 - INFO - 正在融合 '实体抽取' (共 3 个实体)...
+12:23:50 - INFO -   > 融合轮次: 3 -> ...
+12:23:50 - INFO -     > 正在调用 LLM 融合 3 个...
+12:23:54 - INFO - 模型原始响应: [{
+  "name": "实体抽取",
+  "definition": "知识图谱构建阶段的实体抽取、关系抽取、语义解析等机器学习和自然语言处理方法和算法",
+  "aliases": ["命名实体识别", "NER"],
+  "category": "Task",
+  "sub_domain": "知识图谱构建",
+  "purpose": "从文本中提取实体信息"
+}]
+12:23:54 - INFO - 正在融合 '关系抽取' (共 6 个实体)...
+12:23:54 - INFO -   > 融合轮次: 6 -> ...
+12:23:54 - INFO -     > 正在调用 LLM 融合 6 个...
+12:23:58 - INFO - 模型原始响应: [{
+  "name": "关系抽取",
+  "definition": "知识图谱构建阶段的实体抽取、关系抽取、语义解析等机器学习和自然语言处理方法和算法",
+  "aliases": ["关系抽取", "RE"],
+  "category": "Task",
+  "sub_domain": "知识抽取",
+  "purpose": "从文本中提取实体之间的关系"
+}]
+12:23:58 - INFO - 正在融合 '知识表示' (共 4 个实体)...
+12:23:58 - INFO -   > 融合轮次: 4 -> ...
+12:23:58 - INFO -     > 正在调用 LLM 融合 4 个...
+12:24:01 - INFO - 模型原始响应: [{
+  "name": "知识表示",
+  "definition": "将知识以计算机可处理的形式进行表示。",
+  "aliases": ["知识表示学习"],
+  "category": "Method",
+  "sub_domain": "知识表示学习",
+  "purpose": "将知识以计算机可处理的形式进行表示，便于存储和推理。"
+}]
+12:24:01 - INFO - 正在融合 '知识融合' (共 8 个实体)...
+12:24:01 - INFO -   > 融合轮次: 8 -> ...
+12:24:01 - INFO -     > 正在调用 LLM 融合 8 个...
+12:24:06 - INFO - 模型原始响应: [{
+  "name": "知识融合",
+  "definition": "将来自不同来源的知识整合到一个统一的知识体系中，消除冗余和不一致性。",
+  "aliases": ["知识融合", "本体集成", "知识整合", "知识融合技术"],
+  "category": "Task",
+  "sub_domain": "知识融合",
+  "purpose": "将来自不同来源的知识整合到一个统一的知识体系中，提高知识的准确性和一致性。"
+}]
+12:24:06 - INFO - 正在融合 '知识推理' (共 11 个实体)...
+12:24:06 - INFO -   > 融合轮次: 11 -> ...
+12:24:06 - INFO -     > 正在调用 LLM 融合 10 个...
+12:24:11 - INFO - 模型原始响应: [{
+  "name": "知识推理",
+  "definition": "从知识库中已有的实体关系数据出发，经过计算机推理，建立实体间的新关联，从而拓展和丰富知识网络",
+  "aliases": ["知识推理", "知识推理技术"],
+  "category": "Task",
+  "sub_domain": "知识推理",
+  "purpose": "拓展和丰富知识网络，发现新的知识"
+}]
+12:24:11 - INFO -   > 融合轮次: 2 -> ...
+12:24:11 - INFO -     > 正在调用 LLM 融合 2 个...
+12:24:15 - INFO - 模型原始响应: [{
+  "name": "知识推理",
+  "definition": "从知识库中已有的实体关系数据出发，经过计算机推理，建立实体间的新关联，从而拓展和丰富知识网络",
+  "aliases": [
+    "知识推理",
+    "知识推理技术"
+  ],
+  "category": "Task",
+  "sub_domain": "知识推理",
+  "purpose": "拓展和丰富知识网络，发现新的知识"
+}]
+12:24:15 - INFO - 正在融合 '知识地图' (共 2 个实体)...
+12:24:15 - INFO -   > 融合轮次: 2 -> ...
+12:24:15 - INFO -     > 正在调用 LLM 融合 2 个...
+12:24:20 - INFO - 模型原始响应: [{
+  "name": "知识地图",
+  "definition": "知识地图 (knowledge map) 将特定组织内的知识索引通过‘地图’的形式串联在一起, 揭示相关知识资源的类型、特征以及相互关系",
+  "aliases": [],
+  "category": "Model",
+  "sub_domain": "知识图谱应用",
+  "purpose": "实现知识的快速检索、共享和再重用"
+}]
+12:24:20 - INFO - 正在融合 '科学知识图谱' (共 2 个实体)...
+12:24:20 - INFO -   > 融合轮次: 2 -> ...
+12:24:20 - INFO -     > 正在调用 LLM 融合 2 个...
+12:24:25 - INFO - 模型原始响应: [{
+  "name": "科学知识图谱",
+  "definition": "结合应用计量学引文分析和共现分析、图形学、可视化技术、信息科学等学科的理论与方法，图形化的展示各领域的学科结构、各学科的研究内容、学科间的关系、识别和分析学科的发展新趋势以及预测前沿",
+  "aliases": [],
+  "category": "Model",
+  "sub_domain": "知识图谱",
+  "purpose": "展示学科结构、研究内容、学科间关系、识别学科发展新趋势以及预测前沿"
+}]
+12:24:25 - INFO - 正在融合 'YAGO' (共 2 个实体)...
+12:24:25 - INFO -   > 融合轮次: 2 -> ...
+12:24:25 - INFO -     > 正在调用 LLM 融合 2 个...
+12:24:29 - INFO - 模型原始响应: [{
+  "name": "YAGO",
+  "definition": "YAGO 是一个从开放的互联网信息中自动抽取实体与关系构建的知识图谱。",
+  "aliases": [],
+  "category": "Data Structure",
+  "sub_domain": "知识抽取",
+  "purpose": "用于从互联网信息中自动抽取实体与关系，以构建大规模知识图谱。"
+}]
+12:24:29 - INFO - 正在融合 '知识抽取' (共 5 个实体)...
+12:24:29 - INFO -   > 融合轮次: 5 -> ...
+12:24:29 - INFO -     > 正在调用 LLM 融合 5 个...
+12:24:33 - INFO - 模型原始响应: [{
+  "name": "知识抽取",
+  "definition": "从非结构化文本中提取实体、关系和属性的过程。",
+  "aliases": ["知识抽取技术"],
+  "category": "Task",
+  "sub_domain": "知识抽取",
+  "purpose": "为知识图谱提供结构化数据。"
+}]
+12:24:33 - INFO - 正在融合 '属性抽取' (共 3 个实体)...
+12:24:33 - INFO -   > 融合轮次: 3 -> ...
+12:24:33 - INFO -     > 正在调用 LLM 融合 3 个...
+12:24:36 - INFO - 模型原始响应: [{
+  "name": "属性抽取",
+  "definition": "从数据中提取实体的属性。",
+  "aliases": ["属性抽取"],
+  "category": "Task",
+  "sub_domain": "知识抽取",
+  "purpose": "提取知识图谱的属性"
+}]
+12:24:36 - INFO - 正在融合 '本体学习' (共 2 个实体)...
+12:24:36 - INFO -   > 融合轮次: 2 -> ...
+12:24:36 - INFO -     > 正在调用 LLM 融合 2 个...
+12:24:39 - INFO - 模型原始响应: [{
+  "name": "本体学习",
+  "definition": "通过机器学习技术自动或半自动地从数据中学习本体。",
+  "aliases": [],
+  "category": "Method",
+  "sub_domain": "知识表示学习",
+  "purpose": "学习本体"
+}]
+12:24:39 - INFO - 正在融合 '实体对齐' (共 4 个实体)...
+12:24:39 - INFO -   > 融合轮次: 4 -> ...
+12:24:39 - INFO -     > 正在调用 LLM 融合 4 个...
+12:24:43 - INFO - 模型原始响应: [{
+  "name": "实体对齐",
+  "definition": "判断相同或不同数据集中的多个实体是否指向客观世界同一实体, 解决一个实体对应多个名称的问题",
+  "aliases": ["实体对齐"],
+  "category": "Task",
+  "sub_domain": "知识整合",
+  "purpose": "解决实体名称不一致的问题"
+}]
+12:24:43 - INFO - 正在融合 '本体构建' (共 2 个实体)...
+12:24:43 - INFO -   > 融合轮次: 2 -> ...
+12:24:43 - INFO -     > 正在调用 LLM 融合 2 个...
+12:24:46 - INFO - 模型原始响应: [{
+  "name": "本体构建",
+  "definition": "构建知识图谱的模式层",
+  "aliases": [],
+  "category": "Task",
+  "sub_domain": "知识图谱构建",
+  "purpose": "构建知识图谱的模式层"
+}]
+12:24:46 - INFO - 正在融合 'OWL' (共 3 个实体)...
+12:24:46 - INFO -   > 融合轮次: 3 -> ...
+12:24:46 - INFO -     > 正在调用 LLM 融合 3 个...
+12:24:49 - INFO - 模型原始响应: [{
+  "name": "OWL",
+  "definition": "基于描述逻辑的本体描述语言，用于描述网络资源的本体。",
+  "aliases": [],
+  "category": "Model",
+  "sub_domain": "知识表示学习",
+  "purpose": "构建在RDF之上，具有更强的表达及解释能力"
+}]
+12:24:49 - INFO - 正在融合 '信息抽取' (共 5 个实体)...
+12:24:49 - INFO -   > 融合轮次: 5 -> ...
+12:24:49 - INFO -     > 正在调用 LLM 融合 5 个...
+12:24:54 - INFO - 模型原始响应: [{
+  "name": "信息抽取",
+  "definition": "从非结构化或半结构化数据中提取结构化信息的过程，如实体、关系和事件。",
+  "aliases": [
+    "信息抽取",
+    "信息抽取技术"
+  ],
+  "category": "Task",
+  "sub_domain": "知识抽取",
+  "purpose": "从文本中提取结构化信息，为知识图谱的构建提供基础数据。"
+}]
+12:24:54 - INFO - 正在融合 '描述逻辑' (共 2 个实体)...
+12:24:54 - INFO -   > 融合轮次: 2 -> ...
+12:24:54 - INFO -     > 正在调用 LLM 融合 2 个...
+12:24:58 - INFO - 模型原始响应: [{
+  "name": "描述逻辑",
+  "definition": "一种基于对象的知识表示的形式化工具，是一阶谓词逻辑的子集，它是本体语言推理的重要设计基础。",
+  "aliases": ["Description Logic"],
+  "category": "Theory",
+  "sub_domain": "知识表示学习",
+  "purpose": "用于知识库中的概念之间和关系之间的关系推理"
+}]
+12:24:58 - INFO - 正在融合 '语义网' (共 3 个实体)...
+12:24:58 - INFO -   > 融合轮次: 3 -> ...
+12:24:58 - INFO -     > 正在调用 LLM 融合 3 个...
+12:25:03 - INFO - 模型原始响应: [{
+  "name": "语义网",
+  "definition": "一种基于本体的网络，用于描述和链接网络上的资源，以支持语义推理和查询。",
+  "aliases": ["语义网络"],
+  "category": "Theory",
+  "sub_domain": "知识表示学习",
+  "purpose": "用于描述和链接网络上的资源，支持语义推理和查询。"
+}]
+12:25:03 - INFO - 正在融合 'RDF' (共 2 个实体)...
+12:25:03 - INFO -   > 融合轮次: 2 -> ...
+12:25:03 - INFO -     > 正在调用 LLM 融合 2 个...
+12:25:06 - INFO - 模型原始响应: [{
+  "name": "RDF",
+  "definition": "基于三元组（主体，谓词，客体）描述互联网资源之间的语义关系",
+  "aliases": [],
+  "category": "Model",
+  "sub_domain": "知识表示学习",
+  "purpose": "描述互联网资源之间的语义关系"
+}]
+12:25:06 - INFO - 正在融合 '知识表示学习' (共 3 个实体)...
+12:25:06 - INFO -   > 融合轮次: 3 -> ...
+12:25:06 - INFO -     > 正在调用 LLM 融合 3 个...
+12:25:12 - INFO - 模型原始响应: [{
+  "name": "知识表示学习",
+  "definition": "通过机器学习或深度学习，将研究对象的语义信息表示为稠密低维的实值向量。可以显著提升计算效率，有效缓解数据稀疏性，更容易实现不同来源的异质信息融合。",
+  "aliases": [],
+  "category": "Method, Theory",
+  "sub_domain": "知识表示学习",
+  "purpose": "对不同粒度知识单元进行隐式的向量化表示，以支持大数据环境下知识的快速计算；提升表示学习效果，以表示更复杂的关系"
+}]
+12:25:12 - INFO - 正在融合 'TransE' (共 6 个实体)...
+12:25:12 - INFO -   > 融合轮次: 6 -> ...
+12:25:12 - INFO -     > 正在调用 LLM 融合 6 个...
+12:25:16 - INFO - 模型原始响应: [{
+  "name": "TransE",
+  "definition": "一种知识表示学习模型，用于学习实体和关系之间的向量表示。",
+  "aliases": ["TransE"],
+  "category": "Model",
+  "sub_domain": "知识表示学习",
+  "purpose": "学习实体和关系之间的向量表示，以增强知识图谱的表示能力。"
+}]
+12:25:16 - INFO - 正在融合 '本体映射' (共 3 个实体)...
+12:25:16 - INFO -   > 融合轮次: 3 -> ...
+12:25:16 - INFO -     > 正在调用 LLM 融合 3 个...
+12:25:20 - INFO - 模型原始响应: [{
+  "name": "本体映射",
+  "definition": "语义集成中的主要环节，用于发现异构知识库之间实体的等价关系。",
+  "aliases": [],
+  "category": "Task",
+  "sub_domain": "知识共享",
+  "purpose": "发现异构知识库之间实体的等价关系"
+}]
+12:25:20 - INFO - 正在融合 '基于结构的方法' (共 2 个实体)...
+12:25:20 - INFO -   > 融合轮次: 2 -> ...
+12:25:20 - INFO -     > 正在调用 LLM 融合 2 个...
+12:25:25 - INFO - 模型原始响应: [{
+  "name": "基于结构的方法",
+  "definition": "利用本体的图结构信息对本体进行匹配，其中较为代表性的方法有 Sim-Rank 和相似度传播。通过结构化的方式建立本体之间的映射",
+  "aliases": [],
+  "category": "Method",
+  "sub_domain": ["知识共享", "本体"],
+  "purpose": "对本体进行匹配"
+}]
+12:25:25 - INFO - 正在融合 '知识加工' (共 2 个实体)...
+12:25:25 - INFO -   > 融合轮次: 2 -> ...
+12:25:25 - INFO -     > 正在调用 LLM 融合 2 个...
+12:25:29 - INFO - 模型原始响应: [{
+  "name": "知识加工",
+  "definition": "对提取和融合后的知识进行进一步处理，如规范化、验证和存储。",
+  "aliases": [
+    "知识处理",
+    "知识加工"
+  ],
+  "category": "Task",
+  "sub_domain": "知识抽取",
+  "purpose": "对提取和融合后的知识进行进一步处理，确保其质量和可用性。"
+}]
+12:25:29 - INFO - 正在融合 '自然语言处理' (共 2 个实体)...
+12:25:29 - INFO -   > 融合轮次: 2 -> ...
+12:25:29 - INFO -     > 正在调用 LLM 融合 2 个...
+12:25:33 - INFO - 模型原始响应: [{
+  "name": "自然语言处理",
+  "definition": "使计算机能够理解、解析和生成人类语言的技术。",
+  "aliases": [
+    "NLP"
+  ],
+  "category": "Method",
+  "sub_domain": "信息检索",
+  "purpose": "使计算机能够理解、解析和生成人类语言，为知识图谱的构建提供技术支持。"
+}]
+12:25:33 - INFO - 正在融合 '实体链接' (共 2 个实体)...
+12:25:33 - INFO -   > 融合轮次: 2 -> ...
+12:25:33 - INFO -     > 正在调用 LLM 融合 2 个...
+12:25:38 - INFO - 模型原始响应: [{
+  "name": "实体链接",
+  "definition": "是指对于从文本中抽取得到的实体对象，将其链接到知识库中对应的正确实体对象的操作",
+  "aliases": [
+    "Entity Linking",
+    "实体链接"
+  ],
+  "category": "Task",
+  "sub_domain": "知识抽取",
+  "purpose": "将从文本中抽取到的实体链接到知识库中对应的正确实体对象"
+}]
+12:25:38 - INFO - 正在融合 '实体消歧' (共 2 个实体)...
+12:25:38 - INFO -   > 融合轮次: 2 -> ...
+12:25:38 - INFO -     > 正在调用 LLM 融合 2 个...
+12:25:41 - INFO - 模型原始响应: [{
+  "name": "实体消歧",
+  "definition": "专门用于解决同名实体产生歧义问题的技术",
+  "aliases": [
+    "实体消歧"
+  ],
+  "category": "Task",
+  "sub_domain": "知识抽取",
+  "purpose": "根据当前的语境，准确建立实体链接"
+}]
+12:25:41 - INFO - 正在融合 '主题模型' (共 2 个实体)...
+12:25:41 - INFO -   > 融合轮次: 2 -> ...
+12:25:41 - INFO -     > 正在调用 LLM 融合 2 个...
+12:25:45 - INFO - 模型原始响应: [{
+  "name": "主题模型",
+  "definition": "一种用于发现文档中隐藏主题的统计模型",
+  "aliases": [
+    "LDA模型"
+  ],
+  "category": "Model",
+  "sub_domain": "知识表示学习",
+  "purpose": "用于相似度计算，以提高实体消歧的准确率"
+}]
+12:25:45 - INFO - 正在融合 '共指消解' (共 4 个实体)...
+12:25:45 - INFO -   > 融合轮次: 4 -> ...
+12:25:45 - INFO -     > 正在调用 LLM 融合 4 个...
+12:25:49 - INFO - 模型原始响应: [{
+  "name": "共指消解",
+  "definition": "解决指称项与实体对象匹配的问题",
+  "aliases": [
+    "coreference resolution",
+    "指代消解"
+  ],
+  "category": "Task",
+  "sub_domain": "知识抽取",
+  "purpose": "解决文本中指称项与实体对象的匹配问题"
+}]
+12:25:49 - INFO - 正在融合 'Ｈｏｂｂｓ算法' (共 2 个实体)...
+12:25:49 - INFO -   > 融合轮次: 2 -> ...
+12:25:49 - INFO -     > 正在调用 LLM 融合 2 个...
+12:25:53 - INFO - 模型原始响应: [{
+  "name": "Ｈｏｂｂｓ算法",
+  "definition": "基于自然语言处理的共指消解的代表性方法",
+  "aliases": [
+    "Hobbs algorithm",
+    "Hobbs算法"
+  ],
+  "category": "Method",
+  "sub_domain": "知识抽取",
+  "purpose": "解决实体识别和匹配问题"
+}]
+12:25:53 - INFO - 正在融合 '跨语言知识抽取' (共 2 个实体)...
+12:25:53 - INFO -   > 融合轮次: 2 -> ...
+12:25:53 - INFO -     > 正在调用 LLM 融合 2 个...
+12:25:58 - INFO - 模型原始响应: [{
+  "name": "跨语言知识抽取",
+  "definition": "跨语言知识抽取是指从不同语言的文本中提取知识的 technique。",
+  "aliases": [
+    "跨语言知识抽取技术",
+    "跨语言知识抽取"
+  ],
+  "category": "Method",
+  "sub_domain": "知识抽取",
+  "purpose": "弥补单语种知识的不足，实现跨语言的信息发布、媒体监督和商业智能服务"
+}]
+12:25:58 - INFO - 正在融合 '深度学习' (共 3 个实体)...
+12:25:58 - INFO -   > 融合轮次: 3 -> ...
+12:25:58 - INFO -     > 正在调用 LLM 融合 3 个...
+12:26:02 - INFO - 模型原始响应: [{
+  "name": "深度学习",
+  "definition": "一种基于神经网络的机器学习方法，用于从数据中学习特征和模式。",
+  "aliases": ["深度神经网络", "DL"],
+  "category": "Model",
+  "sub_domain": "深度学习",
+  "purpose": "从数据中学习特征和模式，用于解决复杂的机器学习问题。"
+}]
+12:26:02 - INFO - 正在融合 '链接预测' (共 2 个实体)...
+12:26:02 - INFO -   > 融合轮次: 2 -> ...
+12:26:02 - INFO -     > 正在调用 LLM 融合 2 个...
+12:26:06 - INFO - 模型原始响应: [{
+  "name": "链接预测",
+  "definition": "在知识图谱中预测实体之间的潜在关系。",
+  "aliases": [
+    "链接预测技术"
+  ],
+  "category": "Task",
+  "sub_domain": "链接预测",
+  "purpose": "在知识图谱中预测实体之间的潜在关系，提高知识图谱的完整性。"
+}]
+12:26:06 - INFO - 正在融合 '命名实体识别' (共 2 个实体)...
+12:26:06 - INFO -   > 融合轮次: 2 -> ...
+12:26:06 - INFO -     > 正在调用 LLM 融合 2 个...
+12:26:09 - INFO - 模型原始响应: [{
+  "name": "命名实体识别",
+  "definition": "从文本中识别和分类命名实体的任务。",
+  "aliases": ["NER"],
+  "category": "Task",
+  "sub_domain": "知识抽取",
+  "purpose": "从文本中识别和分类命名实体"
+}]
+12:26:09 - INFO - 正在融合 'CNN' (共 4 个实体)...
+12:26:09 - INFO -   > 融合轮次: 4 -> ...
+12:26:09 - INFO -     > 正在调用 LLM 融合 4 个...
+12:26:12 - INFO - 模型原始响应: [{
+  "name": "CNN",
+  "definition": "卷积神经网络",
+  "aliases": ["卷积神经网络"],
+  "category": "Model",
+  "sub_domain": "神经网络",
+  "purpose": "学习图像或序列数据的特征"
+}]
+12:26:12 - INFO - 正在融合 'LSTM' (共 2 个实体)...
+12:26:12 - INFO -   > 融合轮次: 2 -> ...
+12:26:12 - INFO -     > 正在调用 LLM 融合 2 个...
+12:26:15 - INFO - 模型原始响应: [{
+  "name": "LSTM",
+  "definition": "一种循环神经网络模型",
+  "aliases": [],
+  "category": "Model",
+  "sub_domain": "神经网络模型",
+  "purpose": "用于序列数据的建模和预测"
+}]
+12:26:15 - INFO - 正在融合 'BI-LSTM' (共 2 个实体)...
+12:26:15 - INFO -   > 融合轮次: 2 -> ...
+12:26:15 - INFO -     > 正在调用 LLM 融合 2 个...
+12:26:19 - INFO - 模型原始响应: [{
+  "name": "BI-LSTM",
+  "definition": "一种双向长短期记忆网络模型。",
+  "aliases": [],
+  "category": "Model",
+  "sub_domain": "深度学习",
+  "purpose": "用于捕捉句子的内部语义信息。"
+}]
+12:26:19 - INFO - 正在融合 '张量分解' (共 2 个实体)...
+12:26:19 - INFO -   > 融合轮次: 2 -> ...
+12:26:19 - INFO -     > 正在调用 LLM 融合 2 个...
+12:26:23 - INFO - 模型原始响应: [{
+  "name": "张量分解",
+  "definition": "将知识图谱中的实体关系三元组通过张量分解方法进行表示学习",
+  "aliases": ["张量分解方法"],
+  "category": "Method",
+  "sub_domain": "知识表示学习",
+  "purpose": "用于知识图谱中的实体关系表示学习"
+}]
+12:26:23 - INFO - 正在融合 'RESCAL' (共 2 个实体)...
+12:26:23 - INFO -   > 融合轮次: 2 -> ...
+12:26:23 - INFO -     > 正在调用 LLM 融合 2 个...
+12:26:27 - INFO - 模型原始响应: [{
+  "name": "RESCAL",
+  "definition": "将高维关系数据分解为三阶张量，在降低数据维度的同时又保持了数据原有特征",
+  "aliases": [],
+  "category": "Model",
+  "sub_domain": "知识推理",
+  "purpose": "用于知识图谱中的推理任务"
+}]
+12:26:27 - INFO - 正在融合 'ConvE' (共 2 个实体)...
+12:26:27 - INFO -   > 融合轮次: 2 -> ...
+12:26:27 - INFO -     > 正在调用 LLM 融合 2 个...
+12:26:35 - INFO - 模型原始响应: [{
+  "name": "ConvE",
+  "definition": "一种用于知识推理的卷积神经网络模型，采用二维卷积的嵌入来对知识图谱中的新链接进行推理。",
+  "aliases": [
+    "ConvE",
+    "Convolutional Knowledge Embeddings"
+  ],
+  "category": "Model",
+  "sub_domain": "知识图谱",
+  "purpose": "对知识图谱中的新链接进行推理并在现有数据集中获得较好结果"
+}]
+12:26:35 - INFO - --- 正在融合: technology.json (基于 'name') ---
+12:26:35 - INFO - 正在融合 'OWL' (共 5 个实体)...
+12:26:35 - INFO -   > 融合轮次: 5 -> ...
+12:26:35 - INFO -     > 正在调用 LLM 融合 5 个...
+12:26:46 - INFO - 模型原始响应: [{
+  "name": "OWL",
+  "definition": "用于定义知识图谱的规则用于知识推理，构建在RDF之上，是具有更强表达及解释能力的语言，用于定义本体和知识表示的标准化格式，用于描述本体的语言，用于描述本体的概念层次，提供丰富的语句以增强知识描述能力。",
+  "aliases": ["OWL", "Web Ontology Language"],
+  "category": "Specification / Standard",
+  "sub_domain": "Knowledge Representation",
+  "purpose": "用于定义知识图谱的规则用于知识推理，构建在RDF之上，是具有更强表达及解释能力的语言，用于定义本体和知识表示的标准化格式，用于描述本体的语言，用于描述本体的概念层次，提供丰富的语句以增强知识描述能力"
+}]
+12:26:46 - INFO - 正在融合 '图数据库' (共 3 个实体)...
+12:26:46 - INFO -   > 融合轮次: 3 -> ...
+12:26:46 - INFO -     > 正在调用 LLM 融合 3 个...
+12:26:52 - INFO - 模型原始响应: [{
+  "name": "图数据库",
+  "definition": "存储知识图谱，以关联数据为中心的数据表达、存储和查询，支持各种图挖掘算法，提供完善的图查询语言，增强关系表达，形成知识的图谱。",
+  "aliases": [
+    "Graph Database"
+  ],
+  "category": "Graph Database",
+  "sub_domain": "",
+  "purpose": "存储知识图谱"
+}]
+12:26:52 - INFO - 正在融合 'RDF' (共 4 个实体)...
+12:26:52 - INFO -   > 融合轮次: 4 -> ...
+12:26:52 - INFO -     > 正在调用 LLM 融合 4 个...
+12:27:02 - INFO - 模型原始响应: [{
+  "name": "RDF",
+  "definition": "通过三元组描述互联网资源之间的语义关系，用于表示和交换数据的标准化格式，作为知识图谱的数据模型。",
+  "aliases": [
+    "三元组（主体，谓词，客体）",
+    "语义关系描述",
+    "支持语义网",
+    "用于数据共享",
+    "资源描述",
+    "数据格式",
+    "用于表示数据的结构化格式",
+    "支持知识图谱的存储和查询"
+  ],
+  "category": "Specification / Standard",
+  "sub_domain": "Knowledge Graph",
+  "purpose": "通过三元组描述互联网资源之间的语义关系，用于表示和交换数据的标准化格式，作为知识图谱的数据模型。"
+}]
+12:27:02 - INFO - 正在融合 'TransE' (共 2 个实体)...
+12:27:02 - INFO -   > 融合轮次: 2 -> ...
+12:27:02 - INFO -     > 正在调用 LLM 融合 2 个...
+12:27:09 - INFO - 模型原始响应: [{
+  "name": "TransE",
+  "definition": "用于知识图谱嵌入方法中的三元组编码，通过将实体和关系映射到连续向量空间中，实现知识图谱中的实体嵌入和推理。",
+  "aliases": ["知识图谱嵌入", "三元组编码", "实体嵌入", "推理路径"],
+  "category": "Framework / Library",
+  "sub_domain": "知识图谱嵌入",
+  "purpose": "用于知识图谱嵌入方法中的三元组编码，实现知识图谱中的实体嵌入和推理"
+}]
+12:27:09 - INFO - --- 正在融合: document.json (基于 'title') ---
+12:27:09 - INFO - 正在融合 'Probase: A Probabilistic Taxonomy for Text Understanding' (共 2 个实体)...
+12:27:09 - INFO -   > 融合轮次: 2 -> ...
+12:27:09 - INFO -     > 正在调用 LLM 融合 2 个...
+12:27:17 - INFO - 模型原始响应: [{
+  "name": "Probase: A Probabilistic Taxonomy for Text Understanding",
+  "definition": "This paper presents Probase, a probabilistic taxonomy for text understanding. Probase: A Probabilistic Taxonomy for Text Understanding is a research paper that introduces a probabilistic taxonomy for text understanding. The paper presents a method for learning a hierarchical taxonomy of concepts from text, which can be used for tasks such as information retrieval and natural language processing.",
+  "aliases": ["Probase", "A Probabilistic Taxonomy for Text Understanding"],
+  "category": "Research Paper",
+  "sub_domain": "Natural Language Processing",
+  "publication_year": 2012,
+  "vendor_or_originator": "ACM SIGMOD International Conference on Management of Data"
+}]
+12:27:17 - INFO - 正在融合 '知识图谱技术综述' (共 2 个实体)...
+12:27:17 - INFO -   > 融合轮次: 2 -> ...
+12:27:17 - INFO -     > 正在调用 LLM 融合 2 个...
+12:27:22 - INFO - 模型原始响应: [{
+  "title": "知识图谱技术综述",
+  "definition": "Review on knowledge graph technique",
+  "aliases": ["徐增林", "盛泳潘", "贺丽荣", "电子科技大学学报", "2016"],
+  "category": "Research Paper",
+  "sub_domain": "Technical Report",
+  "publication_year": 2016,
+  "vendor_or_originator": "电子科技大学学报"
+}]
+12:27:22 - INFO - 正在融合 'CYC: A large-scale investment in knowledge infrastructure' (共 2 个实体)...
+12:27:22 - INFO -   > 融合轮次: 2 -> ...
+12:27:22 - INFO -     > 正在调用 LLM 融合 2 个...
+12:27:27 - INFO - 模型原始响应: [{
+  "title": "CYC: A large-scale investment in knowledge infrastructure",
+  "definition": "CYC is a large-scale investment in knowledge infrastructure, aimed at creating a comprehensive and interconnected knowledge base for artificial intelligence research.",
+  "aliases": ["CYC", "large-scale investment in knowledge infrastructure"],
+  "category": "Research Paper",
+  "publication_year": 1990,
+  "vendor_or_originator": "Guha RV, Lenat D"
+}]
+12:27:27 - INFO - --- 正在融合: application.json (基于 'name') ---
+12:27:27 - INFO - 正在融合 'Siri' (共 2 个实体)...
+12:27:27 - INFO -   > 融合轮次: 2 -> ...
+12:27:27 - INFO -     > 正在调用 LLM 融合 2 个...
+12:27:32 - INFO - 模型原始响应: [{
+  "name": "Siri",
+  "definition": "提供语音助手服务，回答用户问题并执行命令，利用知识图谱技术进行语义理解和信息检索。",
+  "aliases": ["Siri", "语音助手"],
+  "category": "问答系统",
+  "sub_domain": "消费电子",
+  "organization": "苹果",
+  "domain": "通用",
+  "purpose": "提供语音助手服务，回答用户问题并执行命令"
+}]
+12:27:32 - INFO - 正在融合 'Apple Siri' (共 2 个实体)...
+12:27:32 - INFO -   > 融合轮次: 2 -> ...
+12:27:32 - INFO -     > 正在调用 LLM 融合 2 个...
+12:27:37 - INFO - 模型原始响应: [{
+  "name": "Apple Siri",
+  "definition": "提供语音助手功能，帮助用户完成任务和查询信息。",
+  "aliases": ["Apple Siri", "Siri"],
+  "category": "问答系统",
+  "sub_domain": "个人助理",
+  "organization": "Apple",
+  "domain": "消费电子",
+  "purpose": "提供语音控制的个人助理服务，利用知识图谱技术来提供准确和快速的答案。"
+}]
+12:27:37 - INFO - 正在融合 'Google Now' (共 2 个实体)...
+12:27:37 - INFO -   > 融合轮次: 2 -> ...
+12:27:37 - INFO -     > 正在调用 LLM 融合 2 个...
+12:27:42 - INFO - 模型原始响应: [{
+  "name": "Google Now",
+  "definition": "提供智能助手功能，帮助用户完成任务和查询信息，并利用知识图谱技术来提供准确和快速的答案。",
+  "aliases": ["Google Now"],
+  "category": "问答系统",
+  "sub_domain": "个人助理",
+  "organization": "Google",
+  "domain": "消费电子",
+  "purpose": "提供个性化信息和服务"
+}]
+12:27:42 - INFO - 所有知识融合任务处理完毕。
+融合后的实体已保存到: ./data/KG/entity/concept.json
+融合后的实体已保存到: ./data/KG/entity/technology.json
+融合后的实体已保存到: ./data/KG/entity/document.json
+融合后的实体已保存到: ./data/KG/entity/application.json

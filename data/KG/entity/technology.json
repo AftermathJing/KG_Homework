@@ -1,0 +1,426 @@
+[
+    {
+        "name": "RDFS",
+        "category": "Specification / Standard",
+        "purpose": "用于描述知识图谱的上层模式",
+        "vendor_or_originator": "W3C",
+        "key_features": [
+            "描述知识图谱的上层模式",
+            "支持知识图谱的实例化"
+        ]
+    },
+    {
+        "name": "OWL",
+        "definition": "用于定义知识图谱的规则用于知识推理，构建在RDF之上，是具有更强表达及解释能力的语言，用于定义本体和知识表示的标准化格式，用于描述本体的语言，用于描述本体的概念层次，提供丰富的语句以增强知识描述能力。",
+        "aliases": [
+            "OWL",
+            "Web Ontology Language"
+        ],
+        "category": "Specification / Standard",
+        "sub_domain": "Knowledge Representation",
+        "purpose": "用于定义知识图谱的规则用于知识推理，构建在RDF之上，是具有更强表达及解释能力的语言，用于定义本体和知识表示的标准化格式，用于描述本体的语言，用于描述本体的概念层次，提供丰富的语句以增强知识描述能力"
+    },
+    {
+        "name": "WordNet",
+        "category": "System / Tool",
+        "purpose": "用于构建知识图谱的本体",
+        "vendor_or_originator": "WordNet",
+        "key_features": [
+            "本体知识库",
+            "用于知识表示"
+        ]
+    },
+    {
+        "name": "CYC",
+        "category": "System / Tool",
+        "purpose": "用于构建知识图谱的本体",
+        "vendor_or_originator": "CYC",
+        "key_features": [
+            "本体知识库",
+            "用于知识表示"
+        ]
+    },
+    {
+        "name": "HowNet",
+        "category": "System / Tool",
+        "purpose": "用于构建知识图谱的本体",
+        "vendor_or_originator": "HowNet",
+        "key_features": [
+            "本体知识库",
+            "用于知识表示"
+        ]
+    },
+    {
+        "name": "YAGO",
+        "category": "System / Tool",
+        "purpose": "用于从互联网信息中自动抽取实体与关系构建知识图谱",
+        "vendor_or_originator": "YAGO",
+        "key_features": [
+            "自动抽取技术",
+            "大规模知识图谱"
+        ]
+    },
+    {
+        "name": "DBPedia",
+        "category": "System / Tool",
+        "purpose": "用于从互联网信息中自动抽取实体与关系构建知识图谱",
+        "vendor_or_originator": "DBPedia",
+        "key_features": [
+            "自动抽取技术",
+            "大规模知识图谱"
+        ]
+    },
+    {
+        "name": "图数据库",
+        "definition": "存储知识图谱，以关联数据为中心的数据表达、存储和查询，支持各种图挖掘算法，提供完善的图查询语言，增强关系表达，形成知识的图谱。",
+        "aliases": [
+            "Graph Database"
+        ],
+        "category": "Graph Database",
+        "sub_domain": "",
+        "purpose": "存储知识图谱"
+    },
+    {
+        "name": "跨语言链接技术",
+        "category": "System / Tool",
+        "purpose": "建立融合了四大中英文百科数据的跨语言知识库",
+        "vendor_or_originator": "",
+        "key_features": []
+    },
+    {
+        "name": "Linked Open Data (LOD)",
+        "category": "Specification / Standard",
+        "purpose": "为实现网络环境下的知识发布、互联、共享和服务提供创新技术",
+        "vendor_or_originator": "国际万维网组织 (W3C)",
+        "key_features": []
+    },
+    {
+        "name": "科学领域语义数据资源",
+        "category": "System / Tool",
+        "purpose": "自建近似于 Linked Data 的语义数据资源",
+        "vendor_or_originator": "Sean Bechhofer",
+        "key_features": []
+    },
+    {
+        "name": "XML",
+        "category": "Query Language",
+        "purpose": "为内容置标，便于数据交换",
+        "vendor_or_originator": "W3C",
+        "key_features": [
+            "半结构化数据格式",
+            "数据交换"
+        ]
+    },
+    {
+        "name": "RDF",
+        "definition": "通过三元组描述互联网资源之间的语义关系，用于表示和交换数据的标准化格式，作为知识图谱的数据模型。",
+        "aliases": [
+            "三元组（主体，谓词，客体）",
+            "语义关系描述",
+            "支持语义网",
+            "用于数据共享",
+            "资源描述",
+            "数据格式",
+            "用于表示数据的结构化格式",
+            "支持知识图谱的存储和查询"
+        ],
+        "category": "Specification / Standard",
+        "sub_domain": "Knowledge Graph",
+        "purpose": "通过三元组描述互联网资源之间的语义关系，用于表示和交换数据的标准化格式，作为知识图谱的数据模型。"
+    },
+    {
+        "name": "Neo4j",
+        "category": "Graph Database",
+        "purpose": "用于存储和查询图数据的图数据库系统。",
+        "vendor_or_originator": "Neo4j LLC",
+        "key_features": [
+            "图数据库",
+            "高性能",
+            "支持Cypher查询语言"
+        ]
+    },
+    {
+        "name": "AllegroGraph",
+        "category": "Graph Database",
+        "purpose": "存储和查询知识图谱数据",
+        "vendor_or_originator": "https://allegrograph.com/",
+        "key_features": []
+    },
+    {
+        "name": "URI",
+        "category": "Specification / Standard",
+        "purpose": "用于唯一标识网络资源",
+        "vendor_or_originator": "Berners-Lee",
+        "key_features": [
+            "唯一标识资源",
+            "标准化"
+        ]
+    },
+    {
+        "name": "开放信息抽取（OIE）",
+        "category": "Framework / Library",
+        "purpose": "面向开放域的信息抽取方法框架",
+        "vendor_or_originator": "华盛顿大学图灵中心",
+        "key_features": [
+            "基于自监督学习方式",
+            "开放信息抽取原型系统"
+        ]
+    },
+    {
+        "name": "TextRunner",
+        "category": "System / Tool",
+        "purpose": "开放信息抽取原型系统",
+        "vendor_or_originator": "华盛顿大学图灵中心",
+        "key_features": [
+            "基于自监督学习方式"
+        ]
+    },
+    {
+        "name": "Triply",
+        "category": "System / Tool",
+        "purpose": "用于将关系数据库转换为RDF三元组数据",
+        "vendor_or_originator": "Apache Software Foundation",
+        "key_features": [
+            "支持多种数据源的转换",
+            "提供可扩展的转换规则"
+        ]
+    },
+    {
+        "name": "D2R Server",
+        "category": "System / Tool",
+        "purpose": "用于将关系数据库转换为RDF三元组数据",
+        "vendor_or_originator": "Apache Software Foundation",
+        "key_features": [
+            "支持多种数据源的转换",
+            "提供可扩展的转换规则"
+        ]
+    },
+    {
+        "name": "OpenLink Virtuoso",
+        "category": "System / Tool",
+        "purpose": "用于将关系数据库转换为RDF三元组数据",
+        "vendor_or_originator": "OpenLink Software",
+        "key_features": [
+            "支持多种数据源的转换",
+            "提供可扩展的转换规则"
+        ]
+    },
+    {
+        "name": "SPARQL Map",
+        "category": "System / Tool",
+        "purpose": "用于将关系数据库转换为RDF三元组数据",
+        "vendor_or_originator": "Apache Software Foundation",
+        "key_features": [
+            "支持多种数据源的转换",
+            "提供可扩展的转换规则"
+        ]
+    },
+    {
+        "name": "Direct Mapping",
+        "category": "Specification / Standard",
+        "purpose": "用于将关系数据库表结构和数据直接输出为RDF图",
+        "vendor_or_originator": "W3C",
+        "key_features": [
+            "直接映射关系数据库表结构和数据到RDF图",
+            "保持关系数据库中的表名和字段名与RDF图中的术语一致"
+        ]
+    },
+    {
+        "name": "R2RML",
+        "category": "Specification / Standard",
+        "purpose": "用于将关系数据库映射到RDF",
+        "vendor_or_originator": "W3C",
+        "key_features": [
+            "关系数据库到RDF的映射语言",
+            "支持RDF数据的生成"
+        ]
+    },
+    {
+        "name": "XSPARQL",
+        "category": "Query Language",
+        "purpose": "支持从XML格式转化为RDF",
+        "vendor_or_originator": "",
+        "key_features": [
+            "支持XML到RDF的转换"
+        ]
+    },
+    {
+        "name": "DataLift",
+        "category": "System / Tool",
+        "purpose": "支持从XML和CSV格式转化为RDF",
+        "vendor_or_originator": "",
+        "key_features": [
+            "支持XML和CSV到RDF的转换"
+        ]
+    },
+    {
+        "name": "SWRL",
+        "category": "Framework / Library",
+        "purpose": "用于添加自定义规则以扩展本体模型的功能",
+        "vendor_or_originator": "Semantic Web Rule Language",
+        "key_features": [
+            "支持规则语言",
+            "用于实现关系推理"
+        ]
+    },
+    {
+        "name": "SPARQL",
+        "category": "Query Language",
+        "purpose": "用于查询知识图谱的图查询语言",
+        "vendor_or_originator": "W3C",
+        "key_features": [
+            "支持图数据查询",
+            "基于RDF的查询语言"
+        ]
+    },
+    {
+        "name": "SQL",
+        "category": "Query Language",
+        "purpose": "用于关系型数据库的查询",
+        "vendor_or_originator": "多个数据库供应商",
+        "key_features": [
+            "支持集合查询",
+            "结构化查询语言"
+        ]
+    },
+    {
+        "name": "Convolutional Neural Network",
+        "category": "Framework / Library",
+        "purpose": "用于知识图谱构建的深度学习方法",
+        "vendor_or_originator": "深度学习研究社区",
+        "key_features": [
+            "卷积操作",
+            "特征提取"
+        ]
+    },
+    {
+        "name": "Recurrent Neural Network",
+        "category": "Framework / Library",
+        "purpose": "用于知识图谱构建的深度学习方法",
+        "vendor_or_originator": "深度学习研究社区",
+        "key_features": [
+            "序列数据处理",
+            "长期依赖建模"
+        ]
+    },
+    {
+        "name": "Deep Learning",
+        "category": "System / Tool",
+        "purpose": "用于知识图谱构建和改进的深度学习技术",
+        "vendor_or_originator": "深度学习研究社区",
+        "key_features": [
+            "大规模样本依赖",
+            "缺乏推理性与可解释性"
+        ]
+    },
+    {
+        "name": "Knowledge Extraction",
+        "category": "System / Tool",
+        "purpose": "知识图谱构建技术之一，用于从文本中提取知识",
+        "vendor_or_originator": "知识图谱研究社区",
+        "key_features": [
+            "信息抽取",
+            "语义理解"
+        ]
+    },
+    {
+        "name": "Knowledge Fusion",
+        "category": "System / Tool",
+        "purpose": "知识图谱构建技术之一，用于整合不同来源的知识",
+        "vendor_or_originator": "知识图谱研究社区",
+        "key_features": [
+            "知识整合",
+            "冲突解决"
+        ]
+    },
+    {
+        "name": "Knowledge Reasoning",
+        "category": "System / Tool",
+        "purpose": "知识图谱构建技术之一，用于推理和推断知识",
+        "vendor_or_originator": "知识图谱研究社区",
+        "key_features": [
+            "推理",
+            "逻辑推导"
+        ]
+    },
+    {
+        "name": "Natural Language Processing",
+        "category": "System / Tool",
+        "purpose": "用于知识图谱构建和改进的自然语言处理技术",
+        "vendor_or_originator": "自然语言处理研究社区",
+        "key_features": [
+            "文本处理",
+            "语义分析"
+        ]
+    },
+    {
+        "name": "Semantic Web",
+        "category": "Specification / Standard",
+        "purpose": "用于知识图谱的语义网标准",
+        "vendor_or_originator": "万维网联盟（W3C）",
+        "key_features": [
+            "语义标注",
+            "数据互联"
+        ]
+    },
+    {
+        "name": "Information Extraction",
+        "category": "System / Tool",
+        "purpose": "知识图谱构建技术之一，用于从文本中提取信息",
+        "vendor_or_originator": "知识图谱研究社区",
+        "key_features": [
+            "信息抽取",
+            "实体识别"
+        ]
+    },
+    {
+        "name": "Stemming",
+        "category": "Query Language",
+        "purpose": "用于寻找词形的变化",
+        "vendor_or_originator": "PORTER",
+        "key_features": [
+            "词形变化处理"
+        ]
+    },
+    {
+        "name": "AnchorPROMPT",
+        "category": "System / Tool",
+        "purpose": "本体工具集",
+        "vendor_or_originator": "Stanford 大学",
+        "key_features": [
+            "本体映射工具"
+        ]
+    },
+    {
+        "name": "LSTM",
+        "category": "Framework / Library",
+        "purpose": "用于知识图谱嵌入方法中的句子编码",
+        "vendor_or_originator": "CHEN 等",
+        "key_features": [
+            "处理序列数据",
+            "用于知识图谱嵌入"
+        ]
+    },
+    {
+        "name": "TransE",
+        "definition": "用于知识图谱嵌入方法中的三元组编码，通过将实体和关系映射到连续向量空间中，实现知识图谱中的实体嵌入和推理。",
+        "aliases": [
+            "知识图谱嵌入",
+            "三元组编码",
+            "实体嵌入",
+            "推理路径"
+        ],
+        "category": "Framework / Library",
+        "sub_domain": "知识图谱嵌入",
+        "purpose": "用于知识图谱嵌入方法中的三元组编码，实现知识图谱中的实体嵌入和推理"
+    },
+    {
+        "name": "CNN",
+        "category": "System / Tool",
+        "purpose": "被引入知识推理任务",
+        "vendor_or_originator": "CHEN 等",
+        "key_features": [
+            "用于知识推理任务"
+        ]
+    }
+]
