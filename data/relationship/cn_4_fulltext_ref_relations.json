@@ -1,0 +1,485 @@
+[
+    {
+        "subject": "本体",
+        "relation": "DESCRIBED_IN",
+        "object": "A translation approach to portable ontology specifications",
+        "main_chunk_id": "cn_4_fulltext_7",
+        "reference_chunk_id": "cn_4_fulltext_47"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "RDFS(FA): Connecting RDF(S) and OWL DL",
+        "main_chunk_id": "cn_4_fulltext_8",
+        "reference_chunk_id": "cn_4_fulltext_48"
+    },
+    {
+        "subject": "OWL",
+        "relation": "DESCRIBED_IN",
+        "object": "RDFS(FA): Connecting RDF(S) and OWL DL",
+        "main_chunk_id": "cn_4_fulltext_8",
+        "reference_chunk_id": "cn_4_fulltext_48"
+    },
+    {
+        "subject": "RDFS",
+        "relation": "DESCRIBED_IN",
+        "object": "RDFS(FA): Connecting RDF(S) and OWL DL",
+        "main_chunk_id": "cn_4_fulltext_8",
+        "reference_chunk_id": "cn_4_fulltext_48"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "main_chunk_id": "cn_4_fulltext_8",
+        "reference_chunk_id": "cn_4_fulltext_48"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "main_chunk_id": "cn_4_fulltext_8",
+        "reference_chunk_id": "cn_4_fulltext_48"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "RDFS(FA): Connecting RDF(S) and OWL DL",
+        "main_chunk_id": "cn_4_fulltext_8",
+        "reference_chunk_id": "cn_4_fulltext_48"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "OWL",
+        "main_chunk_id": "cn_4_fulltext_8",
+        "reference_chunk_id": "cn_4_fulltext_48"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "OWL Web ontology language overview",
+        "main_chunk_id": "cn_4_fulltext_8",
+        "reference_chunk_id": "cn_4_fulltext_49"
+    },
+    {
+        "subject": "OWL",
+        "relation": "RELATED_TO",
+        "object": "OWL Web ontology language overview",
+        "main_chunk_id": "cn_4_fulltext_8",
+        "reference_chunk_id": "cn_4_fulltext_49"
+    },
+    {
+        "subject": "RDFS",
+        "relation": "RELATED_TO",
+        "object": "OWL Web ontology language overview",
+        "main_chunk_id": "cn_4_fulltext_8",
+        "reference_chunk_id": "cn_4_fulltext_49"
+    },
+    {
+        "subject": "本体",
+        "relation": "RELATED_TO",
+        "object": "OWL Web ontology language overview",
+        "main_chunk_id": "cn_4_fulltext_8",
+        "reference_chunk_id": "cn_4_fulltext_49"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "DESCRIBED_IN",
+        "object": "论布鲁克斯情报学基本理论",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识地图",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "科学知识图谱",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识表示",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "图数据库",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识融合",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "数据集成",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "知识推理",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识资源",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识检索",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识共享",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识重用",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_51"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "DESCRIBED_IN",
+        "object": "The foundations of information science. Part Ⅲ: Quantitative aspects: Objective maps and subjective landscapes",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_50"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_50"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "DESCRIBED_IN",
+        "object": "Knowledge map of information science",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_53"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_53"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "DESCRIBED_IN",
+        "object": "知识地图研究现状与展望",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_52"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "知识图谱",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_52"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "本体",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_52"
+    },
+    {
+        "subject": "知识地图",
+        "relation": "RELATED_TO",
+        "object": "科学知识图谱",
+        "main_chunk_id": "cn_4_fulltext_9",
+        "reference_chunk_id": "cn_4_fulltext_52"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "知识图谱技术综述",
+        "main_chunk_id": "cn_4_fulltext_12",
+        "reference_chunk_id": "cn_4_fulltext_59"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "DBpedia: A nucleus for a web of open data",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_64"
+    },
+    {
+        "subject": "YAGO",
+        "relation": "DESCRIBED_IN",
+        "object": "DBpedia: A nucleus for a web of open data",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_64"
+    },
+    {
+        "subject": "DBPedia",
+        "relation": "DESCRIBED_IN",
+        "object": "DBpedia: A nucleus for a web of open data",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_64"
+    },
+    {
+        "subject": "WordNet",
+        "relation": "RELATED_TO",
+        "object": "DBpedia: A nucleus for a web of open data",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_64"
+    },
+    {
+        "subject": "CYC",
+        "relation": "RELATED_TO",
+        "object": "DBpedia: A nucleus for a web of open data",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_64"
+    },
+    {
+        "subject": "HowNet",
+        "relation": "RELATED_TO",
+        "object": "DBpedia: A nucleus for a web of open data",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_64"
+    },
+    {
+        "subject": "CYC",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A large-scale investment in knowledge infrastructure",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_61"
+    },
+    {
+        "subject": "WordNet",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A large-scale investment in knowledge infrastructure",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_61"
+    },
+    {
+        "subject": "HowNet",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A large-scale investment in knowledge infrastructure",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_61"
+    },
+    {
+        "subject": "YAGO",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A large-scale investment in knowledge infrastructure",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_61"
+    },
+    {
+        "subject": "DBPedia",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A large-scale investment in knowledge infrastructure",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_61"
+    },
+    {
+        "subject": "WordNet",
+        "relation": "DESCRIBED_IN",
+        "object": "WordNet: An Electronic Lexical Database",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_60"
+    },
+    {
+        "subject": "CYC",
+        "relation": "DESCRIBED_IN",
+        "object": "WordNet: An Electronic Lexical Database",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_60"
+    },
+    {
+        "subject": "HowNet",
+        "relation": "DESCRIBED_IN",
+        "object": "WordNet: An Electronic Lexical Database",
+        "main_chunk_id": "cn_4_fulltext_14",
+        "reference_chunk_id": "cn_4_fulltext_60"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "CN-DBpedia: A never-ending Chinese knowledge extraction system",
+        "main_chunk_id": "cn_4_fulltext_15",
+        "reference_chunk_id": "cn_4_fulltext_65"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "CN-DBpedia: A never-ending Chinese knowledge extraction system",
+        "main_chunk_id": "cn_4_fulltext_15",
+        "reference_chunk_id": "cn_4_fulltext_65"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究",
+        "main_chunk_id": "cn_4_fulltext_15",
+        "reference_chunk_id": "cn_4_fulltext_67"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究",
+        "main_chunk_id": "cn_4_fulltext_15",
+        "reference_chunk_id": "cn_4_fulltext_67"
+    },
+    {
+        "subject": "通用本体",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究",
+        "main_chunk_id": "cn_4_fulltext_15",
+        "reference_chunk_id": "cn_4_fulltext_67"
+    },
+    {
+        "subject": "领域本体",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究",
+        "main_chunk_id": "cn_4_fulltext_15",
+        "reference_chunk_id": "cn_4_fulltext_67"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "RELATED_TO",
+        "object": "基于多种数据源的中文知识图谱构建方法研究",
+        "main_chunk_id": "cn_4_fulltext_15",
+        "reference_chunk_id": "cn_4_fulltext_67"
+    },
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究",
+        "main_chunk_id": "cn_4_fulltext_16",
+        "reference_chunk_id": "cn_4_fulltext_67"
+    },
+    {
+        "subject": "本体层",
+        "relation": "DESCRIBED_IN",
+        "object": "基于多种数据源的中文知识图谱构建方法研究",
+        "main_chunk_id": "cn_4_fulltext_16",
+        "reference_chunk_id": "cn_4_fulltext_67"
+    },
+    {
+        "subject": "行业知识图谱",
+        "relation": "RELATED_TO",
+        "object": "基于多种数据源的中文知识图谱构建方法研究",
+        "main_chunk_id": "cn_4_fulltext_16",
+        "reference_chunk_id": "cn_4_fulltext_67"
+    },
+    {
+        "subject": "通用知识图谱",
+        "relation": "RELATED_TO",
+        "object": "基于多种数据源的中文知识图谱构建方法研究",
+        "main_chunk_id": "cn_4_fulltext_16",
+        "reference_chunk_id": "cn_4_fulltext_67"
+    },
+    {
+        "subject": "GeoNames",
+        "relation": "RELATED_TO",
+        "object": "基于多种数据源的中文知识图谱构建方法研究",
+        "main_chunk_id": "cn_4_fulltext_16",
+        "reference_chunk_id": "cn_4_fulltext_67"
+    },
+    {
+        "subject": "中医医案知识图谱",
+        "relation": "RELATED_TO",
+        "object": "基于多种数据源的中文知识图谱构建方法研究",
+        "main_chunk_id": "cn_4_fulltext_16",
+        "reference_chunk_id": "cn_4_fulltext_67"
+    },
+    {
+        "subject": "出门问问",
+        "relation": "RELATED_TO",
+        "object": "Siri",
+        "main_chunk_id": "cn_4_fulltext_23",
+        "reference_chunk_id": "cn_4_fulltext_106"
+    },
+    {
+        "subject": "Siri",
+        "relation": "DESCRIBED_IN",
+        "object": "Siri",
+        "main_chunk_id": "cn_4_fulltext_23",
+        "reference_chunk_id": "cn_4_fulltext_106"
+    },
+    {
+        "subject": "Siri",
+        "relation": "USES",
+        "object": "Siri",
+        "main_chunk_id": "cn_4_fulltext_23",
+        "reference_chunk_id": "cn_4_fulltext_106"
+    },
+    {
+        "subject": "Siri",
+        "relation": "CREATED_BY",
+        "object": "Siri",
+        "main_chunk_id": "cn_4_fulltext_23",
+        "reference_chunk_id": "cn_4_fulltext_106"
+    },
+    {
+        "subject": "本体学习",
+        "relation": "DESCRIBED_IN",
+        "object": "Ontology learning from text: A look back and into the future",
+        "main_chunk_id": "cn_4_fulltext_29",
+        "reference_chunk_id": "cn_4_fulltext_108"
+    }
+]

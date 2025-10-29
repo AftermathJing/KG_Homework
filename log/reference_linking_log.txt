@@ -1,0 +1,507 @@
+nohup: ignoring input
+10:30:58 - INFO - 加载真实模型 (用于引用链接)...
+10:30:58 - INFO - 正在从以下路径加载 Qwen3-4B 模型: /home/wj/Qwen3-4B...
+10:30:59 - INFO - 正在使用设备: cuda
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:13<00:27, 13.58s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:14<00:06,  6.31s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:14<00:00,  4.95s/it]
+10:31:16 - INFO - 模型和分词器加载成功。
+10:31:16 - INFO - 正在查找成对的正文/参考文献文件...
+10:31:16 - INFO - 找到了 4 个文档集: {'cn_1_fulltext', 'cn_4_fulltext', 'cn_2_fulltext', 'cn_3_fulltext'}
+10:31:16 - INFO - --- 正在处理 cn_1_fulltext ---
+10:31:16 - INFO - 为 cn_1_fulltext 构建了 82 条参考文献编号映射。
+10:31:16 - INFO - [块: cn_1_fulltext_3] 发现 1 个有效引用。正在检查关系...
+10:31:16 - INFO -   > 匹配成功！[块: cn_1_fulltext_3] 引用 [Ref ID: cn_1_fulltext_111]。准备调用 LLM...
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+10:31:20 - INFO - 模型原始响应: [["知识图谱", "DESCRIBED_IN", "Linked Data - The Story So Far"]]
+10:31:20 - INFO -   > [块: cn_1_fulltext_3] -> [Ref ID: cn_1_fulltext_111] 提取了 1 个关系。
+10:31:20 - INFO - [块: cn_1_fulltext_8] 发现 1 个有效引用。正在检查关系...
+10:31:20 - INFO -   > 匹配成功！[块: cn_1_fulltext_8] 引用 [Ref ID: cn_1_fulltext_112]。准备调用 LLM...
+10:31:24 - INFO - 模型原始响应: [["人立方、事立方、知立方", "RELATED_TO", "Survey on big data system and analytical technology"], ["知件（Ｋｎｏｗｗａｒｅ）", "RELATED_TO", "Survey on big data system and analytical technology"], ["中文知识图谱项目", "RELATED_TO", "Survey on big data system and analytical technology"]]
+10:31:24 - INFO -   > [块: cn_1_fulltext_8] -> [Ref ID: cn_1_fulltext_112] 提取了 3 个关系。
+10:31:24 - INFO - [块: cn_1_fulltext_12] 发现 1 个有效引用。正在检查关系...
+10:31:24 - INFO -   > 匹配成功！[块: cn_1_fulltext_12] 引用 [Ref ID: cn_1_fulltext_113]。准备调用 LLM...
+10:31:25 - INFO - 模型原始响应: [["知立方", "RELATED_TO", "基于开放网络知识的信息检索与数据挖掘"]]
+10:31:25 - INFO -   > [块: cn_1_fulltext_12] -> [Ref ID: cn_1_fulltext_113] 提取了 1 个关系。
+10:31:25 - INFO - [块: cn_1_fulltext_22] 发现 1 个有效引用。正在检查关系...
+10:31:25 - INFO -   > 匹配成功！[块: cn_1_fulltext_22] 引用 [Ref ID: cn_1_fulltext_114]。准备调用 LLM...
+10:31:28 - INFO - 模型原始响应: [["信息抽取", "DESCRIBED_IN", "Information Extraction"], ["实体抽取", "RELATED_TO", "Information Extraction"], ["关系抽取", "RELATED_TO", "Information Extraction"], ["属性抽取", "RELATED_TO", "Information Extraction"]]
+10:31:28 - INFO -   > [块: cn_1_fulltext_22] -> [Ref ID: cn_1_fulltext_114] 提取了 4 个关系。
+10:31:28 - INFO - [块: cn_1_fulltext_23] 找到了引用，但该块本身没有实体，跳过。
+10:31:28 - INFO - [块: cn_1_fulltext_24] 找到了引用，但该块本身没有实体，跳过。
+10:31:28 - INFO - [块: cn_1_fulltext_25] 找到了引用，但该块本身没有实体，跳过。
+10:31:28 - INFO - [块: cn_1_fulltext_26] 找到了引用，但该块本身没有实体，跳过。
+10:31:28 - INFO - [块: cn_1_fulltext_27] 找到了引用，但该块本身没有实体，跳过。
+10:31:28 - INFO - [块: cn_1_fulltext_28] 找到了引用，但该块本身没有实体，跳过。
+10:31:28 - INFO - [块: cn_1_fulltext_30] 发现 2 个有效引用。正在检查关系...
+10:31:28 - INFO -   > 匹配成功！[块: cn_1_fulltext_30] 引用 [Ref ID: cn_1_fulltext_124]。准备调用 LLM...
+10:31:29 - INFO - 模型原始响应: [["实体关系抽取", "DESCRIBED_IN", "Combinining lexical, syntactic, and semantic features with maximum entropy models for extracting relations"]]
+10:31:29 - INFO -   > [块: cn_1_fulltext_30] -> [Ref ID: cn_1_fulltext_124] 提取了 1 个关系。
+10:31:29 - INFO -   > 匹配成功！[块: cn_1_fulltext_30] 引用 [Ref ID: cn_1_fulltext_125]。准备调用 LLM...
+10:31:31 - INFO - 模型原始响应: [["实体关系抽取", "DESCRIBED_IN", "Implementation of a kernel-based Chinese relation extraction system"]]
+10:31:31 - INFO -   > [块: cn_1_fulltext_30] -> [Ref ID: cn_1_fulltext_125] 提取了 1 个关系。
+10:31:31 - INFO - [块: cn_1_fulltext_31] 找到了引用，但该块本身没有实体，跳过。
+10:31:31 - INFO - [块: cn_1_fulltext_32] 发现 1 个有效引用。正在检查关系...
+10:31:31 - INFO - [块: cn_1_fulltext_32] 引用了 [Ref ID: cn_1_fulltext_129]，但该参考文献块没有实体，跳过。
+10:31:31 - INFO - [块: cn_1_fulltext_34] 找到了引用，但该块本身没有实体，跳过。
+10:31:31 - INFO - [块: cn_1_fulltext_35] 找到了引用，但该块本身没有实体，跳过。
+10:31:31 - INFO - [块: cn_1_fulltext_36] 找到了引用，但该块本身没有实体，跳过。
+10:31:31 - INFO - [块: cn_1_fulltext_37] 发现 2 个有效引用。正在检查关系...
+10:31:31 - INFO - [块: cn_1_fulltext_37] 引用了 [Ref ID: cn_1_fulltext_136]，但该参考文献块没有实体，跳过。
+10:31:31 - INFO -   > 匹配成功！[块: cn_1_fulltext_37] 引用 [Ref ID: cn_1_fulltext_135]。准备调用 LLM...
+10:31:37 - INFO - 模型原始响应: [
+  ["ＯＩＥ 系统", "DESCRIBED_IN", "KrakeN: N-ary facts in open information extraction"],
+  ["Ｎ 元关系模型", "DESCRIBED_IN", "KrakeN: N-ary facts in open information extraction"],
+  ["ＫＲＡＫＥＮ 模型", "DESCRIBED_IN", "KrakeN: N-ary facts in open information extraction"],
+  ["后期关系推理", "DESCRIBED_IN", "KrakeN: N-ary facts in open information extraction"]
+]
+10:31:37 - INFO -   > [块: cn_1_fulltext_37] -> [Ref ID: cn_1_fulltext_135] 提取了 4 个关系。
+10:31:37 - INFO - [块: cn_1_fulltext_38] 找到了引用，但该块本身没有实体，跳过。
+10:31:37 - INFO - [块: cn_1_fulltext_39] 找到了引用，但该块本身没有实体，跳过。
+10:31:37 - INFO - [块: cn_1_fulltext_40] 找到了引用，但该块本身没有实体，跳过。
+10:31:37 - INFO - [块: cn_1_fulltext_41] 找到了引用，但该块本身没有实体，跳过。
+10:31:37 - INFO - [块: cn_1_fulltext_43] 发现 2 个有效引用。正在检查关系...
+10:31:37 - INFO - [块: cn_1_fulltext_43] 引用了 [Ref ID: cn_1_fulltext_142]，但该参考文献块没有实体，跳过。
+10:31:37 - INFO - [块: cn_1_fulltext_43] 引用了 [Ref ID: cn_1_fulltext_143]，但该参考文献块没有实体，跳过。
+10:31:37 - INFO - [块: cn_1_fulltext_46] 找到了引用，但该块本身没有实体，跳过。
+10:31:37 - INFO - [块: cn_1_fulltext_47] 找到了引用，但该块本身没有实体，跳过。
+10:31:37 - INFO - [块: cn_1_fulltext_48] 发现 2 个有效引用。正在检查关系...
+10:31:37 - INFO - [块: cn_1_fulltext_48] 引用了 [Ref ID: cn_1_fulltext_147]，但该参考文献块没有实体，跳过。
+10:31:37 - INFO - [块: cn_1_fulltext_48] 引用了 [Ref ID: cn_1_fulltext_148]，但该参考文献块没有实体，跳过。
+10:31:37 - INFO - [块: cn_1_fulltext_49] 发现 3 个有效引用。正在检查关系...
+10:31:37 - INFO -   > 匹配成功！[块: cn_1_fulltext_49] 引用 [Ref ID: cn_1_fulltext_149]。准备调用 LLM...
+10:31:41 - INFO - 模型原始响应: [["主题模型", "DESCRIBED_IN", "Collective Context-Aware Topic Models for Entity Disambiguation"], ["Linde模型", "DESCRIBED_IN", "Collective Context-Aware Topic Models for Entity Disambiguation"], ["生成模型", "DESCRIBED_IN", "Collective Context-Aware Topic Models for Entity Disambiguation"]]
+10:31:41 - INFO -   > [块: cn_1_fulltext_49] -> [Ref ID: cn_1_fulltext_149] 提取了 3 个关系。
+10:31:41 - INFO - [块: cn_1_fulltext_49] 引用了 [Ref ID: cn_1_fulltext_142]，但该参考文献块没有实体，跳过。
+10:31:41 - INFO - [块: cn_1_fulltext_49] 引用了 [Ref ID: cn_1_fulltext_150]，但该参考文献块没有实体，跳过。
+10:31:41 - INFO - [块: cn_1_fulltext_50] 发现 2 个有效引用。正在检查关系...
+10:31:41 - INFO - [块: cn_1_fulltext_50] 引用了 [Ref ID: cn_1_fulltext_151]，但该参考文献块没有实体，跳过。
+10:31:41 - INFO - [块: cn_1_fulltext_50] 引用了 [Ref ID: cn_1_fulltext_152]，但该参考文献块没有实体，跳过。
+10:31:41 - INFO - [块: cn_1_fulltext_53] 发现 2 个有效引用。正在检查关系...
+10:31:41 - INFO - [块: cn_1_fulltext_53] 引用了 [Ref ID: cn_1_fulltext_153]，但该参考文献块没有实体，跳过。
+10:31:41 - INFO -   > 匹配成功！[块: cn_1_fulltext_53] 引用 [Ref ID: cn_1_fulltext_154]。准备调用 LLM...
+10:31:43 - INFO - 模型原始响应: [["向心理论", "DESCRIBED_IN", "Centering: A Framework for Modeling the Local Coherence of Discourse"], ["向心理论", "RELATED_TO", "Centering: A Framework for Modeling the Local Coherence of Discourse"]]
+10:31:43 - INFO -   > [块: cn_1_fulltext_53] -> [Ref ID: cn_1_fulltext_154] 提取了 2 个关系。
+10:31:43 - INFO - [块: cn_1_fulltext_54] 找到了引用，但该块本身没有实体，跳过。
+10:31:43 - INFO - [块: cn_1_fulltext_55] 发现 1 个有效引用。正在检查关系...
+10:31:43 - INFO - [块: cn_1_fulltext_55] 引用了 [Ref ID: cn_1_fulltext_157]，但该参考文献块没有实体，跳过。
+10:31:43 - INFO - [块: cn_1_fulltext_56] 找到了引用，但该块本身没有实体，跳过。
+10:31:43 - INFO - [块: cn_1_fulltext_57] 发现 1 个有效引用。正在检查关系...
+10:31:43 - INFO - [块: cn_1_fulltext_57] 引用了 [Ref ID: cn_1_fulltext_160]，但该参考文献块没有实体，跳过。
+10:31:43 - INFO - [块: cn_1_fulltext_58] 找到了引用，但该块本身没有实体，跳过。
+10:31:43 - INFO - [块: cn_1_fulltext_60] 发现 2 个有效引用。正在检查关系...
+10:31:43 - INFO -   > 匹配成功！[块: cn_1_fulltext_60] 引用 [Ref ID: cn_1_fulltext_163]。准备调用 LLM...
+10:31:45 - INFO - 模型原始响应: [["知识库融合", "DESCRIBED_IN", "Sieve: Linked data quality assessment and fusion"]]
+10:31:45 - INFO -   > [块: cn_1_fulltext_60] -> [Ref ID: cn_1_fulltext_163] 提取了 1 个关系。
+10:31:45 - INFO -   > 匹配成功！[块: cn_1_fulltext_60] 引用 [Ref ID: cn_1_fulltext_162]。准备调用 LLM...
+10:31:46 - INFO - 模型原始响应: [["知识库融合", "DESCRIBED_IN", "Building, maintaining, and using knowledge bases: A report from the trenches"]]
+10:31:46 - INFO -   > [块: cn_1_fulltext_60] -> [Ref ID: cn_1_fulltext_162] 提取了 1 个关系。
+10:31:46 - INFO - [块: cn_1_fulltext_62] 发现 1 个有效引用。正在检查关系...
+10:31:46 - INFO - [块: cn_1_fulltext_62] 引用了 [Ref ID: cn_1_fulltext_164]，但该参考文献块没有实体，跳过。
+10:31:46 - INFO - [块: cn_1_fulltext_65] 发现 1 个有效引用。正在检查关系...
+10:31:46 - INFO -   > 匹配成功！[块: cn_1_fulltext_65] 引用 [Ref ID: cn_1_fulltext_165]。准备调用 LLM...
+10:31:49 - INFO - 模型原始响应: [["DataLift", "DESCRIBED_IN", "A Survey of RDB to RDF Translation Approaches and Tools"], ["XSPARQL", "DESCRIBED_IN", "A Survey of RDB to RDF Translation Approaches and Tools"]]
+10:31:49 - INFO -   > [块: cn_1_fulltext_65] -> [Ref ID: cn_1_fulltext_165] 提取了 2 个关系。
+10:31:49 - INFO - [块: cn_1_fulltext_67] 发现 2 个有效引用。正在检查关系...
+10:31:49 - INFO - [块: cn_1_fulltext_67] 引用了 [Ref ID: cn_1_fulltext_166]，但该参考文献块没有实体，跳过。
+10:31:49 - INFO - [块: cn_1_fulltext_67] 引用了 [Ref ID: cn_1_fulltext_167]，但该参考文献块没有实体，跳过。
+10:31:49 - INFO - [块: cn_1_fulltext_69] 找到了引用，但该块本身没有实体，跳过。
+10:31:49 - INFO - [块: cn_1_fulltext_71] 发现 2 个有效引用。正在检查关系...
+10:31:49 - INFO - [块: cn_1_fulltext_71] 引用了 [Ref ID: cn_1_fulltext_170]，但该参考文献块没有实体，跳过。
+10:31:49 - INFO - [块: cn_1_fulltext_71] 引用了 [Ref ID: cn_1_fulltext_167]，但该参考文献块没有实体，跳过。
+10:31:49 - INFO - [块: cn_1_fulltext_72] 找到了引用，但该块本身没有实体，跳过。
+10:31:49 - INFO - [块: cn_1_fulltext_73] 找到了引用，但该块本身没有实体，跳过。
+10:31:49 - INFO - [块: cn_1_fulltext_74] 发现 2 个有效引用。正在检查关系...
+10:31:49 - INFO - [块: cn_1_fulltext_74] 引用了 [Ref ID: cn_1_fulltext_174]，但该参考文献块没有实体，跳过。
+10:31:49 - INFO -   > 匹配成功！[块: cn_1_fulltext_74] 引用 [Ref ID: cn_1_fulltext_173]。准备调用 LLM...
+10:31:55 - INFO - 模型原始响应: [["实体聚类方法", "DESCRIBED_IN", "A phrase mining framework for recursive construction of a topical hierarchy"], ["主题模型", "DESCRIBED_IN", "A phrase mining framework for recursive construction of a topical hierarchy"], ["单词共现网络", "DESCRIBED_IN", "A phrase mining framework for recursive construction of a topical hierarchy"], ["本体结构", "DESCRIBED_IN", "A phrase mining framework for recursive construction of a topical hierarchy"], ["贝叶斯模型", "DESCRIBED_IN", "A phrase mining framework for recursive construction of a topical hierarchy"]]
+10:31:55 - INFO -   > [块: cn_1_fulltext_74] -> [Ref ID: cn_1_fulltext_173] 提取了 5 个关系。
+10:31:55 - INFO - [块: cn_1_fulltext_78] 发现 2 个有效引用。正在检查关系...
+10:31:55 - INFO - [块: cn_1_fulltext_78] 引用了 [Ref ID: cn_1_fulltext_175]，但该参考文献块没有实体，跳过。
+10:31:55 - INFO - [块: cn_1_fulltext_78] 引用了 [Ref ID: cn_1_fulltext_176]，但该参考文献块没有实体，跳过。
+10:31:55 - INFO - [块: cn_1_fulltext_79] 发现 1 个有效引用。正在检查关系...
+10:31:55 - INFO - [块: cn_1_fulltext_79] 引用了 [Ref ID: cn_1_fulltext_177]，但该参考文献块没有实体，跳过。
+10:31:55 - INFO - [块: cn_1_fulltext_80] 找到了引用，但该块本身没有实体，跳过。
+10:31:55 - INFO - [块: cn_1_fulltext_81] 发现 1 个有效引用。正在检查关系...
+10:31:55 - INFO -   > 匹配成功！[块: cn_1_fulltext_81] 引用 [Ref ID: cn_1_fulltext_180]。准备调用 LLM...
+10:31:56 - INFO - 模型原始响应: [["跨知识库的知识推理", "DESCRIBED_IN", "基于描述逻辑的组合知识库推理"]]
+10:31:56 - INFO -   > [块: cn_1_fulltext_81] -> [Ref ID: cn_1_fulltext_180] 提取了 1 个关系。
+10:31:56 - INFO - [块: cn_1_fulltext_83] 发现 2 个有效引用。正在检查关系...
+10:31:56 - INFO - [块: cn_1_fulltext_83] 引用了 [Ref ID: cn_1_fulltext_131]，但该参考文献块没有实体，跳过。
+10:31:56 - INFO -   > 匹配成功！[块: cn_1_fulltext_83] 引用 [Ref ID: cn_1_fulltext_163]。准备调用 LLM...
+10:32:00 - INFO - 模型原始响应: [["质量评估方法", "DESCRIBED_IN", "Sieve: Linked data quality assessment and fusion"], ["逻辑斯蒂回归模型", "DESCRIBED_IN", "Sieve: Linked data quality assessment and fusion"], ["逻辑斯蒂回归模型", "RELATED_TO", "Sieve: Linked data quality assessment and fusion"]]
+10:32:00 - INFO -   > [块: cn_1_fulltext_83] -> [Ref ID: cn_1_fulltext_163] 提取了 3 个关系。
+10:32:00 - INFO - [块: cn_1_fulltext_84] 找到了引用，但该块本身没有实体，跳过。
+10:32:00 - INFO - [块: cn_1_fulltext_85] 找到了引用，但该块本身没有实体，跳过。
+10:32:00 - INFO - [块: cn_1_fulltext_87] 找到了引用，但该块本身没有实体，跳过。
+10:32:00 - INFO - [块: cn_1_fulltext_90] 发现 1 个有效引用。正在检查关系...
+10:32:00 - INFO -   > 匹配成功！[块: cn_1_fulltext_90] 引用 [Ref ID: cn_1_fulltext_183]。准备调用 LLM...
+10:32:02 - INFO - 模型原始响应: [["ＸＬｏｒｅ项目", "DESCRIBED_IN", "XLore: A Large-scale English-Chinese Bilingual Knowledge Graph"], ["ＸＬｏｒｅ项目", "RELATED_TO", "跨语言知识抽取"]]
+10:32:02 - INFO -   > [块: cn_1_fulltext_90] -> [Ref ID: cn_1_fulltext_183] 提取了 2 个关系。
+10:32:02 - INFO - [块: cn_1_fulltext_91] 找到了引用，但该块本身没有实体，跳过。
+10:32:02 - INFO - [块: cn_1_fulltext_92] 发现 1 个有效引用。正在检查关系...
+10:32:02 - INFO -   > 匹配成功！[块: cn_1_fulltext_92] 引用 [Ref ID: cn_1_fulltext_185]。准备调用 LLM...
+10:32:04 - INFO - 模型原始响应: [["跨语言知识抽取", "DESCRIBED_IN", "Transfer learning based cross-lingual knowledge extraction for Wikipedia"]]
+10:32:04 - INFO -   > [块: cn_1_fulltext_92] -> [Ref ID: cn_1_fulltext_185] 提取了 1 个关系。
+10:32:04 - INFO - [块: cn_1_fulltext_95] 找到了引用，但该块本身没有实体，跳过。
+10:32:04 - INFO - [块: cn_1_fulltext_96] 找到了引用，但该块本身没有实体，跳过。
+10:32:04 - INFO - [块: cn_1_fulltext_101] 找到了引用，但该块本身没有实体，跳过。
+10:32:04 - INFO - [块: cn_1_fulltext_102] 找到了引用，但该块本身没有实体，跳过。
+10:32:04 - INFO - [块: cn_1_fulltext_103] 找到了引用，但该块本身没有实体，跳过。
+10:32:04 - INFO - --- 正在处理 cn_4_fulltext ---
+10:32:04 - INFO - 为 cn_4_fulltext 构建了 71 条参考文献编号映射。
+10:32:04 - INFO - [块: cn_4_fulltext_7] 发现 1 个有效引用。正在检查关系...
+10:32:04 - INFO -   > 匹配成功！[块: cn_4_fulltext_7] 引用 [Ref ID: cn_4_fulltext_47]。准备调用 LLM...
+10:32:05 - INFO - 模型原始响应: [["本体", "DESCRIBED_IN", "A translation approach to portable ontology specifications"]]
+10:32:05 - INFO -   > [块: cn_4_fulltext_7] -> [Ref ID: cn_4_fulltext_47] 提取了 1 个关系。
+10:32:05 - INFO - [块: cn_4_fulltext_8] 发现 2 个有效引用。正在检查关系...
+10:32:05 - INFO -   > 匹配成功！[块: cn_4_fulltext_8] 引用 [Ref ID: cn_4_fulltext_48]。准备调用 LLM...
+10:32:12 - INFO - 模型原始响应: [["知识图谱", "DESCRIBED_IN", "RDFS(FA): Connecting RDF(S) and OWL DL"], ["OWL", "DESCRIBED_IN", "RDFS(FA): Connecting RDF(S) and OWL DL"], ["RDFS", "DESCRIBED_IN", "RDFS(FA): Connecting RDF(S) and OWL DL"], ["本体", "RELATED_TO", "知识图谱"], ["知识图谱", "RELATED_TO", "本体"], ["知识图谱", "RELATED_TO", "RDFS(FA): Connecting RDF(S) and OWL DL"], ["知识图谱", "RELATED_TO", "OWL"]]
+10:32:12 - INFO -   > [块: cn_4_fulltext_8] -> [Ref ID: cn_4_fulltext_48] 提取了 7 个关系。
+10:32:12 - INFO -   > 匹配成功！[块: cn_4_fulltext_8] 引用 [Ref ID: cn_4_fulltext_49]。准备调用 LLM...
+10:32:15 - INFO - 模型原始响应: [["知识图谱", "DESCRIBED_IN", "OWL Web ontology language overview"], ["OWL", "RELATED_TO", "OWL Web ontology language overview"], ["RDFS", "RELATED_TO", "OWL Web ontology language overview"], ["本体", "RELATED_TO", "OWL Web ontology language overview"]]
+10:32:15 - INFO -   > [块: cn_4_fulltext_8] -> [Ref ID: cn_4_fulltext_49] 提取了 4 个关系。
+10:32:15 - INFO - [块: cn_4_fulltext_9] 发现 4 个有效引用。正在检查关系...
+10:32:15 - INFO -   > 匹配成功！[块: cn_4_fulltext_9] 引用 [Ref ID: cn_4_fulltext_51]。准备调用 LLM...
+10:32:25 - INFO - 模型原始响应: [["知识地图", "DESCRIBED_IN", "论布鲁克斯情报学基本理论"], ["知识地图", "RELATED_TO", "知识图谱"], ["知识图谱", "RELATED_TO", "知识地图"], ["知识图谱", "RELATED_TO", "科学知识图谱"], ["知识图谱", "RELATED_TO", "本体"], ["知识图谱", "RELATED_TO", "知识表示"], ["知识图谱", "RELATED_TO", "图数据库"], ["知识图谱", "RELATED_TO", "知识融合"], ["知识图谱", "RELATED_TO", "数据集成"], ["知识图谱", "RELATED_TO", "知识推理"], ["知识地图", "RELATED_TO", "知识图谱"], ["知识地图", "RELATED_TO", "知识"], ["知识地图", "RELATED_TO", "知识资源"], ["知识地图", "RELATED_TO", "知识检索"], ["知识地图", "RELATED_TO", "知识共享"], ["知识地图", "RELATED_TO", "知识重用"]]
+10:32:25 - INFO -   > [块: cn_4_fulltext_9] -> [Ref ID: cn_4_fulltext_51] 提取了 16 个关系。
+10:32:25 - INFO -   > 匹配成功！[块: cn_4_fulltext_9] 引用 [Ref ID: cn_4_fulltext_50]。准备调用 LLM...
+10:32:27 - INFO - 模型原始响应: [["知识地图", "DESCRIBED_IN", "The foundations of information science. Part Ⅲ: Quantitative aspects: Objective maps and subjective landscapes"], ["知识地图", "RELATED_TO", "知识图谱"]]
+10:32:27 - INFO -   > [块: cn_4_fulltext_9] -> [Ref ID: cn_4_fulltext_50] 提取了 2 个关系。
+10:32:27 - INFO -   > 匹配成功！[块: cn_4_fulltext_9] 引用 [Ref ID: cn_4_fulltext_53]。准备调用 LLM...
+10:32:29 - INFO - 模型原始响应: [["知识地图", "DESCRIBED_IN", "Knowledge map of information science"], ["知识地图", "RELATED_TO", "知识图谱"]]
+10:32:29 - INFO -   > [块: cn_4_fulltext_9] -> [Ref ID: cn_4_fulltext_53] 提取了 2 个关系。
+10:32:29 - INFO -   > 匹配成功！[块: cn_4_fulltext_9] 引用 [Ref ID: cn_4_fulltext_52]。准备调用 LLM...
+10:32:32 - INFO - 模型原始响应: [["知识地图", "DESCRIBED_IN", "知识地图研究现状与展望"], ["知识地图", "RELATED_TO", "知识图谱"], ["知识地图", "RELATED_TO", "本体"], ["知识地图", "RELATED_TO", "科学知识图谱"]]
+10:32:32 - INFO -   > [块: cn_4_fulltext_9] -> [Ref ID: cn_4_fulltext_52] 提取了 4 个关系。
+10:32:32 - INFO - [块: cn_4_fulltext_10] 找到了引用，但该块本身没有实体，跳过。
+10:32:32 - INFO - [块: cn_4_fulltext_11] 发现 3 个有效引用。正在检查关系...
+10:32:32 - INFO - [块: cn_4_fulltext_11] 引用了 [Ref ID: cn_4_fulltext_58]，但该参考文献块没有实体，跳过。
+10:32:32 - INFO - [块: cn_4_fulltext_11] 引用了 [Ref ID: cn_4_fulltext_56]，但该参考文献块没有实体，跳过。
+10:32:32 - INFO - [块: cn_4_fulltext_11] 引用了 [Ref ID: cn_4_fulltext_57]，但该参考文献块没有实体，跳过。
+10:32:32 - INFO - [块: cn_4_fulltext_12] 发现 1 个有效引用。正在检查关系...
+10:32:32 - INFO -   > 匹配成功！[块: cn_4_fulltext_12] 引用 [Ref ID: cn_4_fulltext_59]。准备调用 LLM...
+10:32:33 - INFO - 模型原始响应: [["知识图谱", "DESCRIBED_IN", "知识图谱技术综述"]]
+10:32:33 - INFO -   > [块: cn_4_fulltext_12] -> [Ref ID: cn_4_fulltext_59] 提取了 1 个关系。
+10:32:33 - INFO - [块: cn_4_fulltext_14] 发现 5 个有效引用。正在检查关系...
+10:32:33 - INFO -   > 匹配成功！[块: cn_4_fulltext_14] 引用 [Ref ID: cn_4_fulltext_64]。准备调用 LLM...
+10:32:40 - INFO - 模型原始响应: [
+  ["知识图谱", "DESCRIBED_IN", "DBpedia: A nucleus for a web of open data"],
+  ["YAGO", "DESCRIBED_IN", "DBpedia: A nucleus for a web of open data"],
+  ["DBPedia", "DESCRIBED_IN", "DBpedia: A nucleus for a web of open data"],
+  ["WordNet", "RELATED_TO", "DBpedia: A nucleus for a web of open data"],
+  ["CYC", "RELATED_TO", "DBpedia: A nucleus for a web of open data"],
+  ["HowNet", "RELATED_TO", "DBpedia: A nucleus for a web of open data"]
+]
+10:32:40 - INFO -   > [块: cn_4_fulltext_14] -> [Ref ID: cn_4_fulltext_64] 提取了 6 个关系。
+10:32:40 - INFO - [块: cn_4_fulltext_14] 引用了 [Ref ID: cn_4_fulltext_63]，但该参考文献块没有实体，跳过。
+10:32:40 - INFO -   > 匹配成功！[块: cn_4_fulltext_14] 引用 [Ref ID: cn_4_fulltext_61]。准备调用 LLM...
+10:32:46 - INFO - 模型原始响应: [["CYC", "DESCRIBED_IN", "CYC: A large-scale investment in knowledge infrastructure"], ["WordNet", "DESCRIBED_IN", "CYC: A large-scale investment in knowledge infrastructure"], ["HowNet", "DESCRIBED_IN", "CYC: A large-scale investment in knowledge infrastructure"], ["YAGO", "DESCRIBED_IN", "CYC: A large-scale investment in knowledge infrastructure"], ["DBPedia", "DESCRIBED_IN", "CYC: A large-scale investment in knowledge infrastructure"]]
+10:32:46 - INFO -   > [块: cn_4_fulltext_14] -> [Ref ID: cn_4_fulltext_61] 提取了 5 个关系。
+10:32:46 - INFO - [块: cn_4_fulltext_14] 引用了 [Ref ID: cn_4_fulltext_62]，但该参考文献块没有实体，跳过。
+10:32:46 - INFO -   > 匹配成功！[块: cn_4_fulltext_14] 引用 [Ref ID: cn_4_fulltext_60]。准备调用 LLM...
+10:32:49 - INFO - 模型原始响应: [
+  ["WordNet", "DESCRIBED_IN", "WordNet: An Electronic Lexical Database"],
+  ["CYC", "DESCRIBED_IN", "WordNet: An Electronic Lexical Database"],
+  ["HowNet", "DESCRIBED_IN", "WordNet: An Electronic Lexical Database"]
+]
+10:32:49 - INFO -   > [块: cn_4_fulltext_14] -> [Ref ID: cn_4_fulltext_60] 提取了 3 个关系。
+10:32:49 - INFO - [块: cn_4_fulltext_15] 发现 3 个有效引用。正在检查关系...
+10:32:49 - INFO -   > 匹配成功！[块: cn_4_fulltext_15] 引用 [Ref ID: cn_4_fulltext_65]。准备调用 LLM...
+10:32:52 - INFO - 模型原始响应: [
+  ["通用知识图谱", "DESCRIBED_IN", "CN-DBpedia: A never-ending Chinese knowledge extraction system"],
+  ["知识图谱", "RELATED_TO", "CN-DBpedia: A never-ending Chinese knowledge extraction system"]
+]
+10:32:52 - INFO -   > [块: cn_4_fulltext_15] -> [Ref ID: cn_4_fulltext_65] 提取了 2 个关系。
+10:32:52 - INFO - [块: cn_4_fulltext_15] 引用了 [Ref ID: cn_4_fulltext_66]，但该参考文献块没有实体，跳过。
+10:32:52 - INFO -   > 匹配成功！[块: cn_4_fulltext_15] 引用 [Ref ID: cn_4_fulltext_67]。准备调用 LLM...
+10:32:58 - INFO - 模型原始响应: [["通用知识图谱", "DESCRIBED_IN", "基于多种数据源的中文知识图谱构建方法研究"], ["行业知识图谱", "DESCRIBED_IN", "基于多种数据源的中文知识图谱构建方法研究"], ["通用本体", "DESCRIBED_IN", "基于多种数据源的中文知识图谱构建方法研究"], ["领域本体", "DESCRIBED_IN", "基于多种数据源的中文知识图谱构建方法研究"], ["知识图谱", "RELATED_TO", "基于多种数据源的中文知识图谱构建方法研究"]]
+10:32:58 - INFO -   > [块: cn_4_fulltext_15] -> [Ref ID: cn_4_fulltext_67] 提取了 5 个关系。
+10:32:58 - INFO - [块: cn_4_fulltext_16] 发现 2 个有效引用。正在检查关系...
+10:32:58 - INFO - [块: cn_4_fulltext_16] 引用了 [Ref ID: cn_4_fulltext_68]，但该参考文献块没有实体，跳过。
+10:32:58 - INFO -   > 匹配成功！[块: cn_4_fulltext_16] 引用 [Ref ID: cn_4_fulltext_67]。准备调用 LLM...
+10:33:06 - INFO - 模型原始响应: [
+  ["知识图谱", "DESCRIBED_IN", "基于多种数据源的中文知识图谱构建方法研究"],
+  ["本体层", "DESCRIBED_IN", "基于多种数据源的中文知识图谱构建方法研究"],
+  ["行业知识图谱", "RELATED_TO", "基于多种数据源的中文知识图谱构建方法研究"],
+  ["通用知识图谱", "RELATED_TO", "基于多种数据源的中文知识图谱构建方法研究"],
+  ["GeoNames", "RELATED_TO", "基于多种数据源的中文知识图谱构建方法研究"],
+  ["中医医案知识图谱", "RELATED_TO", "基于多种数据源的中文知识图谱构建方法研究"]
+]
+10:33:06 - INFO -   > [块: cn_4_fulltext_16] -> [Ref ID: cn_4_fulltext_67] 提取了 6 个关系。
+10:33:06 - INFO - [块: cn_4_fulltext_19] 找到了引用，但该块本身没有实体，跳过。
+10:33:06 - INFO - [块: cn_4_fulltext_21] 找到了引用，但该块本身没有实体，跳过。
+10:33:06 - INFO - [块: cn_4_fulltext_23] 发现 4 个有效引用。正在检查关系...
+10:33:06 - INFO - [块: cn_4_fulltext_23] 引用了 [Ref ID: cn_4_fulltext_105]，但该参考文献块没有实体，跳过。
+10:33:06 - INFO - [块: cn_4_fulltext_23] 引用了 [Ref ID: cn_4_fulltext_104]，但该参考文献块没有实体，跳过。
+10:33:06 - INFO -   > 匹配成功！[块: cn_4_fulltext_23] 引用 [Ref ID: cn_4_fulltext_106]。准备调用 LLM...
+10:33:08 - INFO - 模型原始响应: [["出门问问", "RELATED_TO", "Siri"], ["Siri", "DESCRIBED_IN", "Siri"], ["Siri", "USES", "Siri"], ["Siri", "CREATED_BY", "Siri"]]
+10:33:08 - INFO -   > [块: cn_4_fulltext_23] -> [Ref ID: cn_4_fulltext_106] 提取了 4 个关系。
+10:33:08 - INFO - [块: cn_4_fulltext_23] 引用了 [Ref ID: cn_4_fulltext_107]，但该参考文献块没有实体，跳过。
+10:33:08 - INFO - [块: cn_4_fulltext_29] 发现 1 个有效引用。正在检查关系...
+10:33:08 - INFO -   > 匹配成功！[块: cn_4_fulltext_29] 引用 [Ref ID: cn_4_fulltext_108]。准备调用 LLM...
+10:33:10 - INFO - 模型原始响应: [
+  ["本体学习", "DESCRIBED_IN", "Ontology learning from text: A look back and into the future"]
+]
+10:33:10 - INFO -   > [块: cn_4_fulltext_29] -> [Ref ID: cn_4_fulltext_108] 提取了 1 个关系。
+10:33:10 - INFO - [块: cn_4_fulltext_30] 发现 1 个有效引用。正在检查关系...
+10:33:10 - INFO - [块: cn_4_fulltext_30] 引用了 [Ref ID: cn_4_fulltext_104]，但该参考文献块没有实体，跳过。
+10:33:10 - INFO - [块: cn_4_fulltext_32] 找到了引用，但该块本身没有实体，跳过。
+10:33:10 - INFO - [块: cn_4_fulltext_38] 找到了引用，但该块本身没有实体，跳过。
+10:33:10 - INFO - [块: cn_4_fulltext_39] 找到了引用，但该块本身没有实体，跳过。
+10:33:10 - INFO - --- 正在处理 cn_2_fulltext ---
+10:33:10 - INFO - 为 cn_2_fulltext 构建了 93 条参考文献编号映射。
+10:33:10 - INFO - [块: cn_2_fulltext_3] 发现 2 个有效引用。正在检查关系...
+10:33:10 - INFO - [块: cn_2_fulltext_3] 引用了 [Ref ID: cn_2_fulltext_81]，但该参考文献块没有实体，跳过。
+10:33:10 - INFO -   > 匹配成功！[块: cn_2_fulltext_3] 引用 [Ref ID: cn_2_fulltext_80]。准备调用 LLM...
+10:33:11 - INFO - 模型原始响应: [["知识图谱", "DESCRIBED_IN", "Big data: a survey"]]
+10:33:11 - INFO -   > [块: cn_2_fulltext_3] -> [Ref ID: cn_2_fulltext_80] 提取了 1 个关系。
+10:33:11 - INFO - [块: cn_2_fulltext_6] 发现 2 个有效引用。正在检查关系...
+10:33:11 - INFO -   > 匹配成功！[块: cn_2_fulltext_6] 引用 [Ref ID: cn_2_fulltext_83]。准备调用 LLM...
+10:33:16 - INFO - 模型原始响应: [["知识图谱", "DESCRIBED_IN", "知识图谱研究综述"], ["知识图谱", "RELATED_TO", "知识图谱研究综述"], ["知识表示", "RELATED_TO", "知识图谱研究综述"], ["知识融合", "RELATED_TO", "知识图谱研究综述"], ["知识推理", "RELATED_TO", "知识图谱研究综述"], ["深度学习", "RELATED_TO", "知识图谱研究综述"]]
+10:33:16 - INFO -   > [块: cn_2_fulltext_6] -> [Ref ID: cn_2_fulltext_83] 提取了 6 个关系。
+10:33:16 - INFO -   > 匹配成功！[块: cn_2_fulltext_6] 引用 [Ref ID: cn_2_fulltext_82]。准备调用 LLM...
+10:33:22 - INFO - 模型原始响应: [["知识图谱", "DESCRIBED_IN", "知识图谱技术综述"], ["知识图谱", "RELATED_TO", "知识图谱技术综述"], ["知识抽取", "DESCRIBED_IN", "知识图谱技术综述"], ["知识表示", "DESCRIBED_IN", "知识图谱技术综述"], ["知识融合", "DESCRIBED_IN", "知识图谱技术综述"], ["知识推理", "DESCRIBED_IN", "知识图谱技术综述"], ["深度学习", "RELATED_TO", "知识图谱技术综述"]]
+10:33:22 - INFO -   > [块: cn_2_fulltext_6] -> [Ref ID: cn_2_fulltext_82] 提取了 7 个关系。
+10:33:22 - INFO - [块: cn_2_fulltext_7] 发现 4 个有效引用。正在检查关系...
+10:33:22 - INFO - [块: cn_2_fulltext_7] 引用了 [Ref ID: cn_2_fulltext_84]，但该参考文献块没有实体，跳过。
+10:33:22 - INFO - [块: cn_2_fulltext_7] 引用了 [Ref ID: cn_2_fulltext_86]，但该参考文献块没有实体，跳过。
+10:33:22 - INFO -   > 匹配成功！[块: cn_2_fulltext_7] 引用 [Ref ID: cn_2_fulltext_85]。准备调用 LLM...
+10:33:23 - INFO - 模型原始响应: [["关系抽取", "DESCRIBED_IN", "Relation extraction using distant supervision: a survey"]]
+10:33:23 - INFO -   > [块: cn_2_fulltext_7] -> [Ref ID: cn_2_fulltext_85] 提取了 1 个关系。
+10:33:23 - INFO -   > 匹配成功！[块: cn_2_fulltext_7] 引用 [Ref ID: cn_2_fulltext_87]。准备调用 LLM...
+10:33:26 - INFO - 模型原始响应: [
+  ["关系抽取", "DESCRIBED_IN", "基于深度学习的关系抽取研究综述"],
+  ["命名实体识别", "DESCRIBED_IN", "基于深度学习的关系抽取研究综述"]
+]
+10:33:26 - INFO -   > [块: cn_2_fulltext_7] -> [Ref ID: cn_2_fulltext_87] 提取了 2 个关系。
+10:33:26 - INFO - [块: cn_2_fulltext_8] 找到了引用，但该块本身没有实体，跳过。
+10:33:26 - INFO - [块: cn_2_fulltext_10] 发现 3 个有效引用。正在检查关系...
+10:33:26 - INFO -   > 匹配成功！[块: cn_2_fulltext_10] 引用 [Ref ID: cn_2_fulltext_88]。准备调用 LLM...
+10:33:27 - INFO - 模型原始响应: [["知识图谱", "DESCRIBED_IN", "Knowledge vault：a Web-scale approach to probabilistic knowledge fusion"]]
+10:33:27 - INFO -   > [块: cn_2_fulltext_10] -> [Ref ID: cn_2_fulltext_88] 提取了 1 个关系。
+10:33:27 - INFO -   > 匹配成功！[块: cn_2_fulltext_10] 引用 [Ref ID: cn_2_fulltext_90]。准备调用 LLM...
+10:33:28 - INFO - 模型原始响应: [["知识图谱", "DESCRIBED_IN", "SMR：medical knowledge graph embedding for safe medicine recommendation"]]
+10:33:28 - INFO -   > [块: cn_2_fulltext_10] -> [Ref ID: cn_2_fulltext_90] 提取了 1 个关系。
+10:33:28 - INFO -   > 匹配成功！[块: cn_2_fulltext_10] 引用 [Ref ID: cn_2_fulltext_89]。准备调用 LLM...
+10:33:30 - INFO - 模型原始响应: [["知识图谱", "DESCRIBED_IN", "An end-to-end model for question answering over knowledge base with cross- attention combining global knowledge"]]
+10:33:30 - INFO -   > [块: cn_2_fulltext_10] -> [Ref ID: cn_2_fulltext_89] 提取了 1 个关系。
+10:33:30 - INFO - [块: cn_2_fulltext_12] 发现 1 个有效引用。正在检查关系...
+10:33:30 - INFO -   > 匹配成功！[块: cn_2_fulltext_12] 引用 [Ref ID: cn_2_fulltext_91]。准备调用 LLM...
+10:33:31 - INFO - 模型原始响应: [["知识图谱", "DESCRIBED_IN", "知识图谱：方法，实践与应用"]]
+10:33:31 - INFO -   > [块: cn_2_fulltext_12] -> [Ref ID: cn_2_fulltext_91] 提取了 1 个关系。
+10:33:31 - INFO - [块: cn_2_fulltext_16] 找到了引用，但该块本身没有实体，跳过。
+10:33:31 - INFO - [块: cn_2_fulltext_17] 找到了引用，但该块本身没有实体，跳过。
+10:33:31 - INFO - [块: cn_2_fulltext_18] 找到了引用，但该块本身没有实体，跳过。
+10:33:31 - INFO - [块: cn_2_fulltext_19] 找到了引用，但该块本身没有实体，跳过。
+10:33:31 - INFO - [块: cn_2_fulltext_20] 发现 1 个有效引用。正在检查关系...
+10:33:31 - INFO - [块: cn_2_fulltext_20] 引用了 [Ref ID: cn_2_fulltext_108]，但该参考文献块没有实体，跳过。
+10:33:31 - INFO - [块: cn_2_fulltext_21] 找到了引用，但该块本身没有实体，跳过。
+10:33:31 - INFO - [块: cn_2_fulltext_22] 发现 2 个有效引用。正在检查关系...
+10:33:31 - INFO -   > 匹配成功！[块: cn_2_fulltext_22] 引用 [Ref ID: cn_2_fulltext_110]。准备调用 LLM...
+10:33:34 - INFO - 模型原始响应: [
+  ["BI-LSTM-CRF", "DESCRIBED_IN", "Bidirectional LSTM-CRF models for sequence tagging"],
+  ["命名实体识别", "RELATED_TO", "Bidirectional LSTM-CRF models for sequence tagging"]
+]
+10:33:34 - INFO -   > [块: cn_2_fulltext_22] -> [Ref ID: cn_2_fulltext_110] 提取了 2 个关系。
+10:33:34 - INFO -   > 匹配成功！[块: cn_2_fulltext_22] 引用 [Ref ID: cn_2_fulltext_101]。准备调用 LLM...
+10:33:36 - INFO - 模型原始响应: [["BI-LSTM-CRF", "DESCRIBED_IN", "End-to-end sequence labeling via bi- directional LSTM-CNNs-CRF"], ["命名实体识别", "RELATED_TO", "End-to-end sequence labeling via bi- directional LSTM-CNNs-CRF"]]
+10:33:36 - INFO -   > [块: cn_2_fulltext_22] -> [Ref ID: cn_2_fulltext_101] 提取了 2 个关系。
+10:33:36 - INFO - [块: cn_2_fulltext_23] 找到了引用，但该块本身没有实体，跳过。
+10:33:36 - INFO - [块: cn_2_fulltext_24] 找到了引用，但该块本身没有实体，跳过。
+10:33:36 - INFO - [块: cn_2_fulltext_25] 找到了引用，但该块本身没有实体，跳过。
+10:33:36 - INFO - [块: cn_2_fulltext_27] 找到了引用，但该块本身没有实体，跳过。
+10:33:36 - INFO - [块: cn_2_fulltext_28] 找到了引用，但该块本身没有实体，跳过。
+10:33:36 - INFO - [块: cn_2_fulltext_31] 找到了引用，但该块本身没有实体，跳过。
+10:33:36 - INFO - [块: cn_2_fulltext_32] 发现 4 个有效引用。正在检查关系...
+10:33:36 - INFO - [块: cn_2_fulltext_32] 引用了 [Ref ID: cn_2_fulltext_116]，但该参考文献块没有实体，跳过。
+10:33:36 - INFO - [块: cn_2_fulltext_32] 引用了 [Ref ID: cn_2_fulltext_118]，但该参考文献块没有实体，跳过。
+10:33:36 - INFO -   > 匹配成功！[块: cn_2_fulltext_32] 引用 [Ref ID: cn_2_fulltext_119]。准备调用 LLM...
+10:33:46 - INFO - 模型原始响应: [["注意力机制", "DESCRIBED_IN", "Entity relation extraction method based on fusion of multiple information and attention mechanism"], ["BI-LSTM", "DESCRIBED_IN", "Entity relation extraction method based on fusion of multiple information and attention mechanism"], ["CNN", "RELATED_TO", "Entity relation extraction method based on fusion of multiple information and attention mechanism"], ["关系抽取", "RELATED_TO", "Entity relation extraction method based on fusion of multiple information and attention mechanism"], ["BI-GRU", "RELATED_TO", "Entity relation extraction method based on fusion of multiple information and attention mechanism"], ["自注意力机制", "RELATED_TO", "Entity relation extraction method based on fusion of multiple information and attention mechanism"], ["Att-RCNN", "RELATED_TO", "Entity relation extraction method based on fusion of multiple information and attention mechanism"], ["SemEval-2010", "RELATED_TO", "Entity relation extraction method based on fusion of multiple information and attention mechanism"]]
+10:33:46 - INFO -   > [块: cn_2_fulltext_32] -> [Ref ID: cn_2_fulltext_119] 提取了 8 个关系。
+10:33:46 - INFO - [块: cn_2_fulltext_32] 引用了 [Ref ID: cn_2_fulltext_117]，但该参考文献块没有实体，跳过。
+10:33:46 - INFO - [块: cn_2_fulltext_33] 找到了引用，但该块本身没有实体，跳过。
+10:33:46 - INFO - [块: cn_2_fulltext_34] 找到了引用，但该块本身没有实体，跳过。
+10:33:46 - INFO - [块: cn_2_fulltext_35] 找到了引用，但该块本身没有实体，跳过。
+10:33:46 - INFO - [块: cn_2_fulltext_37] 找到了引用，但该块本身没有实体，跳过。
+10:33:46 - INFO - [块: cn_2_fulltext_38] 找到了引用，但该块本身没有实体，跳过。
+10:33:46 - INFO - [块: cn_2_fulltext_39] 找到了引用，但该块本身没有实体，跳过。
+10:33:46 - INFO - [块: cn_2_fulltext_40] 发现 2 个有效引用。正在检查关系...
+10:33:46 - INFO - [块: cn_2_fulltext_40] 引用了 [Ref ID: cn_2_fulltext_133]，但该参考文献块没有实体，跳过。
+10:33:46 - INFO -   > 匹配成功！[块: cn_2_fulltext_40] 引用 [Ref ID: cn_2_fulltext_132]。准备调用 LLM...
+10:33:50 - INFO - 模型原始响应: [
+  ["级联二进制标记框架", "DESCRIBED_IN", "A novel hierarchical binary tagging framework for relational triple extraction"],
+  ["三元组抽取", "RELATED_TO", "A novel hierarchical binary tagging framework for relational triple extraction"],
+  ["EPO_None/Two/Three_Tagging", "RELATED_TO", "A novel hierarchical binary tagging framework for relational triple extraction"]
+]
+10:33:50 - INFO -   > [块: cn_2_fulltext_40] -> [Ref ID: cn_2_fulltext_132] 提取了 3 个关系。
+10:33:50 - INFO - [块: cn_2_fulltext_41] 找到了引用，但该块本身没有实体，跳过。
+10:33:50 - INFO - [块: cn_2_fulltext_42] 发现 2 个有效引用。正在检查关系...
+10:33:50 - INFO -   > 匹配成功！[块: cn_2_fulltext_42] 引用 [Ref ID: cn_2_fulltext_91]。准备调用 LLM...
+10:33:52 - INFO - 模型原始响应: [["知识融合", "DESCRIBED_IN", "知识图谱：方法，实践与应用"], ["知识融合", "RELATED_TO", "知识图谱：方法，实践与应用"]]
+10:33:52 - INFO -   > [块: cn_2_fulltext_42] -> [Ref ID: cn_2_fulltext_91] 提取了 2 个关系。
+10:33:52 - INFO - [块: cn_2_fulltext_42] 引用了 [Ref ID: cn_2_fulltext_134]，但该参考文献块没有实体，跳过。
+10:33:52 - INFO - [块: cn_2_fulltext_43] 发现 2 个有效引用。正在检查关系...
+10:33:52 - INFO -   > 匹配成功！[块: cn_2_fulltext_43] 引用 [Ref ID: cn_2_fulltext_142]。准备调用 LLM...
+10:33:53 - INFO - 模型原始响应: [
+  ["本体", "DESCRIBED_IN", "A methodology for ontology integration"]
+]
+10:33:53 - INFO -   > [块: cn_2_fulltext_43] -> [Ref ID: cn_2_fulltext_142] 提取了 1 个关系。
+10:33:53 - INFO -   > 匹配成功！[块: cn_2_fulltext_43] 引用 [Ref ID: cn_2_fulltext_141]。准备调用 LLM...
+10:33:55 - INFO - 模型原始响应: [["本体", "DESCRIBED_IN", "Ontology mapping： the state of the art"], ["本体", "RELATED_TO", "Ontology mapping： the state of the art"]]
+10:33:55 - INFO -   > [块: cn_2_fulltext_43] -> [Ref ID: cn_2_fulltext_141] 提取了 2 个关系。
+10:33:55 - INFO - [块: cn_2_fulltext_44] 发现 2 个有效引用。正在检查关系...
+10:33:55 - INFO - [块: cn_2_fulltext_44] 引用了 [Ref ID: cn_2_fulltext_144]，但该参考文献块没有实体，跳过。
+10:33:55 - INFO -   > 匹配成功！[块: cn_2_fulltext_44] 引用 [Ref ID: cn_2_fulltext_145]。准备调用 LLM...
+10:34:01 - INFO - 模型原始响应: [["基于结构的方法", "RELATED_TO", "The PROMPT suite：interactive tools for ontology merging and mapping"], ["AnchorPROMPT", "DESCRIBED_IN", "The PROMPT suite：interactive tools for ontology merging and mapping"], ["基于 NLP 的方法", "RELATED_TO", "The PROMPT suite：interactive tools for ontology merging and mapping"], ["基于实例的方法", "RELATED_TO", "The PROMPT suite：interactive tools for ontology merging and mapping"], ["本体映射", "RELATED_TO", "The PROMPT suite：interactive tools for ontology merging and mapping"]]
+10:34:01 - INFO -   > [块: cn_2_fulltext_44] -> [Ref ID: cn_2_fulltext_145] 提取了 5 个关系。
+10:34:01 - INFO - [块: cn_2_fulltext_47] 找到了引用，但该块本身没有实体，跳过。
+10:34:01 - INFO - [块: cn_2_fulltext_48] 找到了引用，但该块本身没有实体，跳过。
+10:34:01 - INFO - [块: cn_2_fulltext_49] 发现 2 个有效引用。正在检查关系...
+10:34:01 - INFO - [块: cn_2_fulltext_49] 引用了 [Ref ID: cn_2_fulltext_127]，但该参考文献块没有实体，跳过。
+10:34:01 - INFO - [块: cn_2_fulltext_49] 引用了 [Ref ID: cn_2_fulltext_128]，但该参考文献块没有实体，跳过。
+10:34:01 - INFO - [块: cn_2_fulltext_50] 找到了引用，但该块本身没有实体，跳过。
+10:34:01 - INFO - [块: cn_2_fulltext_52] 发现 2 个有效引用。正在检查关系...
+10:34:01 - INFO -   > 匹配成功！[块: cn_2_fulltext_52] 引用 [Ref ID: cn_2_fulltext_137]。准备调用 LLM...
+10:34:05 - INFO - 模型原始响应: [["谓词逻辑推理", "DESCRIBED_IN", "Learning first-order horn clauses from Web text"], ["一阶归纳学习", "DESCRIBED_IN", "Learning first-order horn clauses from Web text"], ["本体寻路", "RELATED_TO", "Learning first-order horn clauses from Web text"]]
+10:34:05 - INFO -   > [块: cn_2_fulltext_52] -> [Ref ID: cn_2_fulltext_137] 提取了 3 个关系。
+10:34:05 - INFO -   > 匹配成功！[块: cn_2_fulltext_52] 引用 [Ref ID: cn_2_fulltext_138]。准备调用 LLM...
+10:34:09 - INFO - 模型原始响应: [["本体推理", "RELATED_TO", "Ontological pathfinding：mining first-order knowledge from large knowledge base"], ["一阶归纳学习", "DESCRIBED_IN", "Ontological pathfinding：mining first-order knowledge from large knowledge base"], ["本体寻路", "DESCRIBED_IN", "Ontological pathfinding：mining first-order knowledge from large knowledge base"]]
+10:34:09 - INFO -   > [块: cn_2_fulltext_52] -> [Ref ID: cn_2_fulltext_138] 提取了 3 个关系。
+10:34:09 - INFO - [块: cn_2_fulltext_53] 发现 1 个有效引用。正在检查关系...
+10:34:09 - INFO - [块: cn_2_fulltext_53] 引用了 [Ref ID: cn_2_fulltext_139]，但该参考文献块没有实体，跳过。
+10:34:09 - INFO - [块: cn_2_fulltext_54] 发现 2 个有效引用。正在检查关系...
+10:34:09 - INFO -   > 匹配成功！[块: cn_2_fulltext_54] 引用 [Ref ID: cn_2_fulltext_140]。准备调用 LLM...
+10:34:14 - INFO - 模型原始响应: [
+  ["TransE", "DESCRIBED_IN", "Translating representations of knowledge graphs with neighbor［s C］"],
+  ["TransR", "DESCRIBED_IN", "Translating representations of knowledge graphs with neighbor［s C］"],
+  ["TransN", "DESCRIBED_IN", "Translating representations of knowledge graphs with neighbor［s C］"],
+  ["Rotate", "DESCRIBED_IN", "Translating representations of knowledge graphs with neighbor［s C］"]
+]
+10:34:14 - INFO -   > [块: cn_2_fulltext_54] -> [Ref ID: cn_2_fulltext_140] 提取了 4 个关系。
+10:34:14 - INFO - [块: cn_2_fulltext_54] 引用了 [Ref ID: cn_2_fulltext_143]，但该参考文献块没有实体，跳过。
+10:34:14 - INFO - [块: cn_2_fulltext_55] 发现 2 个有效引用。正在检查关系...
+10:34:14 - INFO - [块: cn_2_fulltext_55] 引用了 [Ref ID: cn_2_fulltext_147]，但该参考文献块没有实体，跳过。
+10:34:14 - INFO - [块: cn_2_fulltext_55] 引用了 [Ref ID: cn_2_fulltext_148]，但该参考文献块没有实体，跳过。
+10:34:14 - INFO - [块: cn_2_fulltext_56] 发现 2 个有效引用。正在检查关系...
+10:34:14 - INFO -   > 匹配成功！[块: cn_2_fulltext_56] 引用 [Ref ID: cn_2_fulltext_150]。准备调用 LLM...
+10:34:17 - INFO - 模型原始响应: [
+  ["RESCAL", "DESCRIBED_IN", "Typed tensor decomposition of knowledge bases for relation extraction"],
+  ["TRESCAL", "RELATED_TO", "Typed tensor decomposition of knowledge bases for relation extraction"]
+]
+10:34:17 - INFO -   > [块: cn_2_fulltext_56] -> [Ref ID: cn_2_fulltext_150] 提取了 2 个关系。
+10:34:17 - INFO - [块: cn_2_fulltext_56] 引用了 [Ref ID: cn_2_fulltext_149]，但该参考文献块没有实体，跳过。
+10:34:17 - INFO - [块: cn_2_fulltext_57] 发现 2 个有效引用。正在检查关系...
+10:34:17 - INFO -   > 匹配成功！[块: cn_2_fulltext_57] 引用 [Ref ID: cn_2_fulltext_152]。准备调用 LLM...
+10:34:20 - INFO - 模型原始响应: [["路径张量分解", "DESCRIBED_IN", "Embedding entities and relations for learning and inference in knowledge base"], ["DistMult 模型", "RELATED_TO", "Embedding entities and relations for learning and inference in knowledge base"], ["RESCAL", "RELATED_TO", "Embedding entities and relations for learning and inference in knowledge base"]]
+10:34:20 - INFO -   > [块: cn_2_fulltext_57] -> [Ref ID: cn_2_fulltext_152] 提取了 3 个关系。
+10:34:20 - INFO - [块: cn_2_fulltext_57] 引用了 [Ref ID: cn_2_fulltext_151]，但该参考文献块没有实体，跳过。
+10:34:20 - INFO - [块: cn_2_fulltext_58] 找到了引用，但该块本身没有实体，跳过。
+10:34:20 - INFO - [块: cn_2_fulltext_59] 发现 1 个有效引用。正在检查关系...
+10:34:20 - INFO -   > 匹配成功！[块: cn_2_fulltext_59] 引用 [Ref ID: cn_2_fulltext_163]。准备调用 LLM...
+10:34:23 - INFO - 模型原始响应: [
+  ["知识推理", "DESCRIBED_IN", "Reasoning with neural tensor networks for knowledge base completion"],
+  ["神经张量网络", "DESCRIBED_IN", "Reasoning with neural tensor networks for knowledge base completion"]
+]
+10:34:23 - INFO -   > [块: cn_2_fulltext_59] -> [Ref ID: cn_2_fulltext_163] 提取了 2 个关系。
+10:34:23 - INFO - [块: cn_2_fulltext_60] 找到了引用，但该块本身没有实体，跳过。
+10:34:23 - INFO - [块: cn_2_fulltext_61] 发现 1 个有效引用。正在检查关系...
+10:34:23 - INFO - [块: cn_2_fulltext_61] 引用了 [Ref ID: cn_2_fulltext_169]，但该参考文献块没有实体，跳过。
+10:34:23 - INFO - [块: cn_2_fulltext_62] 发现 2 个有效引用。正在检查关系...
+10:34:23 - INFO -   > 匹配成功！[块: cn_2_fulltext_62] 引用 [Ref ID: cn_2_fulltext_154]。准备调用 LLM...
+10:34:25 - INFO - 模型原始响应: [["ConvE", "DESCRIBED_IN", "InteractE： improving convolution-based knowledge graph embeddings by increasing feature interactions"], ["InteractE", "RELATED_TO", "InteractE： improving convolution-based knowledge graph embeddings by increasing feature interactions"]]
+10:34:25 - INFO -   > [块: cn_2_fulltext_62] -> [Ref ID: cn_2_fulltext_154] 提取了 2 个关系。
+10:34:25 - INFO -   > 匹配成功！[块: cn_2_fulltext_62] 引用 [Ref ID: cn_2_fulltext_170]。准备调用 LLM...
+10:34:28 - INFO - 模型原始响应: [["ConvE", "DESCRIBED_IN", "Convolutional 2D knowledge graph embeddings"], ["InteractE", "RELATED_TO", "Convolutional 2D knowledge graph embeddings"]]
+10:34:28 - INFO -   > [块: cn_2_fulltext_62] -> [Ref ID: cn_2_fulltext_170] 提取了 2 个关系。
+10:34:28 - INFO - [块: cn_2_fulltext_63] 发现 1 个有效引用。正在检查关系...
+10:34:28 - INFO - [块: cn_2_fulltext_63] 引用了 [Ref ID: cn_2_fulltext_155]，但该参考文献块没有实体，跳过。
+10:34:28 - INFO - [块: cn_2_fulltext_65] 发现 1 个有效引用。正在检查关系...
+10:34:28 - INFO -   > 匹配成功！[块: cn_2_fulltext_65] 引用 [Ref ID: cn_2_fulltext_156]。准备调用 LLM...
+10:34:34 - INFO - 模型原始响应: [
+  ["ProPPR", "DESCRIBED_IN", "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach"],
+  ["EntitySim", "DESCRIBED_IN", "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach"],
+  ["TypeSim", "DESCRIBED_IN", "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach"],
+  ["GraphLF", "DESCRIBED_IN", "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach"],
+  ["知识图谱", "DESCRIBED_IN", "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach"]
+]
+10:34:34 - INFO -   > [块: cn_2_fulltext_65] -> [Ref ID: cn_2_fulltext_156] 提取了 5 个关系。
+10:34:34 - INFO - [块: cn_2_fulltext_66] 找到了引用，但该块本身没有实体，跳过。
+10:34:34 - INFO - [块: cn_2_fulltext_67] 找到了引用，但该块本身没有实体，跳过。
+10:34:34 - INFO - [块: cn_2_fulltext_69] 发现 2 个有效引用。正在检查关系...
+10:34:34 - INFO -   > 匹配成功！[块: cn_2_fulltext_69] 引用 [Ref ID: cn_2_fulltext_160]。准备调用 LLM...
+10:34:36 - INFO - 模型原始响应: [["深度概率逻辑系统", "DESCRIBED_IN", "Deep probabilistic logic: a unifying semantical aspect awareness"]]
+10:34:36 - INFO -   > [块: cn_2_fulltext_69] -> [Ref ID: cn_2_fulltext_160] 提取了 1 个关系。
+10:34:36 - INFO - [块: cn_2_fulltext_69] 引用了 [Ref ID: cn_2_fulltext_162]，但该参考文献块没有实体，跳过。
+10:34:36 - INFO - [块: cn_2_fulltext_70] 发现 2 个有效引用。正在检查关系...
+10:34:36 - INFO -   > 匹配成功！[块: cn_2_fulltext_70] 引用 [Ref ID: cn_2_fulltext_165]。准备调用 LLM...
+10:34:37 - INFO - 模型原始响应: [
+  ["信息抽取", "DESCRIBED_IN", "Integrating deep learning with logic fusion for information extraction"]
+]
+10:34:37 - INFO -   > [块: cn_2_fulltext_70] -> [Ref ID: cn_2_fulltext_165] 提取了 1 个关系。
+10:34:37 - INFO -   > 匹配成功！[块: cn_2_fulltext_70] 引用 [Ref ID: cn_2_fulltext_159]。准备调用 LLM...
+10:34:39 - INFO - 模型原始响应: [["结构化知识", "DESCRIBED_IN", "Harnessing deep neural networks with logic rules"], ["信息抽取", "RELATED_TO", "Harnessing deep neural networks with logic rules"]]
+10:34:39 - INFO -   > [块: cn_2_fulltext_70] -> [Ref ID: cn_2_fulltext_159] 提取了 2 个关系。
+10:34:39 - INFO - [块: cn_2_fulltext_72] 发现 2 个有效引用。正在检查关系...
+10:34:39 - INFO -   > 匹配成功！[块: cn_2_fulltext_72] 引用 [Ref ID: cn_2_fulltext_166]。准备调用 LLM...
+10:34:44 - INFO - 模型原始响应: [["因果推理", "DESCRIBED_IN", "Theoretical impediments to machine learning with seven sparks from the causal revolution"], ["图网络", "DESCRIBED_IN", "Theoretical impediments to machine learning with seven sparks from the causal revolution"], ["图网络", "RELATED_TO", "深度学习"], ["贝叶斯网络", "RELATED_TO", "深度学习"], ["贝叶斯网络", "RELATED_TO", "因果推理"], ["图网络", "RELATED_TO", "因果推理"]]
+10:34:44 - INFO -   > [块: cn_2_fulltext_72] -> [Ref ID: cn_2_fulltext_166] 提取了 6 个关系。
+10:34:44 - INFO - [块: cn_2_fulltext_72] 引用了 [Ref ID: cn_2_fulltext_167]，但该参考文献块没有实体，跳过。
+10:34:44 - INFO - [块: cn_2_fulltext_73] 发现 1 个有效引用。正在检查关系...
+10:34:44 - INFO - [块: cn_2_fulltext_73] 引用了 [Ref ID: cn_2_fulltext_171]，但该参考文献块没有实体，跳过。
+10:34:44 - INFO - [块: cn_2_fulltext_77] 发现 1 个有效引用。正在检查关系...
+10:34:44 - INFO -   > 匹配成功！[块: cn_2_fulltext_77] 引用 [Ref ID: cn_2_fulltext_172]。准备调用 LLM...
+10:34:49 - INFO - 模型原始响应: [
+  ["知识推理", "RELATED_TO", "动态知识图谱推理"],
+  ["EvolveGCN", "DESCRIBED_IN", "EvolveGCN： evolving graph convolutional networks for dynamic graphs"],
+  ["RNN", "USES", "EvolveGCN"],
+  ["GCN", "USES", "EvolveGCN"],
+  ["知识推理", "RELATED_TO", "跨语言的知识推理"]
+]
+10:34:49 - INFO -   > [块: cn_2_fulltext_77] -> [Ref ID: cn_2_fulltext_172] 提取了 5 个关系。
+10:34:49 - INFO - --- 正在处理 cn_3_fulltext ---
+10:34:49 - INFO - 为 cn_3_fulltext 构建了 46 条参考文献编号映射。
+10:34:49 - INFO - [块: cn_3_fulltext_6] 发现 2 个有效引用。正在检查关系...
+10:34:49 - INFO -   > 匹配成功！[块: cn_3_fulltext_6] 引用 [Ref ID: cn_3_fulltext_27]。准备调用 LLM...
+10:34:50 - INFO - 模型原始响应: [["CYC", "DESCRIBED_IN", "CYC: A Large-scale Investment in Knowledge Infrastructure"]]
+10:34:50 - INFO -   > [块: cn_3_fulltext_6] -> [Ref ID: cn_3_fulltext_27] 提取了 1 个关系。
+10:34:50 - INFO - [块: cn_3_fulltext_6] 引用了 [Ref ID: cn_3_fulltext_26]，但该参考文献块没有实体，跳过。
+10:34:50 - INFO - [块: cn_3_fulltext_7] 发现 3 个有效引用。正在检查关系...
+10:34:50 - INFO - [块: cn_3_fulltext_7] 引用了 [Ref ID: cn_3_fulltext_33]，但该参考文献块没有实体，跳过。
+10:34:50 - INFO - [块: cn_3_fulltext_7] 引用了 [Ref ID: cn_3_fulltext_34]，但该参考文献块没有实体，跳过。
+10:34:50 - INFO - [块: cn_3_fulltext_7] 引用了 [Ref ID: cn_3_fulltext_32]，但该参考文献块没有实体，跳过。
+10:34:50 - INFO - [块: cn_3_fulltext_8] 发现 1 个有效引用。正在检查关系...
+10:34:50 - INFO -   > 匹配成功！[块: cn_3_fulltext_8] 引用 [Ref ID: cn_3_fulltext_35]。准备调用 LLM...
+10:34:52 - INFO - 模型原始响应: [
+  ["跨语言链接技术", "USES", "Linked Open Data (LOD)"],
+  ["科学领域语义数据资源", "RELATED_TO", "Why Linked Data is Not Enough for Scientists"]
+]
+10:34:52 - INFO -   > [块: cn_3_fulltext_8] -> [Ref ID: cn_3_fulltext_35] 提取了 2 个关系。
+10:34:52 - INFO - [块: cn_3_fulltext_9] 找到了引用，但该块本身没有实体，跳过。
+10:34:52 - INFO - [块: cn_3_fulltext_10] 发现 1 个有效引用。正在检查关系...
+10:34:52 - INFO -   > 匹配成功！[块: cn_3_fulltext_10] 引用 [Ref ID: cn_3_fulltext_39]。准备调用 LLM...
+10:35:02 - INFO - 模型原始响应: [["符号主义", "DESCRIBED_IN", "Computer Science as Empirical Inquiry: Symbols and Search"], ["物理符号系统假设", "DESCRIBED_IN", "Computer Science as Empirical Inquiry: Symbols and Search"], ["知识表示技术", "RELATED_TO", "Computer Science as Empirical Inquiry: Symbols and Search"], ["知识表示", "RELATED_TO", "Computer Science as Empirical Inquiry: Symbols and Search"], ["逻辑表示法", "RELATED_TO", "Computer Science as Empirical Inquiry: Symbols and Search"], ["产生式表示法", "RELATED_TO", "Computer Science as Empirical Inquiry: Symbols and Search"], ["框架表示", "RELATED_TO", "Computer Science as Empirical Inquiry: Symbols and Search"], ["一阶逻辑", "RELATED_TO", "Computer Science as Empirical Inquiry: Symbols and Search"], ["描述逻辑", "RELATED_TO", "Computer Science as Empirical Inquiry: Symbols and Search"]]
+10:35:02 - INFO -   > [块: cn_3_fulltext_10] -> [Ref ID: cn_3_fulltext_39] 提取了 9 个关系。
+10:35:02 - INFO - [块: cn_3_fulltext_12] 发现 1 个有效引用。正在检查关系...
+10:35:02 - INFO - [块: cn_3_fulltext_12] 引用了 [Ref ID: cn_3_fulltext_40]，但该参考文献块没有实体，跳过。
+10:35:02 - INFO - [块: cn_3_fulltext_13] 发现 1 个有效引用。正在检查关系...
+10:35:02 - INFO -   > 匹配成功！[块: cn_3_fulltext_13] 引用 [Ref ID: cn_3_fulltext_44]。准备调用 LLM...
+10:35:05 - INFO - 模型原始响应: [["张量重构", "DESCRIBED_IN", "Translating Embeddings for Modeling Multirelational Data"], ["势能函数", "DESCRIBED_IN", "Translating Embeddings for Modeling Multirelational Data"], ["TransE", "RELATED_TO", "Translating Embeddings for Modeling Multirelational Data"]]
+10:35:05 - INFO -   > [块: cn_3_fulltext_13] -> [Ref ID: cn_3_fulltext_44] 提取了 3 个关系。
+10:35:05 - INFO - [块: cn_3_fulltext_14] 发现 2 个有效引用。正在检查关系...
+10:35:05 - INFO - [块: cn_3_fulltext_14] 引用了 [Ref ID: cn_3_fulltext_47]，但该参考文献块没有实体，跳过。
+10:35:05 - INFO - [块: cn_3_fulltext_14] 引用了 [Ref ID: cn_3_fulltext_51]，但该参考文献块没有实体，跳过。
+10:35:05 - INFO - [块: cn_3_fulltext_16] 发现 1 个有效引用。正在检查关系...
+10:35:05 - INFO -   > 匹配成功！[块: cn_3_fulltext_16] 引用 [Ref ID: cn_3_fulltext_54]。准备调用 LLM...
+10:35:07 - INFO - 模型原始响应: [["概念层次学习", "DESCRIBED_IN", "Probase: A Probabilistic Taxonomy for Text Understanding"]]
+10:35:07 - INFO -   > [块: cn_3_fulltext_16] -> [Ref ID: cn_3_fulltext_54] 提取了 1 个关系。
+10:35:07 - INFO - [块: cn_3_fulltext_20] 发现 2 个有效引用。正在检查关系...
+10:35:07 - INFO - [块: cn_3_fulltext_20] 引用了 [Ref ID: cn_3_fulltext_60]，但该参考文献块没有实体，跳过。
+10:35:07 - INFO - [块: cn_3_fulltext_20] 引用了 [Ref ID: cn_3_fulltext_59]，但该参考文献块没有实体，跳过。
+10:35:07 - INFO - [块: cn_3_fulltext_21] 找到了引用，但该块本身没有实体，跳过。
+10:35:07 - INFO - [块: cn_3_fulltext_22] 发现 2 个有效引用。正在检查关系...
+10:35:07 - INFO - [块: cn_3_fulltext_22] 引用了 [Ref ID: cn_3_fulltext_62]，但该参考文献块没有实体，跳过。
+10:35:07 - INFO - [块: cn_3_fulltext_22] 引用了 [Ref ID: cn_3_fulltext_63]，但该参考文献块没有实体，跳过。
+10:35:07 - INFO - 所有参考文献链接任务处理完毕。
+参考文献关系已保存到: ./data/relationship/cn_1_fulltext_ref_relations.json
+参考文献关系已保存到: ./data/relationship/cn_4_fulltext_ref_relations.json
+参考文献关系已保存到: ./data/relationship/cn_2_fulltext_ref_relations.json
+参考文献关系已保存到: ./data/relationship/cn_3_fulltext_ref_relations.json

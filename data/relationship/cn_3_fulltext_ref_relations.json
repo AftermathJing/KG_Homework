@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "CYC",
+        "relation": "DESCRIBED_IN",
+        "object": "CYC: A Large-scale Investment in Knowledge Infrastructure",
+        "main_chunk_id": "cn_3_fulltext_6",
+        "reference_chunk_id": "cn_3_fulltext_27"
+    },
+    {
+        "subject": "跨语言链接技术",
+        "relation": "USES",
+        "object": "Linked Open Data (LOD)",
+        "main_chunk_id": "cn_3_fulltext_8",
+        "reference_chunk_id": "cn_3_fulltext_35"
+    },
+    {
+        "subject": "科学领域语义数据资源",
+        "relation": "RELATED_TO",
+        "object": "Why Linked Data is Not Enough for Scientists",
+        "main_chunk_id": "cn_3_fulltext_8",
+        "reference_chunk_id": "cn_3_fulltext_35"
+    },
+    {
+        "subject": "符号主义",
+        "relation": "DESCRIBED_IN",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search",
+        "main_chunk_id": "cn_3_fulltext_10",
+        "reference_chunk_id": "cn_3_fulltext_39"
+    },
+    {
+        "subject": "物理符号系统假设",
+        "relation": "DESCRIBED_IN",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search",
+        "main_chunk_id": "cn_3_fulltext_10",
+        "reference_chunk_id": "cn_3_fulltext_39"
+    },
+    {
+        "subject": "知识表示技术",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search",
+        "main_chunk_id": "cn_3_fulltext_10",
+        "reference_chunk_id": "cn_3_fulltext_39"
+    },
+    {
+        "subject": "知识表示",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search",
+        "main_chunk_id": "cn_3_fulltext_10",
+        "reference_chunk_id": "cn_3_fulltext_39"
+    },
+    {
+        "subject": "逻辑表示法",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search",
+        "main_chunk_id": "cn_3_fulltext_10",
+        "reference_chunk_id": "cn_3_fulltext_39"
+    },
+    {
+        "subject": "产生式表示法",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search",
+        "main_chunk_id": "cn_3_fulltext_10",
+        "reference_chunk_id": "cn_3_fulltext_39"
+    },
+    {
+        "subject": "框架表示",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search",
+        "main_chunk_id": "cn_3_fulltext_10",
+        "reference_chunk_id": "cn_3_fulltext_39"
+    },
+    {
+        "subject": "一阶逻辑",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search",
+        "main_chunk_id": "cn_3_fulltext_10",
+        "reference_chunk_id": "cn_3_fulltext_39"
+    },
+    {
+        "subject": "描述逻辑",
+        "relation": "RELATED_TO",
+        "object": "Computer Science as Empirical Inquiry: Symbols and Search",
+        "main_chunk_id": "cn_3_fulltext_10",
+        "reference_chunk_id": "cn_3_fulltext_39"
+    },
+    {
+        "subject": "张量重构",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating Embeddings for Modeling Multirelational Data",
+        "main_chunk_id": "cn_3_fulltext_13",
+        "reference_chunk_id": "cn_3_fulltext_44"
+    },
+    {
+        "subject": "势能函数",
+        "relation": "DESCRIBED_IN",
+        "object": "Translating Embeddings for Modeling Multirelational Data",
+        "main_chunk_id": "cn_3_fulltext_13",
+        "reference_chunk_id": "cn_3_fulltext_44"
+    },
+    {
+        "subject": "TransE",
+        "relation": "RELATED_TO",
+        "object": "Translating Embeddings for Modeling Multirelational Data",
+        "main_chunk_id": "cn_3_fulltext_13",
+        "reference_chunk_id": "cn_3_fulltext_44"
+    },
+    {
+        "subject": "概念层次学习",
+        "relation": "DESCRIBED_IN",
+        "object": "Probase: A Probabilistic Taxonomy for Text Understanding",
+        "main_chunk_id": "cn_3_fulltext_16",
+        "reference_chunk_id": "cn_3_fulltext_54"
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "subject": "知识图谱",
+        "relation": "DESCRIBED_IN",
+        "object": "Linked Data - The Story So Far",
+        "main_chunk_id": "cn_1_fulltext_3",
+        "reference_chunk_id": "cn_1_fulltext_111"
+    },
+    {
+        "subject": "人立方、事立方、知立方",
+        "relation": "RELATED_TO",
+        "object": "Survey on big data system and analytical technology",
+        "main_chunk_id": "cn_1_fulltext_8",
+        "reference_chunk_id": "cn_1_fulltext_112"
+    },
+    {
+        "subject": "知件（Ｋｎｏｗｗａｒｅ）",
+        "relation": "RELATED_TO",
+        "object": "Survey on big data system and analytical technology",
+        "main_chunk_id": "cn_1_fulltext_8",
+        "reference_chunk_id": "cn_1_fulltext_112"
+    },
+    {
+        "subject": "中文知识图谱项目",
+        "relation": "RELATED_TO",
+        "object": "Survey on big data system and analytical technology",
+        "main_chunk_id": "cn_1_fulltext_8",
+        "reference_chunk_id": "cn_1_fulltext_112"
+    },
+    {
+        "subject": "知立方",
+        "relation": "RELATED_TO",
+        "object": "基于开放网络知识的信息检索与数据挖掘",
+        "main_chunk_id": "cn_1_fulltext_12",
+        "reference_chunk_id": "cn_1_fulltext_113"
+    },
+    {
+        "subject": "信息抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "Information Extraction",
+        "main_chunk_id": "cn_1_fulltext_22",
+        "reference_chunk_id": "cn_1_fulltext_114"
+    },
+    {
+        "subject": "实体抽取",
+        "relation": "RELATED_TO",
+        "object": "Information Extraction",
+        "main_chunk_id": "cn_1_fulltext_22",
+        "reference_chunk_id": "cn_1_fulltext_114"
+    },
+    {
+        "subject": "关系抽取",
+        "relation": "RELATED_TO",
+        "object": "Information Extraction",
+        "main_chunk_id": "cn_1_fulltext_22",
+        "reference_chunk_id": "cn_1_fulltext_114"
+    },
+    {
+        "subject": "属性抽取",
+        "relation": "RELATED_TO",
+        "object": "Information Extraction",
+        "main_chunk_id": "cn_1_fulltext_22",
+        "reference_chunk_id": "cn_1_fulltext_114"
+    },
+    {
+        "subject": "实体关系抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "Combinining lexical, syntactic, and semantic features with maximum entropy models for extracting relations",
+        "main_chunk_id": "cn_1_fulltext_30",
+        "reference_chunk_id": "cn_1_fulltext_124"
+    },
+    {
+        "subject": "实体关系抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "Implementation of a kernel-based Chinese relation extraction system",
+        "main_chunk_id": "cn_1_fulltext_30",
+        "reference_chunk_id": "cn_1_fulltext_125"
+    },
+    {
+        "subject": "ＯＩＥ 系统",
+        "relation": "DESCRIBED_IN",
+        "object": "KrakeN: N-ary facts in open information extraction",
+        "main_chunk_id": "cn_1_fulltext_37",
+        "reference_chunk_id": "cn_1_fulltext_135"
+    },
+    {
+        "subject": "Ｎ 元关系模型",
+        "relation": "DESCRIBED_IN",
+        "object": "KrakeN: N-ary facts in open information extraction",
+        "main_chunk_id": "cn_1_fulltext_37",
+        "reference_chunk_id": "cn_1_fulltext_135"
+    },
+    {
+        "subject": "ＫＲＡＫＥＮ 模型",
+        "relation": "DESCRIBED_IN",
+        "object": "KrakeN: N-ary facts in open information extraction",
+        "main_chunk_id": "cn_1_fulltext_37",
+        "reference_chunk_id": "cn_1_fulltext_135"
+    },
+    {
+        "subject": "后期关系推理",
+        "relation": "DESCRIBED_IN",
+        "object": "KrakeN: N-ary facts in open information extraction",
+        "main_chunk_id": "cn_1_fulltext_37",
+        "reference_chunk_id": "cn_1_fulltext_135"
+    },
+    {
+        "subject": "主题模型",
+        "relation": "DESCRIBED_IN",
+        "object": "Collective Context-Aware Topic Models for Entity Disambiguation",
+        "main_chunk_id": "cn_1_fulltext_49",
+        "reference_chunk_id": "cn_1_fulltext_149"
+    },
+    {
+        "subject": "Linde模型",
+        "relation": "DESCRIBED_IN",
+        "object": "Collective Context-Aware Topic Models for Entity Disambiguation",
+        "main_chunk_id": "cn_1_fulltext_49",
+        "reference_chunk_id": "cn_1_fulltext_149"
+    },
+    {
+        "subject": "生成模型",
+        "relation": "DESCRIBED_IN",
+        "object": "Collective Context-Aware Topic Models for Entity Disambiguation",
+        "main_chunk_id": "cn_1_fulltext_49",
+        "reference_chunk_id": "cn_1_fulltext_149"
+    },
+    {
+        "subject": "向心理论",
+        "relation": "DESCRIBED_IN",
+        "object": "Centering: A Framework for Modeling the Local Coherence of Discourse",
+        "main_chunk_id": "cn_1_fulltext_53",
+        "reference_chunk_id": "cn_1_fulltext_154"
+    },
+    {
+        "subject": "向心理论",
+        "relation": "RELATED_TO",
+        "object": "Centering: A Framework for Modeling the Local Coherence of Discourse",
+        "main_chunk_id": "cn_1_fulltext_53",
+        "reference_chunk_id": "cn_1_fulltext_154"
+    },
+    {
+        "subject": "知识库融合",
+        "relation": "DESCRIBED_IN",
+        "object": "Sieve: Linked data quality assessment and fusion",
+        "main_chunk_id": "cn_1_fulltext_60",
+        "reference_chunk_id": "cn_1_fulltext_163"
+    },
+    {
+        "subject": "知识库融合",
+        "relation": "DESCRIBED_IN",
+        "object": "Building, maintaining, and using knowledge bases: A report from the trenches",
+        "main_chunk_id": "cn_1_fulltext_60",
+        "reference_chunk_id": "cn_1_fulltext_162"
+    },
+    {
+        "subject": "DataLift",
+        "relation": "DESCRIBED_IN",
+        "object": "A Survey of RDB to RDF Translation Approaches and Tools",
+        "main_chunk_id": "cn_1_fulltext_65",
+        "reference_chunk_id": "cn_1_fulltext_165"
+    },
+    {
+        "subject": "XSPARQL",
+        "relation": "DESCRIBED_IN",
+        "object": "A Survey of RDB to RDF Translation Approaches and Tools",
+        "main_chunk_id": "cn_1_fulltext_65",
+        "reference_chunk_id": "cn_1_fulltext_165"
+    },
+    {
+        "subject": "实体聚类方法",
+        "relation": "DESCRIBED_IN",
+        "object": "A phrase mining framework for recursive construction of a topical hierarchy",
+        "main_chunk_id": "cn_1_fulltext_74",
+        "reference_chunk_id": "cn_1_fulltext_173"
+    },
+    {
+        "subject": "主题模型",
+        "relation": "DESCRIBED_IN",
+        "object": "A phrase mining framework for recursive construction of a topical hierarchy",
+        "main_chunk_id": "cn_1_fulltext_74",
+        "reference_chunk_id": "cn_1_fulltext_173"
+    },
+    {
+        "subject": "单词共现网络",
+        "relation": "DESCRIBED_IN",
+        "object": "A phrase mining framework for recursive construction of a topical hierarchy",
+        "main_chunk_id": "cn_1_fulltext_74",
+        "reference_chunk_id": "cn_1_fulltext_173"
+    },
+    {
+        "subject": "本体结构",
+        "relation": "DESCRIBED_IN",
+        "object": "A phrase mining framework for recursive construction of a topical hierarchy",
+        "main_chunk_id": "cn_1_fulltext_74",
+        "reference_chunk_id": "cn_1_fulltext_173"
+    },
+    {
+        "subject": "贝叶斯模型",
+        "relation": "DESCRIBED_IN",
+        "object": "A phrase mining framework for recursive construction of a topical hierarchy",
+        "main_chunk_id": "cn_1_fulltext_74",
+        "reference_chunk_id": "cn_1_fulltext_173"
+    },
+    {
+        "subject": "跨知识库的知识推理",
+        "relation": "DESCRIBED_IN",
+        "object": "基于描述逻辑的组合知识库推理",
+        "main_chunk_id": "cn_1_fulltext_81",
+        "reference_chunk_id": "cn_1_fulltext_180"
+    },
+    {
+        "subject": "质量评估方法",
+        "relation": "DESCRIBED_IN",
+        "object": "Sieve: Linked data quality assessment and fusion",
+        "main_chunk_id": "cn_1_fulltext_83",
+        "reference_chunk_id": "cn_1_fulltext_163"
+    },
+    {
+        "subject": "逻辑斯蒂回归模型",
+        "relation": "DESCRIBED_IN",
+        "object": "Sieve: Linked data quality assessment and fusion",
+        "main_chunk_id": "cn_1_fulltext_83",
+        "reference_chunk_id": "cn_1_fulltext_163"
+    },
+    {
+        "subject": "逻辑斯蒂回归模型",
+        "relation": "RELATED_TO",
+        "object": "Sieve: Linked data quality assessment and fusion",
+        "main_chunk_id": "cn_1_fulltext_83",
+        "reference_chunk_id": "cn_1_fulltext_163"
+    },
+    {
+        "subject": "ＸＬｏｒｅ项目",
+        "relation": "DESCRIBED_IN",
+        "object": "XLore: A Large-scale English-Chinese Bilingual Knowledge Graph",
+        "main_chunk_id": "cn_1_fulltext_90",
+        "reference_chunk_id": "cn_1_fulltext_183"
+    },
+    {
+        "subject": "ＸＬｏｒｅ项目",
+        "relation": "RELATED_TO",
+        "object": "跨语言知识抽取",
+        "main_chunk_id": "cn_1_fulltext_90",
+        "reference_chunk_id": "cn_1_fulltext_183"
+    },
+    {
+        "subject": "跨语言知识抽取",
+        "relation": "DESCRIBED_IN",
+        "object": "Transfer learning based cross-lingual knowledge extraction for Wikipedia",
+        "main_chunk_id": "cn_1_fulltext_92",
+        "reference_chunk_id": "cn_1_fulltext_185"
+    }
+]
