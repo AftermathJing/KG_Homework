@@ -362,14 +362,14 @@ publication_year / vendor_or_originator: 选择最权威或最常见的一个或
 请严格按照原始 JSON 对象的格式，返回包含 一个 融合后的 JSON 对象的列表。
 
 (例如，对于 Concept 类型):
-[{
+[{{
 "name": "{name}",
 "definition": "...",
 "aliases": ["...", "..."],
 "category": "...",
 "sub_domain": "...",
 "purpose": "..."
-}]
+}}]
 
 4. 开始融合
 """

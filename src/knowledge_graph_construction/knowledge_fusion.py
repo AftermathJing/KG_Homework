@@ -82,7 +82,7 @@ def run_llm_fusion(batch: list, name: str, model, tokenizer, device: str) -> dic
         )
 
         response_str = call_my_4b_model(prompt_text, model, tokenizer, device)
-        fused_entity = json.loads(response_str)  # 预期输出是单个 JSON 对象
+        fused_entity = json.loads(response_str)[0]  # 预期输出是单个 JSON 对象
 
         if isinstance(fused_entity, dict):
             return fused_entity
