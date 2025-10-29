@@ -1,0 +1,726 @@
+[
+    {
+        "id": "cn_2_fulltext_2",
+        "concept": [
+            "知识图谱",
+            "知识抽取",
+            "知识融合",
+            "知识推理",
+            "深度学习",
+            "卷积神经网络",
+            "循环神经网络",
+            "自然语言处理",
+            "语义网",
+            "信息抽取"
+        ],
+        "technology": [
+            "Convolutional Neural Network",
+            "Recurrent Neural Network",
+            "Deep Learning",
+            "Knowledge Extraction",
+            "Knowledge Fusion",
+            "Knowledge Reasoning",
+            "Natural Language Processing",
+            "Semantic Web",
+            "Information Extraction"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_3",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_4",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_5",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_6",
+        "concept": [
+            "知识图谱",
+            "知识抽取",
+            "知识表示",
+            "知识融合",
+            "知识推理",
+            "深度学习",
+            "链接预测",
+            "本体"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_7",
+        "concept": [
+            "命名实体识别",
+            "关系抽取"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_8",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_9",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_10",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_11",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_12",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_13",
+        "concept": [
+            "知识图谱",
+            "知识抽取",
+            "知识融合",
+            "知识计算",
+            "知识推理"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_14",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_15",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_16",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_17",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_18",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_19",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_20",
+        "concept": [
+            "残差膨胀卷积神经网络",
+            "CRF",
+            "CNN",
+            "链接预测",
+            "知识表示学习",
+            "本体"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_21",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_22",
+        "concept": [
+            "LSTM",
+            "BI-LSTM",
+            "BI-LSTM-CRF",
+            "CNN",
+            "命名实体识别"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_23",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_24",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_25",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_26",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_27",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_28",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_29",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_30",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_31",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_32",
+        "concept": [
+            "CNN",
+            "Att-RCNN",
+            "自注意力机制",
+            "BI-GRU",
+            "BI-LSTM",
+            "注意力机制",
+            "关系抽取",
+            "SemEval-2010"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_33",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_34",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_35",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_36",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_37",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_38",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_39",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_40",
+        "concept": [
+            "级联二进制标记框架",
+            "三元组抽取",
+            "EPO_None/Two/Three_Tagging"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_41",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_42",
+        "concept": [
+            "知识融合"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_43",
+        "concept": [
+            "本体"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_44",
+        "concept": [
+            "本体映射",
+            "基于 NLP 的方法",
+            "基于结构的方法",
+            "基于实例的方法"
+        ],
+        "technology": [
+            "Stemming",
+            "AnchorPROMPT"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_45",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_46",
+        "concept": [
+            "知识融合",
+            "实体对齐",
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_47",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_48",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_49",
+        "concept": [
+            "实体对齐"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_50",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_51",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_52",
+        "concept": [
+            "谓词逻辑推理",
+            "本体推理",
+            "一阶归纳学习",
+            "本体寻路"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_53",
+        "concept": [
+            "双层随机游走",
+            "知识推理",
+            "翻译模型",
+            "张量分解",
+            "语义匹配模型"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_54",
+        "concept": [
+            "TransE",
+            "TransR",
+            "TransN",
+            "Rotate"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_55",
+        "concept": [
+            "TransE",
+            "TransE-NA",
+            "RLPTransE"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_56",
+        "concept": [
+            "张量分解",
+            "RESCAL",
+            "TRESCAL"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_57",
+        "concept": [
+            "路径张量分解",
+            "DistMult 模型",
+            "RESCAL"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_58",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_59",
+        "concept": [
+            "知识推理",
+            "神经张量网络"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_60",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_61",
+        "concept": [
+            "知识图谱嵌入",
+            "TransE",
+            "LSTM",
+            "知识推理",
+            "CNN"
+        ],
+        "technology": [
+            "LSTM",
+            "TransE",
+            "CNN"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_62",
+        "concept": [
+            "ConvE",
+            "InteractE"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_63",
+        "concept": [
+            "ConvE"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_64",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_65",
+        "concept": [
+            "ProPPR",
+            "EntitySim",
+            "TypeSim",
+            "GraphLF",
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_66",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_67",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_68",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_69",
+        "concept": [
+            "深度概率逻辑系统"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_70",
+        "concept": [
+            "结构化知识",
+            "信息抽取"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_71",
+        "concept": [
+            "深度学习模块",
+            "逻辑模块",
+            "映射函数",
+            "意见目标抽取任务",
+            "关系抽取任务"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_72",
+        "concept": [
+            "深度学习",
+            "贝叶斯网络",
+            "因果推理",
+            "图网络"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_73",
+        "concept": [
+            "图神经网络",
+            "图卷积网络",
+            "图注意力网络",
+            "RCKD 模型",
+            "RCKC 模型"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_74",
+        "concept": [
+            "TransE",
+            "RCKD",
+            "RCKC"
+        ],
+        "technology": [
+            "TransE"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_75",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_76",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_77",
+        "concept": [
+            "小样本学习",
+            "实体对齐",
+            "知识推理",
+            "动态知识图谱推理",
+            "EvolveGCN",
+            "RNN",
+            "GCN",
+            "跨语言的知识推理"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_78",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_79",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    }
+]

@@ -1,0 +1,746 @@
+[
+    {
+        "id": "cn_2_fulltext_1",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_80",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Big data: a survey"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_81",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_82",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "知识图谱技术综述"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_83",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "知识图谱研究综述"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_84",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_85",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Relation extraction using distant supervision: a survey"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_86",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_87",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "基于深度学习的关系抽取研究综述"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_88",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Knowledge vault：a Web-scale approach to probabilistic knowledge fusion"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_89",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "An end-to-end model for question answering over knowledge base with cross- attention combining global knowledge"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_90",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "SMR：medical knowledge graph embedding for safe medicine recommendation"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_91",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "知识图谱：方法，实践与应用"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_92",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_93",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_94",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_95",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "RelExt：a tool for relation extraction from text in ontology extension"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_96",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_97",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_98",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Preemptive information extraction using unrestricted relation discovery"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_99",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_100",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_101",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "End-to-end sequence labeling via bi- directional LSTM-CNNs-CRF"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_102",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_103",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_104",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_105",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_106",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Chapter-level entity relationship extraction method based on joint learning"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_107",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Natural language processing（almost）from scratch"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_108",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_109",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_110",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Bidirectional LSTM-CRF models for sequence tagging"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_111",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_112",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Effect of character and word features in bidirectional LSTM-CRF for NER"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_113",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_114",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "BERT：pre-training of deep bidirectional transformers for language understanding"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_115",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_116",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_117",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_118",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_119",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Entity relation extraction method based on fusion of multiple information and attention mechanism"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_120",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Semantic compositionality through recursive matrix-vector spaces"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_121",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_122",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_123",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_124",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_125",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_126",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_127",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_128",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_129",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Going out on a limb：joint extraction of entity mentions and relations without dependency trees"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_130",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_131",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_132",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "A novel hierarchical binary tagging framework for relational triple extraction"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_133",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_134",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_135",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "A discriminative hierarchical model for fast coreference at large scale"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_136",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Large-scale collective entity matching"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_137",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Learning first-order horn clauses from Web text"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_138",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Ontological pathfinding：mining first-order knowledge from large knowledge base"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_139",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_140",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Translating representations of knowledge graphs with neighbor［s C］"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_141",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Ontology mapping： the state of the art"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_142",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "A methodology for ontology integration"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_143",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_144",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_145",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "The PROMPT suite：interactive tools for ontology merging and mapping"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_146",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_147",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_148",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_149",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_150",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Typed tensor decomposition of knowledge bases for relation extraction"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_151",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_152",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Embedding entities and relations for learning and inference in knowledge base"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_153",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "基于表示学习和语义要素感知的关系推理算法"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_154",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "InteractE： improving convolution-based knowledge graph embeddings by increasing feature interactions"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_155",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_156",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Personalized recommendations using knowledge graphs: a probabilistic logic programming approach"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_157",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Unifying knowledge graph learning and recommendation: towards a better understanding of user preferences"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_158",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Interpreting CNN knowledge via an explanatory graph"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_159",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Harnessing deep neural networks with logic rules"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_160",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Deep probabilistic logic: a unifying semantical aspect awareness"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_161",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_162",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_163",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Reasoning with neural tensor networks for knowledge base completion"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_164",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_165",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Integrating deep learning with logic fusion for information extraction"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_166",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Theoretical impediments to machine learning with seven sparks from the causal revolution"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_167",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_168",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_169",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_170",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "Convolutional 2D knowledge graph embeddings"
+        ],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_171",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_2_fulltext_172",
+        "concept": [],
+        "technology": [],
+        "document": [
+            "EvolveGCN： evolving graph convolutional networks for dynamic graphs"
+        ],
+        "application": []
+    }
+]

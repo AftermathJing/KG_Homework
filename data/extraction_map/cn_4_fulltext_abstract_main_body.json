@@ -1,0 +1,420 @@
+[
+    {
+        "id": "cn_4_fulltext_2",
+        "concept": [
+            "知识图谱",
+            "本体",
+            "通用知识图谱",
+            "行业知识图谱",
+            "知识图谱构建"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_3",
+        "concept": [
+            "知识图谱",
+            "本体"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_4",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_5",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_6",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_7",
+        "concept": [
+            "本体"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_8",
+        "concept": [
+            "本体",
+            "知识图谱"
+        ],
+        "technology": [
+            "RDFS",
+            "OWL"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_9",
+        "concept": [
+            "知识图谱",
+            "本体",
+            "实体抽取",
+            "关系抽取",
+            "语义解析",
+            "知识表示",
+            "图数据库",
+            "知识融合",
+            "数据集成",
+            "知识推理",
+            "知识地图",
+            "科学知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_10",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_11",
+        "concept": [
+            "引文网络",
+            "科学知识图谱",
+            "知识图谱",
+            "本体",
+            "知识地图"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_12",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_13",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_14",
+        "concept": [
+            "知识图谱",
+            "本体",
+            "WordNet",
+            "CYC",
+            "HowNet",
+            "YAGO",
+            "DBPedia"
+        ],
+        "technology": [
+            "WordNet",
+            "CYC",
+            "HowNet",
+            "YAGO",
+            "DBPedia"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_15",
+        "concept": [
+            "知识图谱",
+            "本体",
+            "通用本体",
+            "领域本体",
+            "通用知识图谱",
+            "行业知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_16",
+        "concept": [
+            "知识图谱",
+            "本体层",
+            "行业知识图谱",
+            "通用知识图谱",
+            "GeoNames",
+            "中医医案知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_17",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_18",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_19",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_20",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_21",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_22",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_23",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": [
+            "Paralex 系统",
+            "Evi",
+            "Siri",
+            "出门问问"
+        ]
+    },
+    {
+        "id": "cn_4_fulltext_24",
+        "concept": [
+            "个性化推荐"
+        ],
+        "technology": [],
+        "document": [],
+        "application": [
+            "电子商务网站个性化推荐"
+        ]
+    },
+    {
+        "id": "cn_4_fulltext_25",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_26",
+        "concept": [
+            "知识图谱",
+            "知识抽取",
+            "实体抽取",
+            "关系抽取",
+            "属性抽取",
+            "本体学习",
+            "命名实体学习"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_27",
+        "concept": [
+            "关系抽取",
+            "属性抽取",
+            "知识融合",
+            "实体对齐"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_28",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_29",
+        "concept": [
+            "本体构建",
+            "实体学习",
+            "本体学习"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_30",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_31",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_32",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_33",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_34",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_35",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_36",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_37",
+        "concept": [
+            "OWL",
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_38",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_39",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_40",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_41",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_42",
+        "concept": [],
+        "technology": [
+            "图数据库"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_43",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_44",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_45",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_4_fulltext_46",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    }
+]

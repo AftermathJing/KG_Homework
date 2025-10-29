@@ -1,0 +1,266 @@
+[
+    {
+        "name": "Paralex 系统",
+        "task_category": "问答系统",
+        "organization": "华盛顿大学",
+        "domain": "通用",
+        "purpose_summary": "提供问答服务",
+        "key_kg_function": "利用知识图谱技术提高问答准确性"
+    },
+    {
+        "name": "Evi",
+        "task_category": "问答系统",
+        "organization": "亚马逊",
+        "domain": "通用",
+        "purpose_summary": "提供问答服务",
+        "key_kg_function": "利用知识图谱技术提高问答准确性"
+    },
+    {
+        "name": "Siri",
+        "task_category": "问答系统",
+        "organization": "苹果",
+        "domain": "通用",
+        "purpose_summary": "提供语音助手服务",
+        "key_kg_function": "利用知识图谱技术提高语音交互准确性"
+    },
+    {
+        "name": "出门问问",
+        "task_category": "问答系统",
+        "organization": "出门问问",
+        "domain": "通用",
+        "purpose_summary": "提供问答服务",
+        "key_kg_function": "利用知识图谱技术提高问答准确性"
+    },
+    {
+        "name": "电子商务网站个性化推荐",
+        "task_category": "推荐系统",
+        "organization": "",
+        "domain": "电商",
+        "purpose_summary": "通过行业知识图谱的丰富知识帮助实现精准营销与推荐",
+        "key_kg_function": "基于知识图谱向用户推荐可能需要的相关知识，包括商品结果、使用建议、搭配等"
+    },
+    {
+        "name": "DBpedia",
+        "task_category": "知识库构建",
+        "organization": "维基百科",
+        "domain": "互联网",
+        "purpose_summary": "构建本体形式的知识条目",
+        "key_kg_function": "利用群体智能建立知识库"
+    },
+    {
+        "name": "YAGO",
+        "task_category": "知识库构建",
+        "organization": "维基百科",
+        "domain": "互联网",
+        "purpose_summary": "融合概念层次结构和实体数据",
+        "key_kg_function": "利用群体智能建立知识库"
+    },
+    {
+        "name": "Freebase",
+        "task_category": "知识库构建",
+        "organization": "维基百科",
+        "domain": "互联网",
+        "purpose_summary": "基于群体智能方法建立结构化数据的知识图谱",
+        "key_kg_function": "利用群体智能建立知识图谱"
+    },
+    {
+        "name": "Xlore",
+        "task_category": "知识库构建",
+        "organization": "清华大学",
+        "domain": "互联网",
+        "purpose_summary": "利用互动百科、百度百科建立大规模知识图谱",
+        "key_kg_function": "利用群体智能建立知识图谱"
+    },
+    {
+        "name": "Zhi Shi.me",
+        "task_category": "知识库构建",
+        "organization": "上海交通大学",
+        "domain": "互联网",
+        "purpose_summary": "利用互动百科、百度百科建立大规模知识图谱",
+        "key_kg_function": "利用群体智能建立知识图谱"
+    },
+    {
+        "name": "语义搜索",
+        "task_category": "语义搜索",
+        "organization": "谷歌、百度、搜狗",
+        "domain": "互联网搜索",
+        "purpose_summary": "改善搜索结果，提供结构化语义内容",
+        "key_kg_function": "利用知识图谱的结构形式进行语义标注和搜索"
+    },
+    {
+        "name": "知识问答",
+        "task_category": "问答系统",
+        "organization": "",
+        "domain": "信息检索",
+        "purpose_summary": "通过知识图谱提供准确的知识答案",
+        "key_kg_function": "利用知识图谱中的实体和关系进行问答"
+    },
+    {
+        "name": "基于知识的大数据分析与决策",
+        "task_category": "数据分析与决策",
+        "organization": "",
+        "domain": "数据分析",
+        "purpose_summary": "利用知识图谱进行大数据分析和决策支持",
+        "key_kg_function": "基于知识图谱进行数据整合和智能分析"
+    },
+    {
+        "name": "WolframAlpha",
+        "task_category": "问答系统",
+        "organization": "Wolfram Research",
+        "domain": "教育",
+        "purpose_summary": "用于数学课堂中的高价值应用",
+        "key_kg_function": "利用知识图谱技术提供数学问题解答和教学支持"
+    },
+    {
+        "name": "Siri",
+        "task_category": "问答系统",
+        "organization": "Apple",
+        "domain": "消费电子",
+        "purpose_summary": "提供语音助手功能，回答用户问题并执行命令",
+        "key_kg_function": "利用知识图谱技术进行语义理解和信息检索"
+    },
+    {
+        "name": "知网（ＨｏｗＮｅｔ）",
+        "task_category": "知识库构建",
+        "organization": "中国科学院计算机语言信息中心",
+        "domain": "学术",
+        "purpose_summary": "构建高质量的知识库",
+        "key_kg_function": "知识存储与检索"
+    },
+    {
+        "name": "ＸＬｏｒｅ",
+        "task_category": "知识图谱构建",
+        "organization": "清华大学",
+        "domain": "学术界",
+        "purpose_summary": "建设大规模中英文跨语言知识图谱",
+        "key_kg_function": "支持跨语言知识表示和查询"
+    },
+    {
+        "name": "人立方、事立方、知立方",
+        "task_category": "知识图谱构建",
+        "organization": "中国科学院计算技术研究所",
+        "domain": "学术界",
+        "purpose_summary": "建立知识图谱原型系统",
+        "key_kg_function": "支持知识图谱的构建和应用"
+    },
+    {
+        "name": "知件（Ｋｎｏｗｗａｒｅ）",
+        "task_category": "知识图谱构建",
+        "organization": "中国科学院数学与系统科学研究院",
+        "domain": "学术界",
+        "purpose_summary": "提出知识图谱相关概念",
+        "key_kg_function": "支持知识图谱的理论研究"
+    },
+    {
+        "name": "ｚｈｉｓｈｉ．ｍｅ",
+        "task_category": "知识图谱构建",
+        "organization": "上海交通大学",
+        "domain": "学术界",
+        "purpose_summary": "构建并发布中文知识图谱研究平台",
+        "key_kg_function": "支持知识图谱的构建和应用"
+    },
+    {
+        "name": "中文知识图谱项目",
+        "task_category": "知识图谱构建",
+        "organization": "复旦大学ＧＤＭ实验",
+        "domain": "学术界",
+        "purpose_summary": "建设中文知识图谱",
+        "key_kg_function": "支持知识图谱的构建和应用"
+    },
+    {
+        "name": "Apple Siri",
+        "task_category": "问答系统",
+        "organization": "Apple",
+        "domain": "消费电子",
+        "purpose_summary": "提供语音助手功能，帮助用户完成任务和查询信息。",
+        "key_kg_function": "利用知识图谱技术来提供准确和快速的答案。"
+    },
+    {
+        "name": "Google Now",
+        "task_category": "问答系统",
+        "organization": "Google",
+        "domain": "消费电子",
+        "purpose_summary": "提供智能助手功能，帮助用户完成任务和查询信息。",
+        "key_kg_function": "利用知识图谱技术来提供准确和快速的答案。"
+    },
+    {
+        "name": "知立方",
+        "task_category": "语义理解",
+        "organization": "搜狗",
+        "domain": "互联网",
+        "purpose_summary": "利用知识图谱技术进行逻辑推理计算和语义理解",
+        "key_kg_function": "基于语义网三元组推理补充实体数据，进行语义理解以及句法分析"
+    },
+    {
+        "name": "Ｘｌｉｋｅ项目",
+        "task_category": "跨语言知识抽取",
+        "organization": "欧盟",
+        "domain": "媒体、商业智能",
+        "purpose_summary": "整合全球主流媒体知识，实现跨语言的信息发布、媒体监督和商业智能服务",
+        "key_kg_function": "跨语言知识抽取技术"
+    },
+    {
+        "name": "ＸＬｏｒｅ项目",
+        "task_category": "跨语言知识图谱构建",
+        "organization": "清华大学",
+        "domain": "互联网、知识问答",
+        "purpose_summary": "构建基于中英文的跨语言知识图谱，提供中英文知识问答服务",
+        "key_kg_function": "跨语言知识图谱构建"
+    },
+    {
+        "name": "Google Now",
+        "task_category": "个人助理",
+        "organization": "Google",
+        "domain": "科技",
+        "purpose_summary": "提供个性化信息和服务",
+        "key_kg_function": "利用知识图谱技术组织和管理信息"
+    },
+    {
+        "name": "Apple Siri",
+        "task_category": "个人助理",
+        "organization": "Apple",
+        "domain": "科技",
+        "purpose_summary": "提供语音控制的个人助理服务",
+        "key_kg_function": "利用知识图谱技术组织和管理信息"
+    },
+    {
+        "name": "IBM Watson",
+        "task_category": "深度问答系统",
+        "organization": "IBM",
+        "domain": "科技",
+        "purpose_summary": "提供复杂的问答和推理能力",
+        "key_kg_function": "利用知识图谱技术进行推理和问答"
+    },
+    {
+        "name": "Wolfram Alpha",
+        "task_category": "深度问答系统",
+        "organization": "Wolfram Research",
+        "domain": "科技",
+        "purpose_summary": "提供事实性和计算性知识",
+        "key_kg_function": "利用知识图谱技术进行问答和计算"
+    },
+    {
+        "name": "Jacona-Freebase系统",
+        "task_category": "问答系统",
+        "organization": "未提及",
+        "domain": "未提及",
+        "purpose_summary": "基于信息检索的问答系统",
+        "key_kg_function": "利用知识图谱技术进行结构化查询和答案生成"
+    },
+    {
+        "name": "Paralex系统",
+        "task_category": "问答系统",
+        "organization": "未提及",
+        "domain": "未提及",
+        "purpose_summary": "基于信息检索的问答系统",
+        "key_kg_function": "利用知识图谱技术进行结构化查询和答案生成"
+    },
+    {
+        "name": "SEMPRE系统",
+        "task_category": "问答系统",
+        "organization": "斯坦福大学",
+        "domain": "未提及",
+        "purpose_summary": "基于语义分析的问答系统",
+        "key_kg_function": "利用知识图谱技术进行语义分析和答案生成"
+    }
+]

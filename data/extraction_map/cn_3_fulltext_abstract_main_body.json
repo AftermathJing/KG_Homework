@@ -1,0 +1,275 @@
+[
+    {
+        "id": "cn_3_fulltext_2",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_3",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_4",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_5",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_6",
+        "concept": [
+            "知识图谱",
+            "信息抽取",
+            "机器学习",
+            "人工智能",
+            "知识推理",
+            "实体",
+            "关系",
+            "事实"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_7",
+        "concept": [
+            "知识图谱",
+            "群体智能",
+            "维基百科",
+            "DBpedia",
+            "YAGO",
+            "Freebase",
+            "本体",
+            "互动百科",
+            "百度百科",
+            "XLore",
+            "ZhiShi.me"
+        ],
+        "technology": [],
+        "document": [],
+        "application": [
+            "DBpedia",
+            "YAGO",
+            "Freebase",
+            "Xlore",
+            "Zhi Shi.me"
+        ]
+    },
+    {
+        "id": "cn_3_fulltext_8",
+        "concept": [],
+        "technology": [
+            "跨语言链接技术",
+            "Linked Open Data (LOD)",
+            "科学领域语义数据资源"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_9",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_10",
+        "concept": [
+            "知识表示技术",
+            "符号主义",
+            "联结主义",
+            "物理符号系统假设",
+            "知识表示",
+            "逻辑表示法",
+            "产生式表示法",
+            "框架表示",
+            "一阶逻辑",
+            "描述逻辑"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_11",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_12",
+        "concept": [
+            "语义网",
+            "XML",
+            "RDF",
+            "OWL"
+        ],
+        "technology": [
+            "XML",
+            "RDF",
+            "OWL"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_13",
+        "concept": [
+            "知识表示学习",
+            "张量重构",
+            "势能函数",
+            "TransE"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_14",
+        "concept": [
+            "TransE",
+            "知识表示学习"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_15",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_16",
+        "concept": [
+            "概念层次学习"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_17",
+        "concept": [
+            "知识图谱",
+            "知识图谱构建方法",
+            "有监督的知识图谱构建方法",
+            "半监督的知识图谱构建方法",
+            "无监督的知识图谱构建方法",
+            "基于规则学习的语义标注方法",
+            "基于分类的知识获取方法",
+            "基于序列模式标注的方法"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_18",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_19",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_20",
+        "concept": [
+            "语义集成",
+            "本体映射",
+            "基于文本的方法",
+            "基于结构的方法",
+            "Sim-Rank",
+            "相似度传播"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_21",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_22",
+        "concept": [
+            "知识图谱",
+            "语义搜索",
+            "ＲＤＦ",
+            "ＯＷＬ",
+            "链接数据",
+            "知识抽取"
+        ],
+        "technology": [
+            "RDF",
+            "OWL"
+        ],
+        "document": [],
+        "application": [
+            "语义搜索",
+            "知识问答",
+            "基于知识的大数据分析与决策"
+        ]
+    },
+    {
+        "id": "cn_3_fulltext_23",
+        "concept": [
+            "知识问答"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_24",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_3_fulltext_25",
+        "concept": [
+            "知识图谱",
+            "知识表示",
+            "知识获取",
+            "知识图谱构建",
+            "知识驱动的智能信息处理应用"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    }
+]

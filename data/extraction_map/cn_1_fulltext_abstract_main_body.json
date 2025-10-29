@@ -1,0 +1,943 @@
+[
+    {
+        "id": "cn_1_fulltext_2",
+        "concept": [
+            "知识图谱",
+            "信息抽取",
+            "知识融合",
+            "知识加工",
+            "语义网",
+            "语义搜索引擎",
+            "自然语言处理"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_3",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_4",
+        "concept": [
+            "知识图谱",
+            "搜索引擎"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_5",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_6",
+        "concept": [
+            "数据链接",
+            "URI",
+            "RDF",
+            "OWL",
+            "知识图谱"
+        ],
+        "technology": [
+            "URI",
+            "RDF",
+            "OWL"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_7",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": [
+            "知网（ＨｏｗＮｅｔ）"
+        ]
+    },
+    {
+        "id": "cn_1_fulltext_8",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": [
+            "ＸＬｏｒｅ",
+            "人立方、事立方、知立方",
+            "知件（Ｋｎｏｗｗａｒｅ）",
+            "ｚｈｉｓｈｉ．ｍｅ",
+            "中文知识图谱项目"
+        ]
+    },
+    {
+        "id": "cn_1_fulltext_9",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_10",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_11",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": [
+            "Apple Siri",
+            "Google Now"
+        ]
+    },
+    {
+        "id": "cn_1_fulltext_12",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": [
+            "知立方"
+        ]
+    },
+    {
+        "id": "cn_1_fulltext_13",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_14",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_15",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_16",
+        "concept": [],
+        "technology": [
+            "图数据库"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_17",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_18",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_19",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_20",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_21",
+        "concept": [
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_22",
+        "concept": [
+            "信息抽取",
+            "实体抽取",
+            "关系抽取",
+            "属性抽取"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_23",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_24",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_25",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_26",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_27",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_28",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_29",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_30",
+        "concept": [
+            "实体关系抽取"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_31",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_32",
+        "concept": [],
+        "technology": [
+            "开放信息抽取（OIE）",
+            "TextRunner"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_33",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_34",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_35",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_36",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_37",
+        "concept": [
+            "ＯＩＥ 系统",
+            "Ｎ 元关系模型",
+            "ＫＲＡＫＥＮ 模型",
+            "后期关系推理"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_38",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_39",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_40",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_41",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_42",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_43",
+        "concept": [
+            "实体链接"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_44",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_45",
+        "concept": [
+            "实体消歧"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_46",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_47",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_48",
+        "concept": [
+            "百科知识模型"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_49",
+        "concept": [
+            "主题模型",
+            "Linde模型",
+            "生成模型"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_50",
+        "concept": [
+            "实体消歧技术"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_51",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_52",
+        "concept": [
+            "对象对齐",
+            "实体匹配",
+            "实体同义",
+            "共指消解",
+            "Ｈｏｂｂｓ算法",
+            "向心理论"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_53",
+        "concept": [
+            "Ｈｏｂｂｓ算法"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_54",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_55",
+        "concept": [
+            "共指消解"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_56",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_57",
+        "concept": [
+            "共指消解"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_58",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_59",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_60",
+        "concept": [
+            "知识库融合"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_61",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_62",
+        "concept": [],
+        "technology": [
+            "RDF",
+            "Triply",
+            "D2R Server",
+            "OpenLink Virtuoso",
+            "SPARQL Map"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_63",
+        "concept": [],
+        "technology": [
+            "Direct Mapping",
+            "R2RML"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_64",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_65",
+        "concept": [],
+        "technology": [
+            "XSPARQL",
+            "DataLift"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_66",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_67",
+        "concept": [
+            "本体"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_68",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_69",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_70",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_71",
+        "concept": [
+            "分布相似度"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_72",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_73",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_74",
+        "concept": [
+            "实体聚类方法",
+            "主题模型",
+            "单词共现网络",
+            "本体结构",
+            "贝叶斯模型"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_75",
+        "concept": [
+            "知识推理"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_76",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_77",
+        "concept": [
+            "描述逻辑",
+            "本体",
+            "知识库",
+            "ＴＢｏｘ",
+            "ＡＢｏｘ"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_78",
+        "concept": [
+            "一致性检验",
+            "本体",
+            "Web本体语言（OWL）",
+            "语义Web规则语言（SWRL）",
+            "关系推理"
+        ],
+        "technology": [
+            "OWL",
+            "SWRL"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_79",
+        "concept": [
+            "基于神经网络模型的推理方法",
+            "PathRanking算法",
+            "神经张量网络模型",
+            "知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_80",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_81",
+        "concept": [
+            "跨知识库的知识推理"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_82",
+        "concept": [
+            "质量评估"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_83",
+        "concept": [
+            "质量评估方法",
+            "逻辑斯蒂回归模型"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_84",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_85",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_86",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_87",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_88",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_89",
+        "concept": [
+            "跨语言知识图谱"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_90",
+        "concept": [
+            "跨语言知识抽取"
+        ],
+        "technology": [],
+        "document": [],
+        "application": [
+            "Ｘｌｉｋｅ项目",
+            "ＸＬｏｒｅ项目"
+        ]
+    },
+    {
+        "id": "cn_1_fulltext_91",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_92",
+        "concept": [
+            "跨语言知识抽取"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_93",
+        "concept": [
+            "知识链接",
+            "本体映射",
+            "本体"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_94",
+        "concept": [
+            "跨语言本体映射",
+            "单语种本体映射"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_95",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_96",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_97",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": [
+            "Google Now",
+            "Apple Siri",
+            "IBM Watson",
+            "Wolfram Alpha"
+        ]
+    },
+    {
+        "id": "cn_1_fulltext_98",
+        "concept": [],
+        "technology": [
+            "SPARQL"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_99",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_100",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": [
+            "Jacona-Freebase系统",
+            "Paralex系统",
+            "SEMPRE系统"
+        ]
+    },
+    {
+        "id": "cn_1_fulltext_101",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_102",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_103",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_104",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_105",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_106",
+        "concept": [
+            "实体链接",
+            "实体消歧",
+            "共指消解",
+            "外部知识库融合",
+            "关系数据库知识融合",
+            "知识加工",
+            "本体"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_107",
+        "concept": [
+            "本体构建",
+            "知识质量评估",
+            "知识推理",
+            "增量更新技术"
+        ],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_108",
+        "concept": [],
+        "technology": [
+            "图数据库",
+            "SQL"
+        ],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_109",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    },
+    {
+        "id": "cn_1_fulltext_110",
+        "concept": [],
+        "technology": [],
+        "document": [],
+        "application": []
+    }
+]
