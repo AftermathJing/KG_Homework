@@ -19,8 +19,8 @@ from unstructured.documents.elements import (
 # --- 全局配置 ---
 
 # 1. 路径配置
-INPUT_DIR = "../../data/raw/overview/pdf"
-OUTPUT_DIR = "../../data/raw/overview/txt"
+INPUT_DIR = "./data/raw/overview/pdf"
+OUTPUT_DIR = "./data/raw/overview/txt"
 
 # 2. 丢弃过短的文字块
 MIN_CHUNK_LENGTH = 20

@@ -286,8 +286,8 @@ def parse_paper_txt(input_filepath, output_dir):
 
 # --- 运行示例 ---
 if __name__ == "__main__":
-    TEST_TXT_FILENAME = "../../data/raw/overview/txt/cn_4_fulltext.txt"
-    TEST_OUTPUT_DIR = "../../data/raw/overview/json"
+    TEST_TXT_FILENAME = "./data/raw/overview/txt/cn_4_fulltext.txt"
+    TEST_OUTPUT_DIR = "./data/raw/overview/json"
 
     # 运行解析器
     parse_paper_txt(TEST_TXT_FILENAME, TEST_OUTPUT_DIR)

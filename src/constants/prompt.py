@@ -176,3 +176,81 @@ APPLICATION_EXTRACTION_TEMPLATE = """# 任务：知识图谱 "应用" 实体抽�
 
 ## 开始抽取：
 """
+
+"""
+关系抽取 (Relationship Extraction) Prompt
+"""
+
+RELATION_EXTRACTION_TEMPLATE = """# 任务：知识图谱关系抽取 (Task: Knowledge Graph Relation Extraction)
+
+你是一个精准的关系抽取助手。
+你的任务是从给定的 "Content" (原始文本) 中，找出 "Entity Lists" (实体列表) 中实体之间存在的关系。
+
+## 1. 约束条件 (Rules)
+1.  你必须只从 "Entity Lists" 提供的四个列表中选择实体作为关系的主语 (Subject) 和宾语 (Object)。
+2.  你必须只使用以下定义的 "Relation List" (关系列表) 中的关系。
+3.  关系必须在 "Content" 文本中有明确或强烈的暗示。
+4.  主语 (Subject) 和宾语 (Object) 不能是同一个实体。
+
+## 2. 实体类型定义 (Entity Types Definition)
+这是你需要处理的四类实体：
+* `Concepts`: 抽象思想、模型、任务 (例如: "知识表示学习", "TransE")。
+* `Technologies`: 具体工具、平台、语言 (例如: "Neo4j", "SPARQL")。
+* `Documents`: 论文、博客、报告 (例如: "Translating Embeddings...")。
+* `Applications`: 具体产品、系统 (例如: "Siri", "Google 搜索")。
+
+## 3. 关系列表 (Relation List) - 你只能使用这 6 种
+* `IS_A`: (是一个) 表示子类或实例关系。
+* `RELATED_TO`: (相关于) 表示两个实体在上下文中相关。
+* `IMPLEMENTS`: (实现) 表示一个技术实现了一个概念，或一个应用实现了一个任务。
+* `USES`: (使用) 表示一个应用/技术使用了另一个技术/概念。
+* `DESCRIBED_IN`: (记载于) 表示一个实体被一个文档描述。
+* `CREATED_BY`: (创建于) 表示一个产品或技术由某个组织创建。
+
+## 4. 推荐的关系模式 (Recommended Patterns)
+请优先寻找符合以下模式的关系：
+* (Concept) - `IS_A` -> (Concept)
+* (Concept) - `RELATED_TO` -> (Concept)
+* (Technology) - `IMPLEMENTS` -> (Concept)
+* (Application) - `IMPLEMENTS` -> (Concept)
+* (Application) - `USES` -> (Technology)
+* (Application) - `USES` -> (Concept)
+* (Technology) - `USES` -> (Concept)
+* (Concept) - `DESCRIBED_IN` -> (Document)
+* (Technology) - `DESCRIBED_IN` -> (Document)
+* (Application) - `DESCRIBED_IN` -> (Document)
+* (Application) - `CREATED_BY` -> (Concept or Application)  (例如 "Apple" 必须在列表中)
+
+## 5. 输入数据 (Input)
+
+### 5.1 实体列表 (Entity Lists)
+(这些是已从文本中提取的、允许你使用的实体，按类型分类)
+
+**Concepts (概念):**
+{concept_list_json}
+
+**Technologies (技术):**
+{technology_list_json}
+
+**Documents (文档):**
+{document_list_json}
+
+**Applications (应用):**
+{application_list_json}
+
+### 5.2 原始文本 (Content)
+{content}
+
+## 6. 输出格式 (Output)
+请严格按照以下 JSON 列表格式返回你抽取到的关系三元组。
+三元组的格式必须是: `["Subject Entity Name", "RELATION_TYPE", "Object Entity Name"]`
+如果找不到任何关系，请返回一个空列表 `[]`。
+
+[
+  ["Subject Entity Name", "RELATION_TYPE", "Object Entity Name"],
+  ["...", "...", "..."]
+]
+
+## 7. 开始抽取
+"""
+
