@@ -327,3 +327,49 @@ REFERENCE_LINKING_TEMPLATE = """# 任务：正文-参考文献 关系链接
 ## 7. 开始抽取
 """
 
+
+"""
+实体融合 Prompt
+"""
+
+ENTITY_FUSION_TEMPLATE = """任务：知识图谱实体融合
+
+你是一个知识融合专家。你的任务是读取一个 JSON 列表，其中包含多个关于 同一个实体 (同名) 的信息，并将它们融合成一个 单一的、权威的 JSON 对象。
+
+1. 约束条件 (Rules)
+
+输入是一个 JSON 列表 (N 个实体)。
+
+输出必须是 一个 JSON 对象 (1 个实体)。
+
+name (或 title): 保持不变，因为它们都是一样的。
+
+definition / abstract_or_summary / purpose: 从列表中选择一个最清晰、最完整、最准确的描述，如果列表中的描述均不能满足要求，则根据这些描述生成一份清晰、完整、准确的描述，**注意生成的时候必须贴近原描述**。
+
+aliases / key_features: 合并所有列表，并去除重复项。
+
+category / sub_domain / organization / domain / task_category: 从列表中选择最常见 (most common) 或最准确 (most specific) 的一个或几个。
+
+publication_year / vendor_or_originator: 选择最权威或最常见的一个或几个。
+
+2. 输入数据 (Input)
+
+(这是一个 JSON 列表，包含 {count} 个关于 "{name}" 的实体)
+{entity_list_json}
+
+3. 输出格式 (Output)
+
+请严格按照原始 JSON 对象的格式，返回 一个 融合后的 JSON 对象。
+
+(例如，对于 Concept 类型):
+{{
+"name": "{name}",
+"definition": "...",
+"aliases": ["...", "..."],
+"category": "...",
+"sub_domain": "...",
+"purpose": "..."
+}}
+
+4. 开始融合
+"""
