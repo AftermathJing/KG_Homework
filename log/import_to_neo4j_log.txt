@@ -1,0 +1,31 @@
+Successfully connected to Neo4j at neo4j+ssc://a3d54e0b.databases.neo4j.io
+Constraint created for :Application(name)
+Constraint created for :Concept(name)
+Constraint created for :Document(title)
+Constraint created for :Technology(name)
+
+Importing nodes from ./data/KG/entity/application.json as :Application...
+  ... processed 30/30 nodes (merged 30 total)
+Finished importing :Application. Total merged: 30, Total skipped: 0
+
+Importing nodes from ./data/KG/entity/concept.json as :Concept...
+  ... processed 209/209 nodes (merged 209 total)
+Finished importing :Concept. Total merged: 209, Total skipped: 0
+
+Importing nodes from ./data/KG/entity/document.json as :Document...
+  ... processed 120/120 nodes (merged 119 total)
+      -> SKIPPED 1 nodes in this batch (null primary key: 'title')
+Finished importing :Document. Total merged: 119, Total skipped: 1
+
+Importing nodes from ./data/KG/entity/technology.json as :Technology...
+  ... processed 43/43 nodes (merged 43 total)
+Finished importing :Technology. Total merged: 43, Total skipped: 0
+
+Importing relationships from ./data/KG/relationship/all_relations_fused.json...
+  ... processed 581/581 relations (created 523 new)
+Finished importing relationships. Total created: 523
+
+--- Import Complete! ---
+Neo4j connection closed.
+
+Process finished with exit code 0
