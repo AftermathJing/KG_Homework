@@ -254,3 +254,76 @@ RELATION_EXTRACTION_TEMPLATE = """# 任务：知识图谱关系抽取 (Task: Kno
 ## 7. 开始抽取
 """
 
+
+"""
+参考文献链接 (Reference Linking) Prompt
+"""
+
+REFERENCE_LINKING_TEMPLATE = """# 任务：正文-参考文献 关系链接
+
+你是一个精准的关系链接助手。
+你的任务是基于"正文"（其中包含引用）和它所引用的"参考文献"的文本，
+找出 "正文实体" 和 "参考文献实体" 之间的关系。
+
+## 1. 背景
+"正文" (Main Content) 是一段普通文本，它引用了 "参考文献" (Reference Content)。
+你需要阅读这两段文本，并在两组实体列表之间建立联系。
+
+## 2. 约束条件 (Rules)
+1.  你必须只从 "正文实体" 和 "参考文献实体" 提供的列表中选择实体。
+2.  你必须只使用以下定义的 "Relation List" (关系列表)。
+3.  关系必须在两段文本的综合上下文中得到支持。
+4.  请**重点关注** "正文实体" 和 "参考文献实体" 之间的**跨组关系**。
+
+## 3. 关系列表 (Relation List) - 你只能使用这 6 种
+* `IS_A`: (是一个) 表示子类或实例关系。
+* `RELATED_TO`: (相关于) 表示两个实体在上下文中相关。
+* `IMPLEMENTS`: (实现) 表示一个技术实现了一个概念，或一个应用实现了一个任务。
+* `USES`: (使用) 表示一个应用/技术使用了另一个技术/概念。
+* `DESCRIBED_IN`: (记载于) **(高频)** 表示一个概念/技术在参考文献中被描述。
+* `CREATED_BY`: (创建于) 表示一个产品或技术由某个组织创建。
+
+## 4. 推荐的关系模式 (Recommended Patterns)
+请优先寻找符合以下模式的关系：
+* (正文 Concept) - `DESCRIBED_IN` -> (参考文献 Document)
+* (正文 Concept) - `RELATED_TO` -> (参考文献 Concept)
+* (正文 Technology) - `DESCRIBED_IN` -> (参考文献 Document)
+* (正文 Entity) - `IS_A` -> (参考文献 Entity)
+
+## 5. 输入数据 (Input)
+
+### 5.1 正文 (Main Content)
+(这是发现引用的地方)
+{main_content}
+
+### 5.2 参考文献 (Reference Content)
+(这是被引用的参考文献的文本)
+{ref_content}
+
+### 5.3 实体列表 (Entity Lists)
+
+**正文实体 (Main Content Entities):**
+* Concepts: {main_concept_list_json}
+* Technologies: {main_tech_list_json}
+* Documents: {main_doc_list_json}
+* Applications: {main_app_list_json}
+
+**参考文献实体 (Reference Entities):**
+* Concepts: {ref_concept_list_json}
+* Technologies: {ref_tech_list_json}
+* Documents: {ref_doc_list_json}
+* Applications: {ref_app_list_json}
+
+## 6. 输出格式 (Output)
+请严格按照以下 JSON 列表格式返回你抽取到的关系三元组。
+三元组的格式必须是: `["Subject Entity Name", "RELATION_TYPE", "Object Entity Name"]`
+如果找不到任何关系，请返回一个空列表 `[]`。
+
+[
+  ["Subject Entity Name", "RELATION_TYPE", "Object Entity Name"],
+  ["...", "...", "..."]
+]
+
+## 7. 开始抽取
+"""
+
