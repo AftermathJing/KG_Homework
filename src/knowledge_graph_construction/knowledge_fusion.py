@@ -70,7 +70,7 @@ def fuse_relations():
         logging.error(f"写入融合关系文件时出错: {e}")
 
 
-async def run_llm_fusion(batch: list, name: str, model, tokenizer, device: str) -> dict | None:
+def run_llm_fusion(batch: list, name: str, model, tokenizer, device: str) -> dict | None:
     """
     调用 LLM 执行单个批次的融合。
     """
