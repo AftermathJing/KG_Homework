@@ -2,3 +2,15 @@ nltk
 unstructured
 pi_heif
 pdf2image
+# LangChain 核心包
+langchain
+# LangChain 与 OpenAI 兼容 API (用于连接本地 Qwen) 和 Community 包
+langchain-openai
+langchain-community
+langchain_neo4j
+langchain_huggingface
+# Neo4j 数据库驱动
+neo4j
+torch
+transformers
+accelerate

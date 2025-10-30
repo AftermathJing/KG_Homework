@@ -373,3 +373,43 @@ publication_year / vendor_or_originator: 选择最权威或最常见的一个或
 
 4. 开始融合
 """
+
+
+# Cypher 生成提示词
+CYPHER_GENERATION_TEMPLATE = """任务: 生成 Cypher 语句来查询图数据库。
+说明:
+1. 只能使用下面 "Schema" 中提供的节点标签、关系类型和属性。
+2. 不要使用 "Schema" 中未提供的任何元素。
+
+**!! 关键自定义规则 !!**:
+此图谱中的所有关系类型都是 `:RELATES`。
+关系的**真正含义** (例如 'USES', 'CITES', 'DEFINES') 存储在 `:RELATES` 关系的 `type` 属性中。
+
+**Cypher 查询示例**:
+- 查找 "Paralex 系统" "使用" 了什么技术:
+  `MATCH (a:Application {{name: 'Paralex 系统'}})-[r:RELATES {{type: 'USES'}}]->(t:Technology) RETURN t.name`
+- 查找 "知识图谱" 的 "定义":
+  `MATCH (c:Concept {{name: '知识图谱'}}) RETURN c.definition`
+- 查找 "DBpedia" 论文的 "作者":
+  `MATCH (d:Document {{title: 'DBpedia: A Nucleus for a Web of Open Data'}}) RETURN d.authors`
+
+Schema:
+{schema}
+
+注意: 你的回答中不要包含任何解释或道歉。
+不要返回除了 Cypher 语句之外的任何文本。
+
+问题: {question}
+Cypher 查询:"""
+
+
+# 这个提示词获取 Cypher 的查询结果 (context) 并生成自然语言回答
+QA_TEMPLATE = """您是一个知识图谱问答助手。
+根据原始问题和从数据库检索到的上下文信息（Cypher查询结果），请给出一个友好、完整、准确的中文回答。
+如果上下文信息为空或不足以回答问题，请礼貌地说明您在知识图谱中找不到该信息。
+
+原始问题: {question}
+数据库上下文: {context}
+
+您的回答 (请使用中文):
+"""
