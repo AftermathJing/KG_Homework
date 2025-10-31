@@ -119,7 +119,10 @@ def import_nodes(driver, config, batch_size):
 
 
 def get_relationship_query(node_configs):
-    """动态构建用于匹配关系中 subject 和 object 的 Cypher 查询"""
+    """
+    动态构建用于匹配关系中 subject 和 object 的 Cypher 查询。
+    使用 APOC 来创建动态关系类型。
+    """
 
     s_matches = []
     for cfg in node_configs:
@@ -135,6 +138,7 @@ def get_relationship_query(node_configs):
         o_matches.append(f"OPTIONAL MATCH (o_{label.lower()}:{label} {{{pk}: row.object}})")
     o_coalesce = ", ".join([f"o_{cfg['label'].lower()}" for cfg in node_configs])
 
+    # --- 查询已修改 ---
     query = f"""
     UNWIND $batch as row
 
@@ -148,9 +152,13 @@ def get_relationship_query(node_configs):
     WITH s, row, coalesce({o_coalesce}) AS o
     WHERE o IS NOT NULL
 
-    // 3. 创建关系
-    MERGE (s)-[r:RELATES {{type: row.relation}}]->(o)
-    RETURN count(r) AS created_count
+    // 3. 创建关系 (使用 APOC 实现动态类型)
+    // 我们使用 apoc.merge.relationship 来代替 MERGE
+    // apoc.merge.relationship(startNode, relationshipType, identProps, mergeProps, endNode)
+    // row.relation 将被用作关系的 *标签* (类型)
+    CALL apoc.merge.relationship(s, row.relation, {{}}, {{}}, o) YIELD rel
+
+    RETURN count(rel) AS created_count
     """
 
     return query
